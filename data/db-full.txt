@@ -27,6 +27,8 @@ about
 above
 abreast
 abrogate
+abrogated
+abrogates
 abscond
 absconded
 absconding
@@ -5352,6 +5354,7 @@ reserved
 reserves
 reserving
 reset
+reseted
 resets
 reshape
 reshaped

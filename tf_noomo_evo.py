@@ -14,6 +14,8 @@ filepath = "data/temp.txt"
 with open("data/db-full.txt", "r", encoding="utf-8") as f:
     word_set = set([line.strip() for line in f if line.strip()])
 
+word_set = sorted(word_set)
+
 count = 0
 with open(filepath, "w", encoding="utf-8") as f_out:
     for w in word_set:
