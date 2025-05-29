@@ -31,7 +31,7 @@ tokenizer.normalizer = Sequence([Lowercase()])
 tokenizer.pre_tokenizer = ByteLevel()
 tokenizer.decoder = ByteLevelDecoder()
 
-trainer = BpeTrainer(vocab_size=50000, initial_alphabet=ByteLevel.alphabet(), min_frequency=1,
+trainer = BpeTrainer(vocab_size=50000, initial_alphabet=ByteLevel.alphabet(), min_frequency=2,
                     special_tokens=["<pad>", "<s>", "</s>", "<unk>", "<mask>"]
                     )
 
@@ -79,31 +79,31 @@ if __name__ == '__main__':
 
     print(f"{len(word_set)}: {count}")
 
-    print_tokenization("Learning learns learned hears is hearing")
+    print_tokenization("Learning learning learns learned hears is hearing")
 
     # print_tokenization("Do doing does teach teacher teaching")
 
-    # print_tokenization("Wear wears wearing his this are wanting wanted wants")
+    print_tokenization("Wear wear wears wearing his this are wanting wanted wants")
 
     # print_tokenization("All is as was running were will")
 
-    # print_tokenization("Here where there no nope not therefore anywhere still fill ill")
+    print_tokenization("Here where there no nope not therefore anywhere still fill ill")
 
     # print_tokenization(
     #     "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end")
 
-    # print_tokenization("postfix prefix international putting forever somewhere never profession professional")
+    print_tokenization("postfix prefix international putting forever somewhere never profession professional")
 
-    # print_tokenization("come become commit comes common cannot can't sooner")
+    print_tokenization("come become commit comes common cannot can't sooner")
 
-    # print_tokenization("gather gathering gathered together more she because didn't")
+    print_tokenization("gather gathering gathered together more she because didn't")
 
-    # print_tokenization("Ask ask task mask tasking masking")
+    print_tokenization("Ask ask task mask tasking masking")
 
-    # print_tokenization("you young your yours we were mostly")
+    print_tokenization("you you young your yours we were mostly")
 
-    # print_tokenization("us use used uses using usual usually known knows whenever everyday illness seemingly")
+    print_tokenization("us us use used uses using usual usually known knows whenever everyday illness seemingly")
 
-    # print_tokenization("densemind")
+    print_tokenization("densemind")
 
 
