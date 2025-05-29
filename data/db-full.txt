@@ -842,6 +842,7 @@ celebrate
 celebrated
 celebrates
 centralize
+centralizes
 certainly
 certify
 chained
@@ -7206,6 +7207,7 @@ accordant
 account's
 accountability
 accountable
+accountants
 accounts
 accrue
 accumulation
@@ -7486,6 +7488,7 @@ ai-native
 ai-optimized
 ai-powered
 ai-product
+ai-ready
 ai-regulating
 ai-related
 ai-specific
@@ -7775,6 +7778,7 @@ appliance
 appliances
 applicability
 applicable
+applicant
 applicants
 application
 application's
@@ -8144,6 +8148,7 @@ avowedly
 awaitable
 awakening
 awaking
+award-winning
 awareness
 awe
 awes
@@ -8221,6 +8226,8 @@ bandied
 bands
 bandwidth
 banished
+bank
+banking
 banner
 bar
 bard
@@ -8534,6 +8541,7 @@ bridge
 bridges
 brief
 briefing
+briefings
 briefs
 bright
 brightened
@@ -8571,6 +8579,7 @@ bst
 btree
 bucket
 budget
+budgeting
 buffer
 buffering
 buffers
@@ -8652,6 +8661,7 @@ cache
 cache-control
 cacheable
 caching
+cad
 calculable
 calculation
 calculations
@@ -8814,6 +8824,7 @@ chaining
 chains
 chair
 challenge
+challenger
 challenges
 champion
 championship
@@ -9318,6 +9329,7 @@ complexities
 complexity
 complexly
 compliance
+compliances
 compliant
 complication
 complications
@@ -10428,6 +10440,7 @@ developer's
 developers
 development
 development-oriented
+development-ready
 developmental
 developments
 deviation
@@ -10462,6 +10475,7 @@ diagonally
 diagonals
 diagram
 diagrammatic
+diagramming
 diagrams
 dial-up
 dialect
@@ -10546,6 +10560,7 @@ directive
 directives
 director
 directories
+directors
 directory
 directory-level
 directx
@@ -11619,6 +11634,7 @@ face
 face-to-face
 facebook
 facebook's
+faceless
 faces
 facet
 facetime
@@ -11925,6 +11941,7 @@ flourishing
 flow-chart
 flowbite
 flowchart
+flowcharts
 flowed
 flower
 flowers
@@ -12076,6 +12093,7 @@ frameworks
 framing
 francaidl
 frantically
+fraud
 free
 free-form
 freebsd
@@ -12138,6 +12156,7 @@ full-feature
 full-featured
 full-fledged
 full-frame
+full-length
 full-on
 full-remote
 full-scale
@@ -12434,6 +12453,7 @@ grant
 granting
 granularity
 graph
+graph-based
 graph-theory
 graphic
 graphical
@@ -14188,6 +14208,7 @@ lawless
 laws
 lawsuit
 lawyer
+lawyers
 layer
 layered
 layering
@@ -14302,6 +14323,7 @@ lifecycle
 lifecycles
 lifehack
 lifehacks
+lifelike
 lifespan
 lifetime
 lifetimes
@@ -14898,6 +14920,7 @@ middleware
 middleware-independent
 middleware-specific
 middling
+midi
 midjourney
 midnight
 midpoint
@@ -15170,6 +15193,7 @@ moveable
 movement
 movements
 movie
+movies
 mozilla
 mozilla's
 mp3
@@ -15860,6 +15884,7 @@ occupational
 occupations
 occurrence
 occurrences
+ocr
 octagonal
 octahedral
 octahedron
@@ -16405,6 +16430,7 @@ payments
 payout
 payouts
 paypal
+payroll
 pc
 pc's
 pca
@@ -16632,6 +16658,7 @@ planarity
 plane
 planes
 planet
+planner
 plans
 plastic
 platform
@@ -17314,6 +17341,7 @@ qa-engineers
 qemu
 qml
 qpi
+qr
 qt
 qt4
 qt5
@@ -17749,6 +17777,7 @@ regions
 registers
 registrant
 registrants
+registrar
 registration
 registry
 regress
@@ -18174,6 +18203,7 @@ robots
 robust
 robustness
 rock
+roi
 role
 roles
 rollable
@@ -18277,6 +18307,7 @@ sails
 sake
 salaries
 salary
+salesforce
 sameness
 sample
 sample-based
@@ -19881,6 +19912,7 @@ tasking
 tasks
 taskset
 tattle
+tax
 taxonomy
 tb
 tcp
@@ -20539,6 +20571,7 @@ twenty
 twilight
 twink
 twinkling
+twins
 twitter
 twitter-bootstrap
 two-digit
@@ -20573,6 +20606,7 @@ typical
 typicality
 typo
 typographical
+typography
 typos
 ubiquitous
 ubiquity
@@ -21391,6 +21425,7 @@ violations
 violence
 violent
 violently
+viral
 virtualbox
 virtualization
 virtue
@@ -21428,9 +21463,11 @@ voice
 voice-assistant
 voice-based
 voice-controlled
+voice-over
 voice-to-text
 voiced
 voicemail
+voiceovers
 voices
 voip
 volatileness
