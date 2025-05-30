@@ -6,6 +6,7 @@ from tokenizers.normalizers import Sequence, Lowercase
 from tokenizers.pre_tokenizers import ByteLevel
 from tokenizers.trainers import BpeTrainer
 from transformers import PreTrainedTokenizerFast, GPT2TokenizerFast
+from diixo import diixo
 
 
 filepath = "data/temp.txt"
@@ -40,17 +41,7 @@ trainer = BpeTrainer(vocab_size=50000, initial_alphabet=ByteLevel.alphabet(), mi
 
 tokenizer.train([], trainer)
 
-tokenizer.add_tokens([
-    'you', 'ng', 'we', 'were', 'fore', 'most', 'ly', 'ing', 'do', 'learn',
-    'earn', 'teach', 'each', 'er', 'every', 'day', 'ness', 'ill', 'seem', 'usual', 'soon',
-    'hear', 'is', 'ed', 'es', 'wear', 'his', 'this', 'are', 'want', 'us', 'use', 'when', 'ever', 'know',
-    'he', 'she', 'it', 'cause', 'be', 'should', 'would', 'could', 'put', 'come', 'commit', 'young',
-    'ask', 'mask', 'task', 'more', 'did', 'gather', 'gether', 'to', 'can', 'not', 'on', 'common', 'pre', 'post',
-    'fix', 'some', 'never', 'pro', 'where', 'profession', 'too', 'also', 'but', 'and', 'end',
-    'nope', 'still', 'fill', 'any', 'here', 'no', 'there', 'inter', 'nation', 'because', 'al', 'all',
-    'as', 'is', 'was', 'run', 'will', 'less', 'or', 'so', 'the', 'than', 'then', 'that', 'an', 'say', 'may', 'ight',
-    'tion', 'sion', 'exten',
-    ])
+tokenizer.add_tokens(diixo)
 
 fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object = tokenizer,
