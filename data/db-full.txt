@@ -1164,6 +1164,7 @@ connects
 conquer
 conquered
 conquering
+conquers
 consecutively
 consent
 consented
