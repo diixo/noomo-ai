@@ -10,6 +10,8 @@ from transformers import PreTrainedTokenizerFast, GPT2TokenizerFast
 
 filepath = "data/temp.txt"
 
+outpath = "data/output.txt"
+
 
 with open("data/db-full.txt", "r", encoding="utf-8") as f:
     word_set = set([line.strip() for line in f if line.strip()])
@@ -21,6 +23,7 @@ with open(filepath, "w", encoding="utf-8") as f_out:
     for w in word_set:
         if w.find("-") < 0:
             f_out.write(f"{w} {w}\n")
+
             count += 1
 
 ##########################################################################################
@@ -31,13 +34,23 @@ tokenizer.normalizer = Sequence([Lowercase()])
 tokenizer.pre_tokenizer = ByteLevel()
 tokenizer.decoder = ByteLevelDecoder()
 
-trainer = BpeTrainer(vocab_size=50000, initial_alphabet=ByteLevel.alphabet(), min_frequency=2,
+trainer = BpeTrainer(vocab_size=50000, initial_alphabet=ByteLevel.alphabet(), min_frequency=1,
                     special_tokens=["<pad>", "<s>", "</s>", "<unk>", "<mask>"]
                     )
 
-tokenizer.train([filepath], trainer)
+tokenizer.train([], trainer)
 
-#tokenizer.add_tokens(list(word_set))
+tokenizer.add_tokens([
+    'you', 'ng', 'we', 'were', 'fore', 'most', 'ly', 'ing', 'do', 'learn',
+    'earn', 'teach', 'each', 'er', 'every', 'day', 'ness', 'ill', 'seem', 'usual', 'soon',
+    'hear', 'is', 'ed', 'es', 'wear', 'his', 'this', 'are', 'want', 'us', 'use', 'when', 'ever', 'know',
+    'he', 'she', 'it', 'cause', 'be', 'should', 'would', 'could', 'put', 'come', 'commit', 'young',
+    'ask', 'mask', 'task', 'more', 'did', 'gather', 'gether', 'to', 'can', 'not', 'on', 'common', 'pre', 'post',
+    'fix', 'some', 'never', 'pro', 'where', 'profession', 'too', 'also', 'but', 'and', 'end',
+    'nope', 'still', 'fill', 'any', 'here', 'no', 'there', 'inter', 'nation', 'because', 'al', 'all',
+    'as', 'is', 'was', 'run', 'will', 'less', 'or', 'so', 'the', 'than', 'then', 'that', 'an', 'say', 'may', 'ight',
+    'tion', 'sion', 'exten',
+    ])
 
 fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object = tokenizer,
@@ -61,6 +74,16 @@ def statistic(tokenizer_gpt: GPT2TokenizerFast):
         f"eos_token_id={tokenizer_gpt.eos_token_id}",
         )
 
+def tokens_to_file(words: list):
+    with open(outpath, "w", encoding="utf-8") as f_out:
+        for w in words:
+            if w.find("-") < 0:
+                input_ids = tokenizer_gpt(w, add_special_tokens=False, padding=False, return_tensors="np")
+                input_ids = input_ids["input_ids"]
+                input_ids = input_ids[0]
+
+                f_out.write(f"{w}: {str(tokenizer_gpt.convert_ids_to_tokens(input_ids))}\n")
+
 ##########################################################################################
 
 def print_tokenization(prompt: str):
@@ -81,22 +104,15 @@ if __name__ == '__main__':
 
     print_tokenization("Learning learning learns learned hears is hearing")
 
-    # print_tokenization("Do doing does teach teacher teaching")
+    print_tokenization("Do doing does teach teacher teaching")
 
-    print_tokenization("Wear wear wears wearing his this are wanting wanted wants")
-
-    # print_tokenization("All is as was running were will")
+    #print_tokenization("Wear wear wears wearing his this are wanting wanted wants")
 
     print_tokenization("Here where there no nope not therefore anywhere still fill ill")
-
-    # print_tokenization(
-    #     "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end")
 
     print_tokenization("postfix prefix international putting forever somewhere never profession professional")
 
     print_tokenization("come become commit comes common cannot can't sooner")
-
-    print_tokenization("gather gathering gathered together more she because didn't")
 
     print_tokenization("Ask ask task mask tasking masking")
 
@@ -104,6 +120,13 @@ if __name__ == '__main__':
 
     print_tokenization("us us use used uses using usual usually known knows whenever everyday illness seemingly")
 
-    print_tokenization("densemind")
+    # print_tokenization("densemind")
 
+    print_tokenization("gather gathering gathered together more she because didn't")
 
+    print_tokenization("All is as was running were will")
+
+    print_tokenization(
+        "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end extension")
+
+    tokens_to_file(word_set)
