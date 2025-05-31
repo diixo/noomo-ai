@@ -1,14 +1,21 @@
 
 diixo = [
+    'able', 'al', 'all', 'ally', 'also', 'an', 'and', 'any', 'are', 'as', 'ask', 'be',
+    'because', 'but', 'can', 'cause', 'code', 'come', 'commit', 'common', 'could',
+    'day', 'did', 'do', 'doubt', 'down', 'drama', 'draw',
+    'each', 'earn', 'ed', 'end', 'equal', 'er', 'es', 'ever', 'every', 'exten',
+    'fill', 'fix', 'fore',
+    'gather', 'gether', 'good', 'he', 'hear', 'here', 'his',
+    'ight', 'ill', 'ing', 'inter', 'is', 'is', 'istic', 'it',
+    'know', 'learn', 'less', 'load', 'ly', 'mask', 'may', 'more', 'most',
+    'nation', 'ness', 'never', 'ng', 'no', 'nope', 'not',
+    'on', 'or', 'post', 'pre', 'pro', 'profession', 'put', 're',
+    'real', 'realiz', 'run',
+    'say', 'seem', 'she', 'should', 'sion', 'size', 'so', 'some', 'soon', 'still', 'stop',
+    'task', 'teach', 'than', 'that', 'the', 'then', 'there', 'this', 'tion', 'to', 'too',
+    'us', 'use', 'usual',
+    'want', 'ward', 'was', 'we', 'wear', 'were', 'when', 'where', 'will', 'would',
+    'you', 'young',
+    ]
 
-    'you', 'ng', 'we', 'were', 'fore', 'most', 'ly', 'ing', 'do', 'learn',
-    'earn', 'teach', 'each', 'er', 'every', 'day', 'ness', 'ill', 'seem', 'usual', 'soon',
-    'hear', 'is', 'ed', 'es', 'wear', 'his', 'this', 'are', 'want', 'us', 'use', 'when', 'ever', 'know',
-    'he', 'she', 'it', 'cause', 'be', 'should', 'would', 'could', 'put', 'come', 'commit', 'young',
-    'ask', 'mask', 'task', 'more', 'did', 'gather', 'gether', 'to', 'can', 'not', 'on', 'common', 'pre', 'post',
-    'fix', 'some', 'never', 'pro', 'where', 'profession', 'too', 'also', 'but', 'and', 'end',
-    'nope', 'still', 'fill', 'any', 'here', 'no', 'there', 'inter', 'nation', 'because', 'al', 'all', 'good', 'stop', 'real', 'realiz',
-    'as', 'is', 'was', 'run', 'will', 'less', 'or', 'so', 'the', 'than', 'then', 'that', 'an', 'say', 'may', 'ight', 'istic',
-    'tion', 'sion', 'exten', 'ward', 'down', 'size', 'load', 'draw', 'drama', 'doubt', 'ally', 'equal', 'code', 're',
-   
-]
+print(sorted(diixo))
