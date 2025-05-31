@@ -34,8 +34,8 @@ diixo = [
     'micro', 'head', 'chip', 'mobil', 'system', 'control', 'comput', 'struct', 'view', 'bench', 'board', 'client', 'video',
     'web', 'assembl', 'develop', 'work', 'design', 'thought',
     'round', 'around', 'flow', 'sheet', 'time', 'shop', 'group', 'local', 'ground', 'stack', 'sketch', 'sentiment', 'life',
-    #about, out, after, often, turn, under, point
-
+    'with', 'through', 'rout', 'stand', 'shout', 'routine', 'scout', 'roll', 'perform', 'bound', 'look', 'scroll', 'standard', 'break',
+    #'about', 'out', #after, often, turn, under, point, under, upper, back, low
     ]
 
 #print(sorted(diixo))
