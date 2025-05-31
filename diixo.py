@@ -36,7 +36,8 @@ diixo = [
     'round', 'around', 'flow', 'sheet', 'time', 'shop', 'group', 'local', 'ground', 'stack', 'sketch', 'sentiment', 'life',
     'with', 'through', 'rout', 'stand', 'shout', 'routine', 'scout', 'roll', 'perform', 'bound', 'look', 'scroll', 'standard', 'break',
     #'about', 'out', #after, often, turn, under, point, under, upper, low, call, fall, non, none, nope
-    'back', 'switch', 'throw', 'trac', 'track', 'tract', 'author', 'determin', 'detect', 'desir', #distract, distort,
+    'back', 'switch', 'throw', 'trac', 'track', 'tract', 'author', 'determin', 'detect', 'desir',
+    'distract', 'distort', 'distinguish', 'distinct', 'clos', 'clon',
     ]
 
 #print(sorted(diixo))
