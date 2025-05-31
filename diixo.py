@@ -25,7 +25,7 @@ diixo = [
     'diagnos', 'dis', 'discuss', 'miss', 'dispens', 'dispers', 'dispos', 'regard', 'stress', 'gross', 'expos', 'express', 'guess', 'possib',
     'spect', 'licens', 'los', 'mess', 'opposs', 'pars', 'press', 'process', 'profess', 'progress', 'regress', 'propos', 'purpos', 'vers', 'sens',
     'sing', 'stress',
-    'key', 'word', 'form', 'base', 'inform', 'ativ', 'present', 'oper',
+    'key', 'word', 'form', 'base', 'inform', 'ativ', 'present', 'oper', 'open', 'norm', 'relat', 'auto', 'launch',
     ]
 
 print(sorted(diixo))
