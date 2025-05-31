@@ -29,6 +29,7 @@ diixo = [
     'object', 'coord', 'cover', 'nomi', 'pack', 'part', 'poly', 'count', 'direct', 'master', 'organ', 'order', 'over',
     'bio', 'cyber', 'tech', 'anti', 'logic', 'atic', 'deep', 'space', 'sport', 'cycl',
     'free', 'ship', 'graph', 'own', 'photo', 'freez', 'slow', 'show', 'grow',
+    'hyper', 'hash', 'gram', 'hard', 'lexic', 'orth',
     ]
 
 #print(sorted(diixo))
