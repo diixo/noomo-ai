@@ -33,7 +33,9 @@ diixo = [
     'project', 'program', 'param', 'phone', 'tele', 'power', 'excel', 'cell', 'produc', 'extra', 'extract', 'extrapolat', 'cancel',
     'micro', 'head', 'chip', 'mobil', 'system', 'control', 'comput', 'struct', 'view', 'bench', 'board', 'client', 'video',
     'web', 'assembl', 'develop', 'work', 'design', 'thought',
-    #'round', 'around', 'flow', 'sheet', 'time', 'shop', 'group',
+    'round', 'around', 'flow', 'sheet', 'time', 'shop', 'group', 'local', 'ground', 'stack', 'sketch', 'sentiment', 'life',
+    #about, out, after, often, turn, under, point
+
     ]
 
 #print(sorted(diixo))
