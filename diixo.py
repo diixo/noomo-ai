@@ -1,6 +1,6 @@
 
 diixo = [
-    'able', 'al', 'all', 'ally', 'also', 'an', 'and', 'any', 'are', 'as', 'ask', 'be',
+    'able', 'al', 'all', 'ally', 'also', 'an', 'and', 'any', 'are', 'as', 'ask', 'be', 'fall',
     'because', 'but',
     'can', 'cause', 'class', 'code', 'come', 'commit', 'common', 'could',
     'day', 'did', 'do', 'doubt', 'down', 'drama', 'draw',
@@ -37,7 +37,8 @@ diixo = [
     'with', 'through', 'rout', 'stand', 'shout', 'routine', 'scout', 'roll', 'perform', 'bound', 'look', 'scroll', 'standard', 'break',
     #'about', 'out', #after, often, turn, under, point, under, upper, low, call, fall, non, none, nope
     'back', 'switch', 'throw', 'trac', 'track', 'tract', 'author', 'determin', 'detect', 'desir',
-    'distract', 'distort', 'distinguish', 'distinct', 'clos', 'clon',
+    'distract', 'distort', 'distinguish', 'distinct', 'clos', 'clon', 'mark', 'market', 'land', 'crypt', 'engine', 'featur', 'cach', 'memor',
+    #'abnormal', 'accident', 'actual', 'algorithm', 'alphabet', 'analytic', 'algebra', 'icall',
     ]
 
 #print(sorted(diixo))

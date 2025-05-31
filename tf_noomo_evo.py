@@ -93,31 +93,31 @@ if __name__ == '__main__':
 
     print(f"{len(word_set)}: {count}")
 
-    print_tokenization("Learning learning learns learned hears is hearing")
+    # print_tokenization("Learning learning learns learned hears is hearing")
 
-    print_tokenization("Do doing does teach teacher teaching")
+    # print_tokenization("Do doing does teach teacher teaching")
 
-    #print_tokenization("Wear wear wears wearing his this are wanting wanted wants")
+    # #print_tokenization("Wear wear wears wearing his this are wanting wanted wants")
 
-    print_tokenization("Here where there no nope not therefore anywhere still fill ill")
+    # print_tokenization("Here where there no nope not therefore anywhere still fill ill")
 
-    print_tokenization("postfix prefix international putting forever somewhere never profession professional")
+    # print_tokenization("postfix prefix international putting forever somewhere never profession professional")
 
-    print_tokenization("come become commit comes common cannot can't sooner")
+    # print_tokenization("come become commit comes common cannot can't sooner")
 
-    print_tokenization("Ask ask task mask tasking masking")
+    # print_tokenization("Ask ask task mask tasking masking")
 
-    print_tokenization("you you young your yours we were mostly")
+    # print_tokenization("you you young your yours we were mostly")
 
-    print_tokenization("us us use used uses using usual usually known knows whenever everyday illness seemingly")
+    # print_tokenization("us us use used uses using usual usually known knows whenever everyday illness seemingly")
 
-    # print_tokenization("densemind")
+    # # print_tokenization("densemind")
 
-    print_tokenization("gather gathering gathered together more she because didn't")
+    # print_tokenization("gather gathering gathered together more she because didn't")
 
-    print_tokenization("All is as was running were will")
+    # print_tokenization("All is as was running were will")
 
-    print_tokenization(
-        "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end extension recode")
+    # print_tokenization(
+    #     "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end extension recode")
 
     tokens_to_file(word_set)
