@@ -7554,6 +7554,7 @@ all-new
 all-time
 allay
 allegorical
+allegory
 alleviating
 alleviation
 alleviations
@@ -7975,6 +7976,7 @@ astray
 asunder
 asymmetric
 asymmetrical
+asymmetrically
 asymmetry
 asymptotic
 asymptotically

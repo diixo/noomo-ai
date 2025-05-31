@@ -39,6 +39,9 @@ diixo = [
     'back', 'switch', 'throw', 'trac', 'track', 'tract', 'author', 'determin', 'detect', 'desir',
     'distract', 'distort', 'distinguish', 'distinct', 'clos', 'clon', 'mark', 'market', 'land', 'crypt', 'engine', 'featur', 'cach', 'memor',
     #'abnormal', 'accident', 'actual', 'algorithm', 'alphabet', 'analytic', 'algebra', 'icall',
+    #'ic', 'call', 'algebra', 'alphabet',
+    'allegor', 'alleviat', 'alleg', 'allocat', 'admin', 'admir', 'allot', 'allow', 'allud', 'allus', 'exam', 'examin', 'exampl', 'alli',
+    'mail', 'service', 'magic', 'basic', 'mechanic', 'medic', 'metric', 'mimic', 'mini',
     ]
 
 #print(sorted(diixo))
