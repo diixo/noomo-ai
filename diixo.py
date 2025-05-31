@@ -19,6 +19,12 @@ diixo = [
     'visib', 'visual', 'visit', 'vision',
     'want', 'ward', 'was', 'we', 'wear', 'were', 'when', 'where', 'will', 'would',
     'you', 'young',
+    #im, ion, sup, sur (pro, re, gress, fess) ment, ion
+    'access', 'address', 'amass', 'assess', 'brows', 'choos', 'collaps', 'compass', 'compat', 'compos', 'compres', 'confes', 'convers', 'cross',
+    'diagnos', 'dis', 'discuss', 'miss', 'dispens', 'dispers', 'dispos', 'regard', 'stress', 'gross', 'expos', 'express', 'guess', 'possib',
+    'spect', 'licens', 'los', 'mess', 'opposs', 'pars', 'press', 'process', 'profess', 'progress', 'regress', 'propos', 'purpos', 'vers', 'sens',
+    'sing', 'stress',
+    'key', 'word',
     ]
 
 print(sorted(diixo))
