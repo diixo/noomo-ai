@@ -31,7 +31,7 @@ diixo = [
     'free', 'ship', 'graph', 'own', 'photo', 'freez', 'slow', 'show', 'grow',
     'hyper', 'hash', 'gram', 'hard', 'lexic', 'orth',
     'project', 'program', 'param', 'phone', 'tele', 'power', 'excel', 'cell', 'produc', 'extra', 'extract', 'extrapolat', 'cancel',
-    #micro, 'head'
+    'micro', 'head', 'chip', 'mobil', 'system', 'control', 'comput', 'struct', 'view', 'bench', 'board', 'client', 'video',
     ]
 
 #print(sorted(diixo))
