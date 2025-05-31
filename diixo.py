@@ -27,7 +27,8 @@ diixo = [
     'sing', 'stress',
     'key', 'word', 'form', 'base', 'inform', 'ativ', 'present', 'oper', 'open', 'norm', 'relat', 'auto', 'launch',
     'object', 'coord', 'cover', 'nomi', 'pack', 'part', 'poly', 'count', 'direct', 'master', 'organ', 'order', 'over',
-    'bio', 'cyber', 'tech', 'anti', 'logic', 'atic', 'sect', 'deep', 'space', 'sport', 'cycl',
+    'bio', 'cyber', 'tech', 'anti', 'logic', 'atic', 'deep', 'space', 'sport', 'cycl',
+    'free', 'ship', 'graph', 'own', 'photo', 'freez', 'slow', 'show', 'grow',
     ]
 
-print(sorted(diixo))
+#print(sorted(diixo))
