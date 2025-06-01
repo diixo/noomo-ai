@@ -72,7 +72,8 @@ diixo = [
     'cool', 'cook', 'book', 'bool', 'ultra', 'fast', 'text', 'context', 'contest', 'content', 'face', 'hand', 'edit', 'circl', 'center',
     'expedit', 'expend', 'expedien', 'educat', 'constrain', 'conscious', 'connect', 'continu', 'expens', 'conjunct', 'expect', 'experienc',
     'effect', 'expans', 'expedite', 'explor', 'command', 'confirm', 'except', 'expir', 'explain', 'explanat', 'follow', 'cluster', 'collect',
-    'node', 'expand', 'excess', 'expert', 'chang', 'champ', 'channel',
+    'node', 'expand', 'excess', 'expert', 'chang', 'champ', 'channel', 'iterat', 'chanc', 'challeng', 'chapt', 'excit', 'recogni', 'fold',
+    'charg', 'chart', 'clock',
     ]
 
 #print(sorted(diixo))
