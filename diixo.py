@@ -57,11 +57,12 @@ diixo = [
     'indic', 'indicat', 'inflict', 'intrinsic', 'logarithm', 'magnif', 'malic', 'metaphor', 'method', 'music', 'period', 'philosoph',
     'polit', 'polic', 'morph', 'python', 'quick', 'joic', 'replic', 'ridic', 'rubric', 'robo', 'scept', 'colon', 'skept', 'simplic',
     'vehic', 'variad', 'vindic', 'judic', 'benefic', 'choic', 'combin', 'energ', 'intric', 'justic', 'partic', 'predica', 'profic',
-    'radic', 'robust',
-    #'pick', 'kick', 'rich', 'sick', 'slic', 'wick', 'uni', 'data', 'mnemo', 'mono', 'nice', 'nich', 'pict', 'test', 'serv',
-    'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici', 'contact', 'synt', 'observ', 'silicon', 'icon',
-    'conduct', 'semi', 'seminat', 'matrix', 'matric', 'data', 'meta', 'wiki', 'manag', 'grid', 'link', 'blink', 'loop', 'media',
-    #'need', 'prim', 'thing',
+    'radic', 'robust', 'modal', 'thing', 'cloth', 'breath', 'smooth', 'sooth', 'serv', 'reserv', 'observ', 'server', 'user', 'squar',
+    #'pick', 'kick', 'rich', 'sick', 'slic', 'wick', 'uni', 'mnemo', 'mono', 'nice', 'nich', 'pict', 'test', 'serv',
+    'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici', 'contact', 'synt', 'silicon', 'icon', 'respon',
+    'conduct', 'semi', 'seminat', 'matrix', 'matric', 'data', 'meta', 'wiki', 'manag', 'grid', 'link', 'blink', 'loop', 'media', 'resolv',
+    #'need', 'prim',
+    #'defin', 'script', 'friend', 'reque', 'scop',
     ]
 
 #print(sorted(diixo))
