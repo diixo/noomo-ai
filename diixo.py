@@ -68,7 +68,8 @@ diixo = [
     'paper', 'white', 'wall', 'next', 'letter', 'need', 'prim', 'necess', 'print', 'test', 'tessellat', 'sweet', 'sweep', 'prepar', 'quir',
     'quit', 'equi', 'probab', 'proper',
     'vocat', 'valen', 'valenc', 'valent', 'pict', 'pictur', 'varianc', 'variat', 'variant', 'variabl', 'variad', 'varie', 'vary', 'various',
-    'identif', 'univers', 'commun', 'unix', 'unit', 'unity', 'union', 'unique', 'interpolat', 'inten',
+    'identif', 'univers', 'commun', 'unix', 'unit', 'unity', 'union', 'unique', 'interpolat', 'inten', 'operat', 'opinion', 'intern',
+    'cool', 'cook', 'book', 'bool', 'ultra', 'fast', 'text',
     ]
 
 #print(sorted(diixo))
