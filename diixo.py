@@ -64,7 +64,8 @@ diixo = [
     #'need', 'prim',
     'check', 'defin', 'script', 'friend', 'reque', 'scop', 'frequen', 'infra', 'shell', 'sheet', 'action', 'activ', 'diffus', 'satisf',
     'requir', 'diff', 'screen', 'touch', 'full', 'beaut', 'delight', 'faith', 'fright', 'fruit', 'sorrow', 'thank', 'succe', 'differ',
-    'wild', 'wonder', 'wrong', 'respect', 'skill', 'mind', 'pain', 'paint', 'resolut', 'though', 'thorough', 'scrib',
+    'wild', 'wonder', 'wrong', 'respect', 'skill', 'mind', 'pain', 'paint', 'resolut', 'though', 'thorough', 'scrib', 'soft', 'sort',
+    'paper', 'white', 'wall', 'next', 'letter',
     ]
 
 #print(sorted(diixo))
