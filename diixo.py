@@ -39,9 +39,14 @@ diixo = [
     'back', 'switch', 'throw', 'trac', 'track', 'tract', 'author', 'determin', 'detect', 'desir',
     'distract', 'distort', 'distinguish', 'distinct', 'clos', 'clon', 'mark', 'market', 'land', 'crypt', 'engine', 'featur', 'cach', 'memor',
     #'abnormal', 'accident', 'actual', 'algorithm', 'alphabet', 'analytic', 'algebra', 'icall',
-    #'ic', 'call', 'algebra', 'alphabet',
+    #'call', # 'ic'??? #, 'ous',
     'allegor', 'alleviat', 'alleg', 'allocat', 'admin', 'admir', 'allot', 'allow', 'allud', 'allus', 'exam', 'examin', 'exampl', 'alli',
     'mail', 'service', 'magic', 'basic', 'mechanic', 'medic', 'metric', 'mimic', 'mini',
+    'atomic', 'generic', 'basic', 'graphic', 'organic', 'empiric', 'epic', 'optic', 'entropic', 'economic', 'dynamic', 'electric',
+    'electronic', 'entropic', 'fantastic', 'hypothetic', 'lexic', 'identic', 'algebraic', 'algorithmic', 'alphabetic', 'analytic',
+    'arithmetic', 'asymptotic', 'typic', 'semantic', 'specific', 'strategic', 'synthetic', 'vocal', 'practic', 'public', 'topic',
+    'vertic', 'numer', 'paradox', 'optimist', 'monolith', 'reciproc', 'scien', 'synonym', 'critic', 'ellip', 'drastic', 'extrinsic'
+    'phonetic', 'physic', 'monoton',
     ]
 
 #print(sorted(diixo))

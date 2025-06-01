@@ -4914,6 +4914,8 @@ recharges
 recheck
 rechecked
 rechecks
+reciprocate
+reciprocated
 reclaim
 reclaimed
 reclaiming
@@ -15142,6 +15144,7 @@ mono
 monochrome
 monogame
 monolithic
+monolithically
 monotonic
 monotonically-increasing
 monotony
@@ -17622,6 +17625,7 @@ recipient's
 recipients
 reciprocal
 reciprocally
+reciprocity
 recital
 recited
 reckless
@@ -18345,7 +18349,6 @@ scalar
 scalars
 scale-out
 scales
-scalloped
 scanline
 scanner
 scanners
@@ -19831,6 +19834,7 @@ synchronous
 synchronously
 syncing
 synonym
+synonymically
 synonymous
 synonyms
 synonymy
