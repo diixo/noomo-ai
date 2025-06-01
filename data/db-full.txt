@@ -3238,6 +3238,7 @@ inflect
 inflected
 inflecting
 inflects
+inflict
 inflicted
 influence
 influenced
@@ -19413,6 +19414,7 @@ strategically
 strategies
 strategy
 strategy's
+stratific
 stratification
 stratifying
 stratum
@@ -21400,6 +21402,7 @@ vibrations
 vice-president
 vice-versa
 vicinity
+victim
 victims
 video
 video-recorded
