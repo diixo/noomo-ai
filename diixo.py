@@ -74,7 +74,7 @@ diixo = [
     'effect', 'expans', 'expedite', 'explor', 'command', 'confirm', 'except', 'expir', 'explain', 'explanat', 'follow', 'cluster', 'collect',
     'node', 'expand', 'excess', 'expert', 'chang', 'champ', 'channel', 'iterat', 'chanc', 'challeng', 'chapt', 'excit', 'recogni', 'fold',
     'charg', 'chart', 'clock', 'focus', 'call', 'ic', 'consist', 'optim', 'permut', 'flect', 'simpl', 'help', 'forward', 'feed',
-    #sight, sign, metr->metric, mono
+    'sight', 'sign', 'mono', 'assist', 'assign', 'insight', 'consider', 'associat', 'foresee', 'start', # metr->metric
     ]
 
 #print(sorted(diixo))
