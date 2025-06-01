@@ -60,7 +60,7 @@ diixo = [
     'radic', 'robust',
     #'pick', 'kick', 'rich', 'sick', 'slic', 'wick', 'uni', 'data', 'mnemo', 'mono', 'nice', 'nich', 'pict', 'test', 'serv',
     'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici', 'contact', 'synt', 'observ', 'silicon', 'icon',
-    'conduct', 'semi', 'seminat', 'matrix', 'matric',
+    'conduct', 'semi', 'seminat', 'matrix', 'matric', 'data', 'meta', 'wiki', 'manag', 'grid', 'link', 'blink', 'loop', 'media',
     #'need', 'prim', 'thing',
     ]
 
