@@ -61,11 +61,13 @@ diixo = [
     #'pick', 'kick', 'rich', 'sick', 'slic', 'wick', 'uni', 'mnemo', 'mono', 'nice', 'nich', 'pict',
     'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici', 'contact', 'synt', 'silicon', 'icon', 'respon',
     'conduct', 'semi', 'seminat', 'matrix', 'matric', 'data', 'meta', 'wiki', 'manag', 'grid', 'link', 'blink', 'loop', 'media', 'resolv',
-    'swear',
+    'swear', 'googl', 'forswear', 'rich', 'acquir', 'enquir', 'inquir', 'acquit', 'equit', 'equip', 'oblig', 'obliquity', 'equat', 'adequat',
     'check', 'defin', 'script', 'friend', 'reque', 'scop', 'frequen', 'infra', 'shell', 'sheet', 'action', 'activ', 'diffus', 'satisf',
     'requir', 'diff', 'screen', 'touch', 'full', 'beaut', 'delight', 'faith', 'fright', 'fruit', 'sorrow', 'thank', 'succe', 'differ',
     'wild', 'wonder', 'wrong', 'respect', 'skill', 'mind', 'pain', 'paint', 'resolut', 'though', 'thorough', 'scrib', 'soft', 'sort',
-    'paper', 'white', 'wall', 'next', 'letter', 'need', 'prim', 'necess', 'print', 'test', 'tessellat', 'sweet', 'sweep', 'prepar',
+    'paper', 'white', 'wall', 'next', 'letter', 'need', 'prim', 'necess', 'print', 'test', 'tessellat', 'sweet', 'sweep', 'prepar', 'quir',
+    'quit', 'equi', 'probab', 'proper',
+    'vocat', 'valen', #valenc, valent
     ]
 
 #print(sorted(diixo))
