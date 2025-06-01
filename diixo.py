@@ -58,14 +58,14 @@ diixo = [
     'polit', 'polic', 'morph', 'python', 'quick', 'joic', 'replic', 'ridic', 'rubric', 'robo', 'scept', 'colon', 'skept', 'simplic',
     'vehic', 'variad', 'vindic', 'judic', 'benefic', 'choic', 'combin', 'energ', 'intric', 'justic', 'partic', 'predica', 'profic',
     'radic', 'robust', 'modal', 'thing', 'cloth', 'breath', 'smooth', 'sooth', 'serv', 'reserv', 'observ', 'server', 'user', 'squar',
-    #'pick', 'kick', 'rich', 'sick', 'slic', 'wick', 'uni', 'mnemo', 'mono', 'nice', 'nich', 'pict', 'test', 'serv',
+    #'pick', 'kick', 'rich', 'sick', 'slic', 'wick', 'uni', 'mnemo', 'mono', 'nice', 'nich', 'pict',
     'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici', 'contact', 'synt', 'silicon', 'icon', 'respon',
     'conduct', 'semi', 'seminat', 'matrix', 'matric', 'data', 'meta', 'wiki', 'manag', 'grid', 'link', 'blink', 'loop', 'media', 'resolv',
-    #'need', 'prim',
+    'swear',
     'check', 'defin', 'script', 'friend', 'reque', 'scop', 'frequen', 'infra', 'shell', 'sheet', 'action', 'activ', 'diffus', 'satisf',
     'requir', 'diff', 'screen', 'touch', 'full', 'beaut', 'delight', 'faith', 'fright', 'fruit', 'sorrow', 'thank', 'succe', 'differ',
     'wild', 'wonder', 'wrong', 'respect', 'skill', 'mind', 'pain', 'paint', 'resolut', 'though', 'thorough', 'scrib', 'soft', 'sort',
-    'paper', 'white', 'wall', 'next', 'letter',
+    'paper', 'white', 'wall', 'next', 'letter', 'need', 'prim', 'necess', 'print', 'test', 'tessellat', 'sweet', 'sweep', 'prepar',
     ]
 
 #print(sorted(diixo))
