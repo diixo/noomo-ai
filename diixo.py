@@ -62,7 +62,8 @@ diixo = [
     'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici', 'contact', 'synt', 'silicon', 'icon', 'respon',
     'conduct', 'semi', 'seminat', 'matrix', 'matric', 'data', 'meta', 'wiki', 'manag', 'grid', 'link', 'blink', 'loop', 'media', 'resolv',
     #'need', 'prim',
-    #'defin', 'script', 'friend', 'reque', 'scop',
+    'check', 'defin', 'script', 'friend', 'reque', 'scop', 'frequen', 'infra', 'shell', 'sheet', 'action', 'activ', 'diffus', 'satisf',
+    'requir', 'diff', 'screen', 'touch',
     ]
 
 #print(sorted(diixo))
