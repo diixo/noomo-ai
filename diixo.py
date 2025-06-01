@@ -58,10 +58,10 @@ diixo = [
     'polit', 'polic', 'morph', 'python', 'quick', 'joic', 'replic', 'ridic', 'rubric', 'robo', 'scept', 'colon', 'skept', 'simplic',
     'vehic', 'variad', 'vindic', 'judic', 'benefic', 'choic', 'combin', 'energ', 'intric', 'justic', 'partic', 'predica', 'profic',
     'radic', 'robust',
-    #'pick', 'kick', 'rich', 'sick', 'slic', 'wick', 'semi', 'uni', 'data', 'mnemo', 'mono', 'nice', 'nich', 'matri', 'pict', 'test', 'serv',
-    #'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici',
-    #'icon',
-    #'need', 'object', 'observ', 'simpl', 'prim', 'thing',
+    #'pick', 'kick', 'rich', 'sick', 'slic', 'wick', 'uni', 'data', 'mnemo', 'mono', 'nice', 'nich', 'pict', 'test', 'serv',
+    'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici', 'contact', 'synt', 'observ', 'silicon', 'icon',
+    'conduct', 'semi', 'seminat', 'matrix', 'matric',
+    #'need', 'prim', 'thing',
     ]
 
 #print(sorted(diixo))
