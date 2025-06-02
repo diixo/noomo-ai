@@ -96,9 +96,11 @@ diixo = [
     'them', 'serial', 'segment', 'their', 'series', 'serious', 'segregat', 'aggregat', 'aggress', 'quad', 'random', 'strang', 'spot', 'rang',
     'sprang', 'straight', 'lagrang', 'fresh', 'after', 'updat', 'about', 'befor', 'abound', 'mention', 'abort', 'above', 'seam', 'fetch',
     'prefer', 'refer', 'hang', 'heap', 'cheap', 'chat', 'cheat', 'regulat', 'occur', 'regular', 'caption', 'captur', 'captivat', 'capt',
-    'card', 'cardinal', 'discard', 'discover', 'discret', 'discrep', #'discriminat', 'discriminant' #'disc',
+    'card', 'cardinal', 'discard', 'discover', 'discret', 'discrep', 'discriminat', 'discriminant', 'courag', 'renovat', 'revolut', 'reward',
+    'error', 'step', 'stamp', 'stereo', 'append', 'apprecia', 'apprehen', 'proxim', 'approv', 'appropriat', 'advert', 'advis', # 'approx', 'approb',
+    'admiss', 'admit',
     #set, heal, repo, side, rand
-    #'capt', #act, bas, off, log
+    #act, bas, off, log
     #url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, app, off, sent, func, plac, tun, set,
     ]
 
