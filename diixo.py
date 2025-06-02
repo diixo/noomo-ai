@@ -84,8 +84,9 @@ diixo = [
     'sustain', 'swap', 'train', 'void', 'avoid', 'pool', 'variab', 'thesis', 'thread', 'spool', 'accept', 'viab', 'spoon', 'spoof', 'accent',
     'detail', 'attach', 'attempt', 'audit', 'audio', 'attend', 'augment', 'instal', 'attent', 'insert', 'stor', 'strain', 'prob', 'seque',
     'compan', 'promis', 'contribut', 'coupl', 'curv', 'promot', 'concern', 'compact', 'concept', 'config', 'construct', 'consult', 'consum',
-    'react', 'activat', 'sourc',
-    #quer, url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, front, app, push, off, sent, func, plac, tun, set,
+    'react', 'activat', 'sourc', 'dead', 'sound', 'lock', 'push', 'front', 'block', 'caps', 'capital', 'flock', 'float',
+    #capsul, point, flood, blog, capacit, capt, act, deal, flip, cast, from, locat, spill, spin, bind, luck, happ,
+    #quer, url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, app, off, sent, func, plac, tun, set,
     ]
 
 #print(sorted(diixo))
