@@ -94,8 +94,8 @@ diixo = [
     'protocol', 'thus', 'thumb', 'obsess', 'obsolet', 'potent', 'origin', 'orient', 'pix', 'pivot', 'mega', 'intel', 'interest', 'pull',
     'compil', 'recommend', 'conceiv', 'point', 'complet', 'null', 'complex', 'trust', 'search', 'condit', 'rescu', 'select', 'self', 'selv',
     'them', 'serial', 'segment', 'their', 'series', 'serious', 'segregat', 'aggregat', 'aggress', 'quad', 'random', 'strang', 'spot', 'rang',
-    'sprang', 'straight', 'lagrang', 'fresh',
-    #set, hang, heap, heal, rang, repo, seam, side, rand
+    'sprang', 'straight', 'lagrang', 'fresh', 'after', 'updat', 'about', 'befor', 'abound', 'mention', 'abort', 'above', 'seam', 'fetch',
+    #set, hang, heap, heal, repo, side, rand
     #'capt', #act, bas, off, log
     #url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, app, off, sent, func, plac, tun, set,
     ]
