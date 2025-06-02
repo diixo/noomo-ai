@@ -76,7 +76,9 @@ diixo = [
     'charg', 'chart', 'clock', 'focus', 'call', 'ic', 'consist', 'optim', 'permut', 'flect', 'simpl', 'help', 'forward', 'feed',
     'sight', 'sign', 'mono', 'assist', 'assign', 'insight', 'consider', 'associat', 'foresee', 'start', 'xor', 'debug', # metr->metric
     'unifi', 'unicorn', 'unicode', 'jump', 'quiet', 'stream', 'ignit', 'fuck', 'guarant', 'digit', 'ignor', 'main', 'remain', 'maintain',
-    'mainfram', 'mainten', 'domain', 'document',
+    'mainfram', 'mainten', 'domain', 'document', 'debut', 'debat', 'crowd', 'depend', 'doc', 'found', 'dock', 'funder', 'thunder',
+    'underst', 'pseudo', 'depict', 'depart', 'department', 'fund', 'fundament', 'estimat', 'sampl', 'doctrin', 'blund',
+    #'etern', #'ability',# ful, go,
     ]
 
 #print(sorted(diixo))
