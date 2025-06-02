@@ -58,7 +58,7 @@ diixo = [
     'polit', 'polic', 'morph', 'python', 'quick', 'joic', 'replic', 'ridic', 'rubric', 'robo', 'scept', 'colon', 'skept', 'simplic',
     'vehic', 'variad', 'vindic', 'judic', 'benefic', 'choic', 'combin', 'energ', 'intric', 'justic', 'partic', 'predica', 'profic',
     'radic', 'robust', 'modal', 'thing', 'cloth', 'breath', 'smooth', 'sooth', 'serv', 'reserv', 'observ', 'server', 'user', 'squar',
-    #'pick', 'kick', 'rich', 'sick', 'slic', 'wick', 'uni', 'mnemo', 'mono', 'nice', 'nich', 'pict',
+    #'pick', 'kick', 'sick', 'slic', 'wick', 'uni', 'mnemo', 'nice', 'nich',
     'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici', 'contact', 'synt', 'silicon', 'icon', 'respon',
     'conduct', 'semi', 'seminat', 'matrix', 'matric', 'data', 'meta', 'wiki', 'manag', 'grid', 'link', 'blink', 'loop', 'media', 'resolv',
     'swear', 'googl', 'forswear', 'rich', 'acquir', 'enquir', 'inquir', 'acquit', 'equit', 'equip', 'oblig', 'obliquity', 'equat', 'adequat',
@@ -75,6 +75,7 @@ diixo = [
     'node', 'expand', 'excess', 'expert', 'chang', 'champ', 'channel', 'iterat', 'chanc', 'challeng', 'chapt', 'excit', 'recogni', 'fold',
     'charg', 'chart', 'clock', 'focus', 'call', 'ic', 'consist', 'optim', 'permut', 'flect', 'simpl', 'help', 'forward', 'feed',
     'sight', 'sign', 'mono', 'assist', 'assign', 'insight', 'consider', 'associat', 'foresee', 'start', # metr->metric
+    'unifi', 'unicorn', 'unicode', 'jump', 'quiet', 'stream', 'ignit', 'fuck', 'guarant', 'digit',
     ]
 
 #print(sorted(diixo))
