@@ -77,7 +77,7 @@ diixo = [
     'sight', 'sign', 'mono', 'assist', 'assign', 'insight', 'consider', 'associat', 'foresee', 'start', 'xor', 'debug', # metr->metric
     'unifi', 'unicorn', 'unicode', 'jump', 'quiet', 'stream', 'ignit', 'fuck', 'guarant', 'digit', 'ignor', 'main', 'remain', 'maintain',
     'mainfram', 'mainten', 'domain', 'document', 'debut', 'debat', 'crowd', 'depend', 'doc', 'found', 'dock', 'funder', 'thunder',
-    'underst', 'pseudo', 'depict', 'depart', 'department', 'fund', 'fundament', 'estimat', 'sampl', 'doctrin', 'blund', 'requi', 'same',
+    'pseudo', 'depict', 'depart', 'department', 'fund', 'fundament', 'estimat', 'sampl', 'doctrin', 'blund', 'requi', 'same',
     'etern', 'achiev', 'adapt', 'afford', 'approach', 'attain', 'attack', 'avail', 'ability', 'capab', 'compar', 'component', 'puls',
     'contriv', 'custom', 'detain', 'embed', 'embar', 'exec', 'idea', 'ideal', 'migrat', 'accur', 'index', 'inspir', 'measur', 'must', 'www',
     'profil', 'profit', 'reach', 'read', 'cours', 'relevan', 'remot', 'remov', 'repeat', 'specif', 'separ', 'stabil', 'suggest', 'suit', 'sql',
@@ -98,11 +98,13 @@ diixo = [
     'prefer', 'refer', 'hang', 'heap', 'cheap', 'chat', 'cheat', 'regulat', 'occur', 'regular', 'caption', 'captur', 'captivat', 'capt',
     'card', 'cardinal', 'discard', 'discover', 'discret', 'discrep', 'discriminat', 'discriminant', 'courag', 'renovat', 'revolut', 'reward',
     'error', 'step', 'stamp', 'stereo', 'append', 'apprecia', 'apprehen', 'proxim', 'approv', 'appropriat', 'advert', 'advis', # 'approx', 'approb',
-    'admiss', 'admit', 'just', 'adjust', 'join', 'adjoin', 'disjoin', 'junct', 'reject', 'inject', 'commut', 'complai',
-    'func', 'absen', 'essen', 'consent', 'assert', 'establish', 'static', 'absolut', 'entry', 'complement',
+    'admiss', 'admit', 'just', 'adjust', 'join', 'adjoin', 'disjoin', 'junct', 'reject', 'inject', 'commut', 'complai', 'represent', 'align',
+    'func', 'absen', 'essen', 'consent', 'assert', 'establish', 'static', 'absolut', 'entry', 'complement', 'mean', 'scor', 'accelerat',
+    'under', 'understand', 'understood', 'graduat', 'deserv', 'deliver', 'declar', 'decid', 'damag', 'decept', 'concatenat', 'acced', 'abus',
+    'clean', 'cloud', 'daemon',
     #set, heal, repo, side, rand
-    #act, bas, off, log
-    #url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, app, off, plac, tun, set,
+    #act, bas, off, log, bill
+    #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
     ]
 
 #print(sorted(diixo))
