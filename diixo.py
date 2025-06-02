@@ -92,7 +92,8 @@ diixo = [
     'hurt', 'hush', 'quer', 'problem', 'releas', 'arrang', 'array', 'appear', 'reason', 'appeal', 'rotat', 'arriv', 'receiv', 'parent',
     'quest', 'question', 'quot', 'publ', 'proof', 'protect', 'queu', 'propagat', 'depth', 'protest', 'buf', 'proto', 'bug', 'prototyp',
     'protocol', 'thus', 'thumb', 'obsess', 'obsolet', 'potent', 'origin', 'orient', 'pix', 'pivot', 'mega', 'intel', 'interest', 'pull',
-    'compil', 'recommend', 'conceiv', 'point', 'complet', 'null', 'complex', 'trust', 'search', 'condit', 'rescu', 'select',
+    'compil', 'recommend', 'conceiv', 'point', 'complet', 'null', 'complex', 'trust', 'search', 'condit', 'rescu', 'select', 'self', 'selv',
+    'them', 'serial', 'segment', 'their', 'series', 'serious', 'segregat', 'aggregat',
     #set, hang, heap, heal, rang, repo, seam, side, self
     #'capt', #act, bas, off, log
     #quer, url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, app, off, sent, func, plac, tun, set,
