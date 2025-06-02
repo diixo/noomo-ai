@@ -2727,7 +2727,10 @@ formulate
 formulated
 formulates
 formulating
+forswearing
+forswears
 forth
+forthcome
 fortified
 fortify
 fortunate
@@ -6375,6 +6378,9 @@ thrown
 throws
 thrust
 thus
+thwart
+thwarting
+thwarts
 ticking
 tied
 tighten
@@ -11405,8 +11411,6 @@ eternals
 eternity
 ethernet
 etl
-etsimator
-etsimators
 euclidean
 euler
 eulerian
@@ -20621,7 +20625,6 @@ ubiquitous
 ubiquity
 ubuntu
 ubuntu-desktop
-ubutu
 udp
 ugliest
 ugly

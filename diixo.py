@@ -90,8 +90,9 @@ diixo = [
     'deposit', 'deprecat', 'deploy', 'const', 'constit', 'conven', 'convent', 'convenien', 'corpora', 'converg', 'bind', 'boot', 'believ',
     'belief', 'stub', 'stuck', 'band', 'bell', 'belong', 'broad', 'abbreviat', 'struggl', 'label', 'abandon', 'luck', 'happ', 'health',
     'hurt', 'hush', 'quer', 'problem', 'releas', 'arrang', 'array', 'appear', 'reason', 'appeal', 'rotat', 'arriv', 'receiv', 'parent',
-    'quest', 'question', 'quot', 'publ', 'proof', 'protect', 'queu', 'propagat', 'depth', 'protest',
-    #set, hang, heap, heal, quest, rang, repo, pix
+    'quest', 'question', 'quot', 'publ', 'proof', 'protect', 'queu', 'propagat', 'depth', 'protest', 'buf', 'proto', 'bug', 'prototyp',
+    'protocol', 'thus', 'thumb', 'obsess', 'obsolet', 'potent',
+    #set, hang, heap, heal, rang, repo, pix
     #'point', 'capt', #act, bas, off, log
     #quer, url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, app, off, sent, func, plac, tun, set,
     ]
