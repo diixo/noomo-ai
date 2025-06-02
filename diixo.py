@@ -77,8 +77,12 @@ diixo = [
     'sight', 'sign', 'mono', 'assist', 'assign', 'insight', 'consider', 'associat', 'foresee', 'start', 'xor', 'debug', # metr->metric
     'unifi', 'unicorn', 'unicode', 'jump', 'quiet', 'stream', 'ignit', 'fuck', 'guarant', 'digit', 'ignor', 'main', 'remain', 'maintain',
     'mainfram', 'mainten', 'domain', 'document', 'debut', 'debat', 'crowd', 'depend', 'doc', 'found', 'dock', 'funder', 'thunder',
-    'underst', 'pseudo', 'depict', 'depart', 'department', 'fund', 'fundament', 'estimat', 'sampl', 'doctrin', 'blund',
-    #'etern', #'ability',# ful, go,
+    'underst', 'pseudo', 'depict', 'depart', 'department', 'fund', 'fundament', 'estimat', 'sampl', 'doctrin', 'blund', 'requi', 'same',
+    'etern', 'achiev', 'adapt', 'afford', 'approach', 'attain', 'attack', 'avail', 'ability', 'capab', 'compar', 'component', 'puls',
+    'contriv', 'custom', 'detain', 'embed', 'embar', 'exec', 'idea', 'ideal', 'migrat', 'accur', 'index', 'inspir', 'measur', 'must',
+    'profil', 'profit', 'reach', 'read', 'cours', 'relevan', 'remot', 'remov', 'repeat', 'specif', 'separ', 'stabil', 'suggest', 'suit',
+    'sustain', 'swap', 'train', 'void', 'avoid', 'pool', 'variab', #thesis, thread, #spool accept viab
+    #url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, front, app, sql, react, push, sourc, stor, strain, prob, seque, off, inert, instal, sent, func, plac, exempl, detail, attach, attempt, audit, audio, tun, set, compan, promis, contribut, coupl, curv
     ]
 
 #print(sorted(diixo))
