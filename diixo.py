@@ -88,6 +88,7 @@ diixo = [
     'capsul', 'locat', 'spill', 'spin', 'flood', 'blog', 'capacit', 'flip', 'deal', 'cast', 'bias', 'balanc', 'born', 'border', 'borrow',
     'from', 'posit', 'repositor', 'transpos', 'positiv', 'transport', 'suppos', 'support', 'report', 'apprais',# 'repo',
     'deposit', 'deprecat', 'deploy', 'const', 'constit', 'conven', 'convent', 'convenien', 'corpora', 'converg', 'bind', 'boot', 'believ',
+    'belief', 'stub', 'stuck', 'band', 'bell', 'belong', 'broad', 'abbreviat', 'struggl', 'label',# hurt, hush
     #'point', 'capt', 'luck', 'happ', #act, bas
     #quer, url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, app, off, sent, func, plac, tun, set,
     ]
