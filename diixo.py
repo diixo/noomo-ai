@@ -87,7 +87,8 @@ diixo = [
     'react', 'activat', 'sourc', 'dead', 'sound', 'lock', 'push', 'front', 'block', 'caps', 'capital', 'flock', 'float',
     'capsul', 'locat', 'spill', 'spin', 'flood', 'blog', 'capacit', 'flip', 'deal', 'cast',
     'from', 'posit', 'repositor', 'transpos', 'positiv', 'transport', 'suppos', 'support', 'report', 'apprais',# 'repo',
-    #'const', 'point', 'capt', 'from', 'bind', 'luck', 'happ', #act,
+    'deposit', 'deprecat', 'deploy', 'const', 'constit', 'conven', 'convent', 'convenien', 'corpora', 'converg',
+    #'const', 'point', 'capt', 'bind', 'luck', 'happ', #act,
     #quer, url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, app, off, sent, func, plac, tun, set,
     ]
 
