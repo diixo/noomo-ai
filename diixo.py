@@ -82,7 +82,8 @@ diixo = [
     'contriv', 'custom', 'detain', 'embed', 'embar', 'exec', 'idea', 'ideal', 'migrat', 'accur', 'index', 'inspir', 'measur', 'must', 'www',
     'profil', 'profit', 'reach', 'read', 'cours', 'relevan', 'remot', 'remov', 'repeat', 'specif', 'separ', 'stabil', 'suggest', 'suit', 'sql',
     'sustain', 'swap', 'train', 'void', 'avoid', 'pool', 'variab', 'thesis', 'thread', 'spool', 'accept', 'viab', 'spoon', 'spoof', 'accent',
-    #url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, front, app, react, push, sourc, stor, strain, prob, seque, off, inert, instal, sent, func, plac, exempl, detail, attach, attempt, audit, audio, tun, set, compan, promis, contribut, coupl, curv
+    'detail', 'attach', 'attempt', 'audit', 'audio', 'attend', 'augment', 'instal', 'attent', 'insert',
+    #url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, front, app, react, push, sourc, stor, strain, prob, seque, off, sent, func, plac, tun, set, compan, promis, contribut, coupl, curv
     ]
 
 #print(sorted(diixo))
