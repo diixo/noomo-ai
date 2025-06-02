@@ -98,10 +98,11 @@ diixo = [
     'prefer', 'refer', 'hang', 'heap', 'cheap', 'chat', 'cheat', 'regulat', 'occur', 'regular', 'caption', 'captur', 'captivat', 'capt',
     'card', 'cardinal', 'discard', 'discover', 'discret', 'discrep', 'discriminat', 'discriminant', 'courag', 'renovat', 'revolut', 'reward',
     'error', 'step', 'stamp', 'stereo', 'append', 'apprecia', 'apprehen', 'proxim', 'approv', 'appropriat', 'advert', 'advis', # 'approx', 'approb',
-    'admiss', 'admit', 'just', 'adjust', 'join', 'adjoin', 'disjoin', 'junct', 'reject', 'inject', 'commut', 'complain',
+    'admiss', 'admit', 'just', 'adjust', 'join', 'adjoin', 'disjoin', 'junct', 'reject', 'inject', 'commut', 'complai',
+    'func', 'absen', 'essen', 'consent', 'assert', 'establish', 'static', 'absolut', 'entry', 'complement',
     #set, heal, repo, side, rand
     #act, bas, off, log
-    #url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, app, off, sent, func, plac, tun, set,
+    #url, exe, ecut, net, non, just, sum, scor, mean, box, ful, go, act, add, app, off, plac, tun, set,
     ]
 
 #print(sorted(diixo))
