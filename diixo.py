@@ -44,7 +44,7 @@ diixo = [
     'mail', 'magic', 'basic', 'mechanic', 'medic', 'metric', 'mimic', 'mini',
     'atomic', 'generic', 'basic', 'graphic', 'organic', 'empir', 'epic', 'optic', 'entropic', 'economic', 'dynamic', 'electr',
     'electron', 'entrop', 'fantast', 'hypoth', 'lexic', 'ident', 'algebra', 'algorithm', 'alphabet', 'analytic',
-    'arithmet', 'asymptot', 'typic', 'semant', 'specif', 'strateg', 'synthet', 'vocal', 'practic', 'public', 'topic',
+    'arithmet', 'asymptot', 'typic', 'semantic', 'specif', 'strateg', 'synthet', 'vocal', 'pract', 'public', 'topic',
     'vertic', 'numer', 'paradox', 'optimist', 'monolith', 'reciproc', 'scien', 'synonym', 'critic', 'ellip', 'drastic', 'extrinsic',
     'phonetic', 'physic', 'monoton', 'suspic', 'suffic', 'stratif', 'stochast', 'stick', 'splic', 'spher', 'spars', 'sophisticat',
     'complicat', 'predict', 'offic', 'strict', 'ficat', 'twice', 'trick', 'traff', 'tick', 'thick', 'theor', 'communic', 'symbol',
@@ -104,7 +104,9 @@ diixo = [
     'clean', 'cloud', 'daemon', 'kick', 'kill', 'incident', 'improv', 'eviden', 'emphas', 'emphat', 'confid', 'business', 'draft', 'facilit',
     'entr', 'entrop', 'entre', 'preneur', 'entrance', 'entrant', 'entrench', 'entreat', 'entrain', 'enter', 'entertain', 'enterpris',
     'accident', 'redundan', 'ready', 'already', 'affirm', 'reduc', 'refus', 'generat', 'region', 'regist', 'implement', 'implicit', 'implicat',
-    'implant', 'import', 'impress', 'pronoun', 'prompt', 'reflex', 'refin', 'regret',
+    'implant', 'import', 'impress', 'pronoun', 'prompt', 'reflex', 'refin', 'regret', 'format', 'formul', 'schedul', 'fragment',
+    'fract', 'fraction', 'schem', 'scholar', 'secur', 'sensor', 'sentenc', 'sharp', 'shard', 'session', 'singular', 'singl', 'sinus', 'sister',
+    'skeleton', 'slight',
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
