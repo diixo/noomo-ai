@@ -120,13 +120,14 @@ diixo = [
     'consol', 'counsel', 'crawl', 'culminat', 'cull', 'storag', 'creat', 'dangl', 'spoil', 'doubl', 'dwell', 'eclips', 'ecma', 'enabl',
     'ensembl', 'tangl', 'fellow', 'gambl', 'handl', 'middl', 'model', 'modem', 'prevail', 'rambl', 'conciliat', 'recruit', 'shuffl', 'retail',
     'scrambl', 'stumbl', 'tackl', 'trail', 'trembl', 'unveil', 'cultivat', 'danger', 'engag', 'ecolog', 'emulat', 'entail', 'moderat',
-    # 'shad', 'fell', 'fli', 'fool', 'right', 'tang', 'tile, ->'ling', night, rect+angl, 'empt', area, ling
+    # 'shad', 'fell', 'fli', 'right', 'tang', 'tile, ->'ling', night, rect+angl, 'empt', area, ling
     'commerc', 'modern', 'comment', 'comfort', 'styl', 'stupid', 'stump', 'stun', 'instant', 'instanc', 'escalat', 'elevat', 'event',
     'evok', 'evolut', 'evolv', 'exact', 'excus', 'devolv', 'exclusiv', 'execut', 'exempl', 'escap', 'even', 'eval', 'estim', 'evening',
     'element', 'retriev', 'retro', 'field', 'solid', 'feel', 'till', 'distill', 'tilt', 'disabl', 'spoil', 'tunel', 'box', 'virtual',
-    'list', 'limit', 'black', 'wait', 'liquidat', 'drop', 'lift', 'enlarg', 'enjoy', 'enhanc',
+    'list', 'limit', 'black', 'wait', 'liquidat', 'drop', 'lift', 'enlarg', 'enjoy', 'enhanc', 'fool', 'rectang', 'night', 'right',
+    'bright', 'wright', 'brief', 'offer', 'coffee', 'exist',
     #set, heal, repo, side, rand
-    #act, bas, off, log, bill
+    #act, bas, off, log,
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
     ]
 
