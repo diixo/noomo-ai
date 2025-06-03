@@ -113,7 +113,9 @@ diixo = [
     'restaurant', 'rest', 'fair', 'purchas', 'restrain', 'exploit', 'affab', 'fail', 'explod', 'result', 'resum', 'resurrect', 'host', 'grab',
     'ghost', 'hospit', 'hook', 'ordinar', 'imag', 'absorb', 'climb', 'describ', 'descen', 'condens', 'deriv', 'binanc', 'disturb', 'glob',
     'sell', 'bestow', 'best', 'beta', 'echo', 'semaphor', 'shot', 'shoot', 'short', 'screw', 'turn', 'truth', 'try', 'geo', 'sympath',
-    'advanc', 'advantag', 'isolat', 'adventur', 'adorn', 'gestur', 'shift',
+    'advanc', 'advantag', 'isolat', 'adventur', 'adorn', 'gestur', 'shift', 'shock', 'shin', 'snap', 'diminish', 'dimens', 'embod',
+    'ember', 'emblem', 'deceiv', 'member', 'embrac', 'melod', 'embellish', 'emerg', 'contain', 'novel', 'novic', 'tool', 'toggl', 'token',
+    # 'shad',
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
