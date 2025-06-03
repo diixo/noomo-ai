@@ -126,10 +126,11 @@ diixo = [
     'element', 'retriev', 'retro', 'field', 'solid', 'feel', 'till', 'distill', 'tilt', 'disabl', 'spoil', 'tunel', 'box', 'virtual',
     'list', 'limit', 'black', 'wait', 'liquidat', 'drop', 'lift', 'enlarg', 'enjoy', 'enhanc', 'fool', 'rectang', 'night', 'right',
     'bright', 'wright', 'brief', 'offer', 'coffee', 'exist', 'argument', 'fact', 'manual', 'manufactur', 'factor', 'refactor', 'manipul',
-    'fear', 'feasib', 'experiment',
+    'fear', 'feasib', 'experiment', 'export', 'desert', 'exponent', 'expound', 'explos', 'argue', 'greet', 'great', 'trade', 'half',
+    'govern', 'goal', 'general', 'futur', 'further', 'fork', 'font', 'eras', 'epoch', 'episod',
     #set, heal, repo, side, rand
-    #act, bas, off, log,
-    #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
+    #act, bas, log,
+    #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
     ]
 
 #print(sorted(diixo))
