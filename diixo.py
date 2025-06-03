@@ -125,7 +125,8 @@ diixo = [
     'evok', 'evolut', 'evolv', 'exact', 'excus', 'devolv', 'exclusiv', 'execut', 'exempl', 'escap', 'even', 'eval', 'estim', 'evening',
     'element', 'retriev', 'retro', 'field', 'solid', 'feel', 'till', 'distill', 'tilt', 'disabl', 'spoil', 'tunel', 'box', 'virtual',
     'list', 'limit', 'black', 'wait', 'liquidat', 'drop', 'lift', 'enlarg', 'enjoy', 'enhanc', 'fool', 'rectang', 'night', 'right',
-    'bright', 'wright', 'brief', 'offer', 'coffee', 'exist',
+    'bright', 'wright', 'brief', 'offer', 'coffee', 'exist', 'argument', 'fact', 'manual', 'manufactur', 'factor', 'refactor', 'manipul',
+    'fear', 'feasib', 'experiment',
     #set, heal, repo, side, rand
     #act, bas, off, log,
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
