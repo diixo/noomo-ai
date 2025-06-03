@@ -35,16 +35,16 @@ diixo = [
     'web', 'assembl', 'develop', 'work', 'design', 'thought',
     'round', 'around', 'flow', 'sheet', 'time', 'shop', 'group', 'local', 'ground', 'stack', 'sketch', 'sentiment', 'life',
     'with', 'through', 'rout', 'stand', 'shout', 'routine', 'scout', 'roll', 'perform', 'bound', 'look', 'scroll', 'standard', 'break',
-    #'about', 'out', #after, often, turn, under, point, under, upper, low, call, fall, non, none, nope
+    #'out', often, turn, point, upper, low, fall, non, none, nope
     'back', 'switch', 'throw', 'trac', 'track', 'tract', 'author', 'determin', 'detect', 'desir',
     'distract', 'distort', 'distinguish', 'distinct', 'clos', 'clon', 'mark', 'market', 'land', 'crypt', 'engine', 'featur', 'cach', 'memor',
-    #'abnormal', 'accident', 'actual', 'algorithm', 'alphabet', 'analytic', 'algebra', 'icall',
+    #'abnormal', 'accident', 'actual', 'algorithm', 'alphabet', 'analytic', 'algebra',
     #'call', 'ic', #??? #, 'ous',
     'allegor', 'alleviat', 'alleg', 'allocat', 'admin', 'admir', 'allot', 'allow', 'allud', 'allus', 'exam', 'examin', 'exampl', 'alli',
     'mail', 'magic', 'basic', 'mechanic', 'medic', 'metric', 'mimic', 'mini',
-    'atomic', 'generic', 'basic', 'graphic', 'organic', 'empiric', 'epic', 'optic', 'entropic', 'economic', 'dynamic', 'electric',
-    'electronic', 'entropic', 'fantastic', 'hypothetic', 'lexic', 'identic', 'algebraic', 'algorithmic', 'alphabetic', 'analytic',
-    'arithmetic', 'asymptotic', 'typic', 'semantic', 'specific', 'strategic', 'synthetic', 'vocal', 'practic', 'public', 'topic',
+    'atomic', 'generic', 'basic', 'graphic', 'organic', 'empir', 'epic', 'optic', 'entropic', 'economic', 'dynamic', 'electr',
+    'electron', 'entrop', 'fantast', 'hypoth', 'lexic', 'ident', 'algebra', 'algorithm', 'alphabet', 'analytic',
+    'arithmet', 'asymptot', 'typic', 'semant', 'specif', 'strateg', 'synthet', 'vocal', 'practic', 'public', 'topic',
     'vertic', 'numer', 'paradox', 'optimist', 'monolith', 'reciproc', 'scien', 'synonym', 'critic', 'ellip', 'drastic', 'extrinsic',
     'phonetic', 'physic', 'monoton', 'suspic', 'suffic', 'stratif', 'stochast', 'stick', 'splic', 'spher', 'spars', 'sophisticat',
     'complicat', 'predict', 'offic', 'strict', 'ficat', 'twice', 'trick', 'traff', 'tick', 'thick', 'theor', 'communic', 'symbol',
@@ -99,9 +99,11 @@ diixo = [
     'card', 'cardinal', 'discard', 'discover', 'discret', 'discrep', 'discriminat', 'discriminant', 'courag', 'renovat', 'revolut', 'reward',
     'error', 'step', 'stamp', 'stereo', 'append', 'apprecia', 'apprehen', 'proxim', 'approv', 'appropriat', 'advert', 'advis', # 'approx', 'approb',
     'admiss', 'admit', 'just', 'adjust', 'join', 'adjoin', 'disjoin', 'junct', 'reject', 'inject', 'commut', 'complai', 'represent', 'align',
-    'func', 'absen', 'essen', 'consent', 'assert', 'establish', 'static', 'absolut', 'entry', 'complement', 'mean', 'scor', 'accelerat',
+    'func', 'absen', 'essen', 'consent', 'assert', 'establish', 'static', 'absolut', 'complement', 'mean', 'scor', 'accelerat', 'entry',
     'under', 'understand', 'understood', 'graduat', 'deserv', 'deliver', 'declar', 'decid', 'damag', 'decept', 'concatenat', 'acced', 'abus',
-    'clean', 'cloud', 'daemon',
+    'clean', 'cloud', 'daemon', 'kick', 'kill', 'incident', 'improv', 'eviden', 'emphas', 'emphat', 'confid', 'business', 'draft', 'facilit',
+    #'entr',->entry
+    # 'ready', 'already',
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
