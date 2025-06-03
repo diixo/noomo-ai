@@ -99,11 +99,11 @@ diixo = [
     'card', 'cardinal', 'discard', 'discover', 'discret', 'discrep', 'discriminat', 'discriminant', 'courag', 'renovat', 'revolut', 'reward',
     'error', 'step', 'stamp', 'stereo', 'append', 'apprecia', 'apprehen', 'proxim', 'approv', 'appropriat', 'advert', 'advis', # 'approx', 'approb',
     'admiss', 'admit', 'just', 'adjust', 'join', 'adjoin', 'disjoin', 'junct', 'reject', 'inject', 'commut', 'complai', 'represent', 'align',
-    'func', 'absen', 'essen', 'consent', 'assert', 'establish', 'static', 'absolut', 'complement', 'mean', 'scor', 'accelerat', 'entry',
+    'func', 'absen', 'essen', 'consent', 'assert', 'establish', 'static', 'absolut', 'complement', 'mean', 'scor', 'accelerat',
     'under', 'understand', 'understood', 'graduat', 'deserv', 'deliver', 'declar', 'decid', 'damag', 'decept', 'concatenat', 'acced', 'abus',
     'clean', 'cloud', 'daemon', 'kick', 'kill', 'incident', 'improv', 'eviden', 'emphas', 'emphat', 'confid', 'business', 'draft', 'facilit',
-    #'entr',->entry
-    # 'ready', 'already',
+    'entr', 'entrop', 'entre', 'preneur', 'entrance', 'entrant', 'entrench', 'entreat', 'entrain', 'enter', 'entertain', 'enterpris',
+    # 'accident', 'redundan', 'ready', 'already',
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
