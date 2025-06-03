@@ -115,6 +115,8 @@ diixo = [
     'sell', 'bestow', 'best', 'beta', 'echo', 'semaphor', 'shot', 'shoot', 'short', 'screw', 'turn', 'truth', 'try', 'geo', 'sympath',
     'advanc', 'advantag', 'isolat', 'adventur', 'adorn', 'gestur', 'shift', 'shock', 'shin', 'snap', 'diminish', 'dimens', 'embod',
     'ember', 'emblem', 'deceiv', 'member', 'embrac', 'melod', 'embellish', 'emerg', 'contain', 'novel', 'novic', 'tool', 'toggl', 'token',
+    'transfer', 'travel', 'travers', 'triumph', 'trivial', 'trigger', 'trim', 'troubl', 'warn', 'warm', 'warp', 'tell', 'weird', 'craft',
+    'crack', 'weigh', 'weight', 'welcom', 'crash', 'bing',
     # 'shad',
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
