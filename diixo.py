@@ -53,7 +53,7 @@ diixo = [
     'verif', 'notic', 'pric', 'voic', 'which', 'academ', 'addict', 'advic', 'alpha', 'logic', 'trop', 'applic', 'artic', 'artific',
     'authent', 'centr', 'bion', 'canon', 'categor', 'click', 'hapt', 'servic', 'coeff', 'conflict', 'contradict', 'convict',
     'dedicat', 'dupl', 'defic', 'delic', 'dict', 'dictat', 'difficult', 'effic', 'electr', 'magnet', 'elicit', 'ergonom', 'evict',
-    'explic', 'felic', 'flick', 'harmon', 'hierarch', 'implic', 'acoust', 'amplic', 'analog', 'elastic', 'fabric', 'histor', 'plast',
+    'explic', 'felic', 'flick', 'harmon', 'hierarch', 'acoust', 'amplic', 'analog', 'elastic', 'fabric', 'histor', 'plast',
     'indic', 'indicat', 'inflict', 'intrinsic', 'logarithm', 'magnif', 'malic', 'metaphor', 'method', 'music', 'period', 'philosoph',
     'polit', 'polic', 'morph', 'python', 'quick', 'joic', 'replic', 'ridic', 'rubric', 'robo', 'scept', 'colon', 'skept', 'simplic',
     'vehic', 'variad', 'vindic', 'judic', 'benefic', 'choic', 'combin', 'energ', 'intric', 'justic', 'partic', 'predica', 'profic',
@@ -103,7 +103,8 @@ diixo = [
     'under', 'understand', 'understood', 'graduat', 'deserv', 'deliver', 'declar', 'decid', 'damag', 'decept', 'concatenat', 'acced', 'abus',
     'clean', 'cloud', 'daemon', 'kick', 'kill', 'incident', 'improv', 'eviden', 'emphas', 'emphat', 'confid', 'business', 'draft', 'facilit',
     'entr', 'entrop', 'entre', 'preneur', 'entrance', 'entrant', 'entrench', 'entreat', 'entrain', 'enter', 'entertain', 'enterpris',
-    'accident', 'redundan', 'ready', 'already', 'affirm', 'reduc', 'refus', 'generat', 'region', 'regist',
+    'accident', 'redundan', 'ready', 'already', 'affirm', 'reduc', 'refus', 'generat', 'region', 'regist', 'implement', 'implicit', 'implicat',
+    'implant', 'import', 'impress', 'pronoun', 'prompt', 'reflex', 'refin', 'regret',
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
