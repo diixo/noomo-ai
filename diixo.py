@@ -106,7 +106,10 @@ diixo = [
     'accident', 'redundan', 'ready', 'already', 'affirm', 'reduc', 'refus', 'generat', 'region', 'regist', 'implement', 'implicit', 'implicat',
     'implant', 'import', 'impress', 'pronoun', 'prompt', 'reflex', 'refin', 'regret', 'format', 'formul', 'schedul', 'fragment',
     'fract', 'fraction', 'schem', 'scholar', 'secur', 'sensor', 'sentenc', 'sharp', 'shard', 'session', 'singular', 'singl', 'sinus', 'sister',
-    'skeleton', 'slight', 'watch', 'smash', 'socket', 'social', 'summit', 'trend', 'trial', 'triang', 'water', 'scenar',
+    'skeleton', 'slight', 'watch', 'smash', 'socket', 'social', 'summit', 'trend', 'trial', 'triang', 'water', 'scenar', 'societ', 'init',
+    'finish', 'finit', 'affiliat', 'infer', 'finger', 'affect', 'affin', 'infect', 'financ', 'fine', 'confin', 'currenc', 'current', 'concurr',
+    'concret', 'liter', 'curious', 'recur', 'obscur', 'translat', 'rectif', 'transit', 'recurs', 'transcrib', 'transist', 'resist',
+    'resilien', 'silen',
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
