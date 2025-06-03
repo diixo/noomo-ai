@@ -82,7 +82,7 @@ diixo = [
     'contriv', 'custom', 'detain', 'embed', 'embar', 'exec', 'idea', 'ideal', 'migrat', 'accur', 'index', 'inspir', 'measur', 'must', 'www',
     'profil', 'profit', 'reach', 'read', 'cours', 'relevan', 'remot', 'remov', 'repeat', 'specif', 'separ', 'stabil', 'suggest', 'suit', 'sql',
     'sustain', 'swap', 'train', 'void', 'avoid', 'pool', 'variab', 'thesis', 'thread', 'spool', 'accept', 'viab', 'spoon', 'spoof', 'accent',
-    'detail', 'attach', 'attempt', 'audit', 'audio', 'attend', 'augment', 'instal', 'attent', 'insert', 'stor', 'strain', 'prob', 'seque',
+    'detail', 'attach', 'attempt', 'audit', 'audio', 'attend', 'augment', 'install', 'attent', 'insert', 'stor', 'strain', 'prob', 'seque',
     'compan', 'promis', 'contribut', 'coupl', 'curv', 'promot', 'concern', 'compact', 'concept', 'config', 'construct', 'consult', 'consum',
     'react', 'activat', 'sourc', 'dead', 'sound', 'lock', 'push', 'front', 'block', 'caps', 'capital', 'flock', 'float', 'strap', 'brand',
     'capsul', 'locat', 'spill', 'spin', 'flood', 'blog', 'capacit', 'flip', 'deal', 'cast', 'bias', 'balanc', 'born', 'border', 'borrow',
@@ -120,7 +120,8 @@ diixo = [
     'consol', 'counsel', 'crawl', 'culminat', 'cull', 'storag', 'creat', 'dangl', 'spoil', 'doubl', 'dwell', 'eclips', 'ecma', 'enabl',
     'ensembl', 'tangl', 'fellow', 'gambl', 'handl', 'middl', 'model', 'modem', 'prevail', 'rambl', 'conciliat', 'recruit', 'shuffl', 'retail',
     'scrambl', 'stumbl', 'tackl', 'trail', 'trembl', 'unveil', 'cultivat', 'danger', 'engag', 'ecolog', 'emulat', 'entail', 'moderat',
-    # 'shad', 'solid', 'feel', 'fell', 'fli', 'fool', 'right', 'styl', 'tang', 'till', tile, instaLL, ->'ling', night, rect+angl, empt, commerc
+    # 'shad', 'solid', 'feel', 'fell', 'fli', 'fool', 'right', 'tang', 'till', tile, ->'ling', night, rect+angl, 'empt', area, ling
+    'commerc', 'modern', 'comment', 'comfort', 'styl', 'stupid', 'stump', 'stun', 'instant', 'instanc',
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
