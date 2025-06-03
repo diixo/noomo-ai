@@ -116,8 +116,11 @@ diixo = [
     'advanc', 'advantag', 'isolat', 'adventur', 'adorn', 'gestur', 'shift', 'shock', 'shin', 'snap', 'diminish', 'dimens', 'embod',
     'ember', 'emblem', 'deceiv', 'member', 'embrac', 'melod', 'embellish', 'emerg', 'contain', 'novel', 'novic', 'tool', 'toggl', 'token',
     'transfer', 'travel', 'travers', 'triumph', 'trivial', 'trigger', 'trim', 'troubl', 'warn', 'warm', 'warp', 'tell', 'weird', 'craft',
-    'crack', 'weigh', 'weight', 'welcom', 'crash', 'bing',
-    # 'shad',
+    'crack', 'weigh', 'weight', 'welcom', 'crash', 'bing', 'bin', 'bill', 'angl', 'boil', 'bundl', 'celebrat', 'clip', 'compensat', 'cultur',
+    'consol', 'counsel', 'crawl', 'culminat', 'cull', 'storag', 'creat', 'dangl', 'spoil', 'doubl', 'dwell', 'eclips', 'ecma', 'enabl',
+    'ensembl', 'tangl', 'fellow', 'gambl', 'handl', 'middl', 'model', 'modem', 'prevail', 'rambl', 'conciliat', 'recruit', 'shuffl', 'retail',
+    'scrambl', 'stumbl', 'tackl', 'trail', 'trembl', 'unveil', 'cultivat', 'danger', 'engag', 'ecolog', 'emulat', 'entail', 'moderat',
+    # 'shad', 'solid', 'feel', 'fell', 'fli', 'fool', 'right', 'styl', 'tang', 'till', tile, instaLL, ->'ling', night, rect+angl, empt, commerc
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
