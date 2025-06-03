@@ -121,8 +121,9 @@ diixo = [
     'ensembl', 'tangl', 'fellow', 'gambl', 'handl', 'middl', 'model', 'modem', 'prevail', 'rambl', 'conciliat', 'recruit', 'shuffl', 'retail',
     'scrambl', 'stumbl', 'tackl', 'trail', 'trembl', 'unveil', 'cultivat', 'danger', 'engag', 'ecolog', 'emulat', 'entail', 'moderat',
     # 'shad', 'solid', 'feel', 'fell', 'fli', 'fool', 'right', 'tang', 'till', tile, ->'ling', night, rect+angl, 'empt', area, ling
-    'commerc', 'modern', 'comment', 'comfort', 'styl', 'stupid', 'stump', 'stun', 'instant', 'instanc',
-    'evok', 'evolut', 'evolv', 'exact', 'excus', 'devolv', 'exclusiv', 'execut', 'exempl', 'escap',
+    'commerc', 'modern', 'comment', 'comfort', 'styl', 'stupid', 'stump', 'stun', 'instant', 'instanc', 'escalat', 'elevat', 'event',
+    'evok', 'evolut', 'evolv', 'exact', 'excus', 'devolv', 'exclusiv', 'execut', 'exempl', 'escap', 'even', 'eval', 'estim', 'evening',
+    'element', 'retriev', 'retro',
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
