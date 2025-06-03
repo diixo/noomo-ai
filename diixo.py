@@ -41,12 +41,12 @@ diixo = [
     #'abnormal', 'accident', 'actual', 'algorithm', 'alphabet', 'analytic', 'algebra',
     #'call', 'ic', #??? #, 'ous',
     'allegor', 'alleviat', 'alleg', 'allocat', 'admin', 'admir', 'allot', 'allow', 'allud', 'allus', 'exam', 'examin', 'exampl', 'alli',
-    'mail', 'magic', 'basic', 'mechanic', 'medic', 'metric', 'mimic', 'mini',
+    'mail', 'magic', 'basic', 'mechanic', 'medic', 'mimic', 'mini',
     'atomic', 'generic', 'basic', 'graphic', 'organic', 'empir', 'epic', 'optic', 'entropic', 'economic', 'dynamic', 'electr',
     'electron', 'entrop', 'fantast', 'hypoth', 'lexic', 'ident', 'algebra', 'algorithm', 'alphabet', 'analytic',
     'arithmet', 'asymptot', 'typic', 'semantic', 'specif', 'strateg', 'synthet', 'vocal', 'pract', 'public', 'topic',
     'vertic', 'numer', 'paradox', 'optimist', 'monolith', 'reciproc', 'scien', 'synonym', 'critic', 'ellip', 'drastic', 'extrinsic',
-    'phonetic', 'physic', 'monoton', 'suspic', 'suffic', 'stratif', 'stochast', 'stick', 'splic', 'spher', 'spars', 'sophisticat',
+    'phonet', 'physic', 'monoton', 'suspic', 'suffic', 'stratif', 'stochast', 'stick', 'splic', 'spher', 'spars', 'sophisticat',
     'complicat', 'predict', 'offic', 'strict', 'ficat', 'twice', 'trick', 'traff', 'tick', 'thick', 'theor', 'communic', 'symbol',
     'solicit', 'small', 'smart', 'devic', 'certif', 'atmo', 'amplif', 'clarif', 'classif', 'codif', 'dens', 'densif', 'diversif',
     'electrif', 'gamif', 'gratif', 'identif', 'justif', 'minif', 'modif', 'mortif', 'notif', 'qualif', 'quantif', 'simplif', 'unif',
@@ -74,7 +74,7 @@ diixo = [
     'effect', 'expans', 'expedite', 'explor', 'command', 'confirm', 'except', 'expir', 'explain', 'explanat', 'follow', 'cluster', 'collect',
     'node', 'expand', 'excess', 'expert', 'chang', 'champ', 'channel', 'iterat', 'chanc', 'challeng', 'chapt', 'excit', 'recogni', 'fold',
     'charg', 'chart', 'clock', 'focus', 'call', 'ic', 'consist', 'optim', 'permut', 'flect', 'simpl', 'help', 'forward', 'feed',
-    'sight', 'sign', 'mono', 'assist', 'assign', 'insight', 'consider', 'associat', 'foresee', 'start', 'xor', 'debug', # metr->metric
+    'sight', 'sign', 'mono', 'assist', 'assign', 'insight', 'consider', 'associat', 'foresee', 'start', 'xor', 'debug', 'metr',
     'unifi', 'unicorn', 'unicode', 'jump', 'quiet', 'stream', 'ignit', 'fuck', 'guarant', 'digit', 'ignor', 'main', 'remain', 'maintain',
     'mainfram', 'mainten', 'domain', 'document', 'debut', 'debat', 'crowd', 'depend', 'doc', 'found', 'dock', 'funder', 'thunder',
     'pseudo', 'depict', 'depart', 'department', 'fund', 'fundament', 'estimat', 'sampl', 'doctrin', 'blund', 'requi', 'same',
@@ -112,7 +112,8 @@ diixo = [
     'resilien', 'silen', 'silhouett', 'resid', 'resident', 'resonat', 'restor', 'restart', 'restat', 'restrict', 'restruct', 'submit',
     'restaurant', 'rest', 'fair', 'purchas', 'restrain', 'exploit', 'affab', 'fail', 'explod', 'result', 'resum', 'resurrect', 'host', 'grab',
     'ghost', 'hospit', 'hook', 'ordinar', 'imag', 'absorb', 'climb', 'describ', 'descen', 'condens', 'deriv', 'binanc', 'disturb', 'glob',
-    'sell', 'bestow', 'best', 'beta', 'echo', 'semaphor', 'shot', 'shoot', 'short', 'screw', 'turn', 'truth',
+    'sell', 'bestow', 'best', 'beta', 'echo', 'semaphor', 'shot', 'shoot', 'short', 'screw', 'turn', 'truth', 'try', 'geo', 'sympath',
+    'advanc', 'advantag', 'isolat', 'adventur', 'adorn', 'gestur', 'shift',
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
