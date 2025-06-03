@@ -103,7 +103,7 @@ diixo = [
     'under', 'understand', 'understood', 'graduat', 'deserv', 'deliver', 'declar', 'decid', 'damag', 'decept', 'concatenat', 'acced', 'abus',
     'clean', 'cloud', 'daemon', 'kick', 'kill', 'incident', 'improv', 'eviden', 'emphas', 'emphat', 'confid', 'business', 'draft', 'facilit',
     'entr', 'entrop', 'entre', 'preneur', 'entrance', 'entrant', 'entrench', 'entreat', 'entrain', 'enter', 'entertain', 'enterpris',
-    # 'accident', 'redundan', 'ready', 'already',
+    'accident', 'redundan', 'ready', 'already', 'affirm', 'reduc', 'refus', 'generat', 'region', 'regist',
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
