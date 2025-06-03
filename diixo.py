@@ -110,7 +110,9 @@ diixo = [
     'finish', 'finit', 'affiliat', 'infer', 'finger', 'affect', 'affin', 'infect', 'financ', 'fine', 'confin', 'currenc', 'current', 'concurr',
     'concret', 'liter', 'curious', 'recur', 'obscur', 'translat', 'rectif', 'transit', 'recurs', 'transcrib', 'transist', 'resist',
     'resilien', 'silen', 'silhouett', 'resid', 'resident', 'resonat', 'restor', 'restart', 'restat', 'restrict', 'restruct', 'submit',
-    'restaurant', 'rest', 'fair', 'purchas', 'restrain', 'exploit', 'affab', 'fail', 'explod', 'result',
+    'restaurant', 'rest', 'fair', 'purchas', 'restrain', 'exploit', 'affab', 'fail', 'explod', 'result', 'resum', 'resurrect', 'host', 'grab',
+    'ghost', 'hospit', 'hook', 'ordinar', 'imag', 'absorb', 'climb', 'describ', 'descen', 'condens', 'deriv', 'binanc', 'disturb', 'glob',
+    'sell', 'bestow',
     #set, heal, repo, side, rand
     #act, bas, off, log, bill
     #url, exe, ecut, net, non, sum, box, ful, go, act, add, app, off, plac, tun, set,
