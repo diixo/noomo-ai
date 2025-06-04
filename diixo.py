@@ -140,7 +140,9 @@ diixo = [
     'defend', 'deflect', 'deflat', 'entire', 'discord', 'either', 'twiddl', 'neighbo', 'neither', 'negotiat', 'neglig', 'neglect', #'sync'
     'negativ', 'render', 'surrender', 'surround', 'surpris', 'suspend', 'surrogate', 'suspect', 'survey', 'suspens', 'surviv',# 'con'
     'deft', 'obfuscat', 'confus', 'infus', 'congrat', 'congest', 'defus', 'infring', 'degrad', 'tensor',
-    #set, heal, repo, side, rand, mov, def, nom-nomo
+    'tend', 'tender', 'pretend', 'tens', 'pretens', 'pretenc', 'contend', 'contempt', 'contemplat', 'contemp',
+    # threat, privat, 'privileg', other
+    #set, heal, repo, side, rand, mov, def, nom-nomo, uous
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
     ]
