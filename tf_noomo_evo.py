@@ -62,8 +62,7 @@ def statistic(tokenizer_gpt: GPT2TokenizerFast):
     print(f"tokenizer_gpt.config: vocab.sz={len(tokenizer_gpt.get_vocab())},",
         f"pad_token_id={tokenizer_gpt.pad_token_id},",
         f"bos_token_id={tokenizer_gpt.bos_token_id},",
-        f"eos_token_id={tokenizer_gpt.eos_token_id}",
-        )
+        f"eos_token_id={tokenizer_gpt.eos_token_id}",)
 
 def tokens_to_file(words: list):
     with open(outpath, "w", encoding="utf-8") as f_out:

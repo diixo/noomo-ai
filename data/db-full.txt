@@ -42,6 +42,7 @@ abstracting
 abstractly
 abstracts
 abuse
+accede
 accelerate
 accelerated
 accelerates
@@ -114,6 +115,8 @@ activating
 actively
 acts
 actually
+actuate
+actuates
 adapt
 adapted
 adapting
@@ -423,7 +426,9 @@ arrives
 artificially
 as
 ascend
+ascended
 ascending
+ascends
 ascribe
 ascribed
 ascribes
@@ -1094,6 +1099,7 @@ conceptualized
 conceptually
 concerned
 concerning
+conciliate
 concisely
 conclude
 concluded
@@ -1386,8 +1392,10 @@ cry
 cryptocurrencies
 cryptographic
 cryptography
+cull
 culled
 culling
+culls
 culminate
 culminated
 culminating
@@ -1429,6 +1437,9 @@ daemonized
 damage
 damaging
 damped
+dangle
+dangled
+dangles
 dangling
 dare
 dared
@@ -3305,6 +3316,8 @@ inserters
 inserting
 inserts
 inset
+insinuated
+insinuates
 insist
 insisted
 insistently
@@ -4401,6 +4414,8 @@ perhaps
 periodically
 permanently
 permeate
+permeated
+permeates
 permit
 permits
 permitted
@@ -4783,6 +4798,7 @@ raised
 raises
 raising
 rallied
+ramble
 ramp-up
 ran
 randomize
@@ -6436,8 +6452,12 @@ trained
 training
 trains
 transact
+transceive
+transcending
+transcends
 transclude
 transcluded
+transcludes
 transcribe
 transcribed
 transcribes
@@ -6529,6 +6549,7 @@ tweeting
 twice
 twiddle
 twiddled
+twiddles
 twiddling
 twisted
 twisting
@@ -7361,7 +7382,9 @@ advancing
 advantage
 advantageous
 advantages
+adventure
 adventures
+adventurous
 adverbs
 adversarial
 adversary
@@ -9433,6 +9456,7 @@ concerns
 concession
 concessions
 conciliating
+conciliation
 concise
 conclusion
 conclusions
@@ -10221,13 +10245,18 @@ deeptech
 defaulting
 defaults
 defeated
+defeats
 defect
 defective
 defects
 defence
+defenceless
+defences
+defendant
 defended
 defender
 defense
+defenseless
 defenses
 defensive
 deference
@@ -10237,6 +10266,7 @@ defiance
 deficiencies
 deficiency
 deficient
+deficit
 definability
 definite
 definiteness
@@ -10244,6 +10274,7 @@ definition
 definitions
 definitive
 definitively
+deflation
 deflection
 deformable
 deformation
@@ -11133,6 +11164,7 @@ embedding-based
 embeddings
 ember
 ember's
+emblem
 emblematic
 embodiment
 embodiments
@@ -11264,8 +11296,6 @@ ensuing
 entailment
 entangled
 entanglement
-enterpreneur
-enterpreneurship
 enterprise
 enterprise's
 enterprise-grade
@@ -11289,6 +11319,7 @@ entity-framework
 entity-tagged
 entrained
 entrance
+entranced
 entrant
 entrants
 entrapped
@@ -12085,6 +12116,7 @@ fpga
 fps
 fpu
 fractal
+fractals
 fraction
 fractional
 fractions
@@ -13085,6 +13117,7 @@ impertinent
 impertinently
 impetuous
 impinging
+implant
 implanted
 implausible
 implementable
@@ -15548,7 +15581,6 @@ newsletter
 newsletters
 newspaper
 newspapers
-newtonsoft
 next
 next-gen
 next-generation
@@ -15921,8 +15953,12 @@ off-topic
 offbeat
 offence
 offences
+offender
 offending
+offenses
 offensive
+offensively
+offensiveness
 offerings
 office
 office365
@@ -16517,6 +16553,7 @@ perl
 perl's
 permalink
 permanent
+permeation
 permissible
 permission
 permissioned
@@ -17458,6 +17495,7 @@ rails-activerecord
 rain
 rained
 ram
+rambler
 rambling
 rampant
 rampdown
@@ -20582,6 +20620,7 @@ twelve
 twentieth
 twenty
 twilight
+twin
 twink
 twinkling
 twins
