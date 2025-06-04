@@ -97,7 +97,7 @@ diixo = [
     'sprang', 'straight', 'lagrang', 'fresh', 'after', 'updat', 'about', 'befor', 'abound', 'mention', 'abort', 'above', 'seam', 'fetch',
     'prefer', 'refer', 'hang', 'heap', 'cheap', 'chat', 'cheat', 'regulat', 'occur', 'regular', 'caption', 'captur', 'captivat', 'capt',
     'card', 'cardinal', 'discard', 'discover', 'discret', 'discrep', 'discriminat', 'discriminant', 'courag', 'renovat', 'revolut', 'reward',
-    'error', 'step', 'stamp', 'stereo', 'append', 'apprecia', 'apprehen', 'proxim', 'approv', 'appropriat', 'advert', 'advis', # 'approx', 'approb',
+    'error', 'step', 'stamp', 'stereo', 'append', 'apprecia', 'apprehen', 'proxim', 'approv', 'appropriat', 'advert', 'advis',
     'admiss', 'admit', 'just', 'adjust', 'join', 'adjoin', 'disjoin', 'junct', 'reject', 'inject', 'commut', 'complai', 'represent', 'align',
     'func', 'absen', 'essen', 'consent', 'assert', 'establish', 'static', 'absolut', 'complement', 'mean', 'scor', 'accelerat',
     'under', 'understand', 'understood', 'graduat', 'deserv', 'deliver', 'declar', 'decid', 'damag', 'decept', 'concatenat', 'acced', 'abus',
@@ -133,8 +133,10 @@ diixo = [
     'divers', 'diverg', 'divid', 'docker', 'dominat', 'donat', 'door', 'doom', 'camp', 'campus', 'dominan', 'boost', 'enthusiast',
     'perfect', 'person', 'perspectiv', 'persist', 'persuad', 'inherit', 'innovat', 'inspect', 'offenc', 'offens', 'offend', 'often',
     'actual', 'actuat', 'character', 'impact', 'redact', 'satellit', 'syntax', 'tranquil', 'transact', 'trajector', 'trait', 'transceiv',
-    'insinuat', 'transcend', 'transclud',
-    #set, heal, repo, side, rand
+    'insinuat', 'transcend', 'transclud', 'txt', 'twitter', 'tweet', 'two', 'network', 'neur', 'modul', 'twitch', 'twink', 'twin',
+    'mount', 'mistake', 'moment', 'ascend', 'mountain', 'maintain', 'motiv', 'approximat', 'approb', 'motion', 'emotion',
+    'nom', 'mouse', 'merg', 'mesh', 'among', 'demand', 'match', 'amount', 'phenomen', 'gnome',
+    #set, heal, repo, side, rand, mov, def, nom-nomo
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
     ]
