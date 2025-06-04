@@ -138,7 +138,8 @@ diixo = [
     'nom', 'mouse', 'merg', 'mesh', 'among', 'demand', 'match', 'amount', 'phenomen', 'gnome', 'default', 'defect', 'defeat', 'defer',
     'commiss', 'dismiss', 'emiss', 'intermiss', 'permiss', 'remiss', 'submiss', 'permanent', 'permit', 'permeat', 'defenc', 'defens',
     'defend', 'deflect', 'deflat', 'entire', 'discord', 'either', 'twiddl', 'neighbo', 'neither', 'negotiat', 'neglig', 'neglect', #'sync'
-    'negativ', 'render', 'surrender', 'surround', 'surpris', 'suspend', 'surrogate', 'suspect', 'survey', 'suspens', 'surviv',
+    'negativ', 'render', 'surrender', 'surround', 'surpris', 'suspend', 'surrogate', 'suspect', 'survey', 'suspens', 'surviv',# 'con'
+    'deft', 'obfuscat', 'confus', 'infus', 'congrat', 'congest', 'defus', 'infring', 'degrad', 'tensor',
     #set, heal, repo, side, rand, mov, def, nom-nomo
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
