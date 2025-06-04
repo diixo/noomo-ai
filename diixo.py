@@ -134,8 +134,10 @@ diixo = [
     'perfect', 'person', 'perspectiv', 'persist', 'persuad', 'inherit', 'innovat', 'inspect', 'offenc', 'offens', 'offend', 'often',
     'actual', 'actuat', 'character', 'impact', 'redact', 'satellit', 'syntax', 'tranquil', 'transact', 'trajector', 'trait', 'transceiv',
     'insinuat', 'transcend', 'transclud', 'txt', 'twitter', 'tweet', 'two', 'network', 'neur', 'modul', 'twitch', 'twink', 'twin',
-    'mount', 'mistake', 'moment', 'ascend', 'mountain', 'maintain', 'motiv', 'approximat', 'approb', 'motion', 'emotion',
-    'nom', 'mouse', 'merg', 'mesh', 'among', 'demand', 'match', 'amount', 'phenomen', 'gnome',
+    'mount', 'mistake', 'moment', 'ascend', 'mountain', 'maintain', 'motiv', 'approximat', 'approb', 'motion', 'emotion', 'deform',
+    'nom', 'mouse', 'merg', 'mesh', 'among', 'demand', 'match', 'amount', 'phenomen', 'gnome', 'default', 'defect', 'defeat', 'defer',
+    'commiss', 'dismiss', 'emiss', 'intermiss', 'permiss', 'remiss', 'submiss', 'permanent', 'permit', 'permeat', 'defenc', 'defens',
+    'defend', 'deflect', 'deflat',
     #set, heal, repo, side, rand, mov, def, nom-nomo
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
