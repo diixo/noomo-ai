@@ -145,7 +145,13 @@ diixo = [
     'chain', 'certain', 'annotat', 'ambig', 'amazon', 'ambit', 'anneal', 'answer', 'afraid', 'amaz', 'ultimat', 'tweak', 'tutor',
     'tunnel', 'anim', 'reanimat', 'world', 'hello', 'analys', 'analyz', 'anchor', 'ancient', 'desk', 'correct', 'tree', 'math',
     'street', 'plot', 'material', 'imitat', 'tupl', 'imbue', 'immediat', 'immens', 'popular', 'pleas', 'populat', 'precedent',
-    'menu', 'mentor', 'duck', 'dump', 'preced', 'cautio',
+    'menu', 'mentor', 'duck', 'dump', 'preced', 'cautio', 'dual', 'gradual', 'grad', 'upgrad', 'gradat', 'gradient', 'gradl',
+    'fluctuat', 'fluen', 'fluff', 'conform', 'complian', 'flourish', 'flush', 'impertinen', 'imped', 'impend', 'impel', 'immut',
+    'immers', 'imminent', 'migrat', 'industr', 'indulg', 'induct', 'induc', 'individual', 'disput', 'indent', 'incubat', 'increment',
+    'decreas', 'increas', 'incredibl', 'height', 'spat', 'final', 'filt', 'involv', 'invok', 'laugh', 'legal', 'legitim',
+    'lesson', 'level', 'leverag', 'length', 'lemma', 'layer', 'play', 'splay', 'pilot', 'patch', 'platform', 'team', 'patent',
+    'autonom', 'steep', 'pair', 'parallel', 'pardon', 'phras', 'passiv', 'repetit', 'php', 'storm', 'brain', 'branch', 'batch',
+    'batter', 'replac', 'famil', 'battle', 'bayes', 'false', 'exult', 'extrem', 'extern', 'exterior', 'devot', 'dexter',
     # other
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous
     #act, bas, log,
