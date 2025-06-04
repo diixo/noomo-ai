@@ -2,7 +2,7 @@
 diixo = [
     'able', 'al', 'all', 'ally', 'also', 'an', 'and', 'any', 'are', 'as', 'ask', 'be', 'fall',
     'because', 'but',
-    'can', 'cause', 'class', 'code', 'come', 'commit', 'common', 'could',
+    'can', 'caus', 'class', 'code', 'come', 'commit', 'common', 'could',
     'day', 'did', 'do', 'doubt', 'down', 'drama', 'draw',
     'each', 'earn', 'ed', 'end', 'equal', 'er', 'es', 'ever', 'every', 'exten',
     'fill', 'fix', 'fore',
@@ -143,7 +143,9 @@ diixo = [
     'tend', 'tender', 'pretend', 'tens', 'pretens', 'pretenc', 'contend', 'contempt', 'contemplat', 'contemp', 'prior', 'threat',
     'depress', 'depriv', 'three', 'depreciat', 'tendenc', 'anonym', 'anomal', 'annual', 'mother', 'brother', 'annoy', 'announc',
     'chain', 'certain', 'annotat', 'ambig', 'amazon', 'ambit', 'anneal', 'answer', 'afraid', 'amaz', 'ultimat', 'tweak', 'tutor',
-    'tunnel', 'anim', 'reanimat', 'world', 'hello', 'analys', 'analyz', 'anchor', 'ancient', 'desk', 'correct',
+    'tunnel', 'anim', 'reanimat', 'world', 'hello', 'analys', 'analyz', 'anchor', 'ancient', 'desk', 'correct', 'tree', 'math',
+    'street', 'plot', 'material', 'imitat', 'tupl', 'imbue', 'immediat', 'immens', 'popular', 'pleas', 'populat', 'precedent',
+    'menu', 'mentor', 'duck', 'dump', 'preced', 'cautio',
     # other
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous
     #act, bas, log,
