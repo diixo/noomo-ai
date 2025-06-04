@@ -139,9 +139,12 @@ diixo = [
     'commiss', 'dismiss', 'emiss', 'intermiss', 'permiss', 'remiss', 'submiss', 'permanent', 'permit', 'permeat', 'defenc', 'defens',
     'defend', 'deflect', 'deflat', 'entire', 'discord', 'either', 'twiddl', 'neighbo', 'neither', 'negotiat', 'neglig', 'neglect', #'sync'
     'negativ', 'render', 'surrender', 'surround', 'surpris', 'suspend', 'surrogate', 'suspect', 'survey', 'suspens', 'surviv',# 'con'
-    'deft', 'obfuscat', 'confus', 'infus', 'congrat', 'congest', 'defus', 'infring', 'degrad', 'tensor',
-    'tend', 'tender', 'pretend', 'tens', 'pretens', 'pretenc', 'contend', 'contempt', 'contemplat', 'contemp',
-    # threat, privat, 'privileg', other
+    'deft', 'obfuscat', 'confus', 'infus', 'congrat', 'congest', 'defus', 'infring', 'degrad', 'tensor', 'privileg', 'privat', #privacy
+    'tend', 'tender', 'pretend', 'tens', 'pretens', 'pretenc', 'contend', 'contempt', 'contemplat', 'contemp', 'prior', 'threat',
+    'depress', 'depriv', 'three', 'depreciat', 'tendenc', 'anonym', 'anomal', 'annual', 'mother', 'brother', 'annoy', 'announc',
+    'chain', 'certain', 'annotat', 'ambig', 'amazon', 'ambit', 'anneal', 'answer', 'afraid', 'amaz', 'ultimat', 'tweak', 'tutor',
+    'tunnel', 'anim', 'reanimat', 'world', 'hello', 'analys', 'analyz', 'anchor', 'ancient', 'desk', 'correct',
+    # other
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
