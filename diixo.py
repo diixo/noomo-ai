@@ -131,7 +131,9 @@ diixo = [
     'eliminat', 'effort', 'eigen', 'eject', 'elaborat', 'elect', 'descript', 'degree', 'elaps', 'employ', 'envelop', 'environ', 'exceed',
     'delay', 'delet', 'delegat', 'definit', 'deliberat', 'demonstra', 'mystif', 'depreciate', 'eligib', 'elegan', 'house', 'room', 'root',
     'divers', 'diverg', 'divid', 'docker', 'dominat', 'donat', 'door', 'doom', 'camp', 'campus', 'dominan', 'boost', 'enthusiast',
-    'perfect', 'person', 'perspectiv', 'persist', 'persuad', 'inherit', 'innovat',
+    'perfect', 'person', 'perspectiv', 'persist', 'persuad', 'inherit', 'innovat', 'inspect', 'offenc', 'offens', 'offend', 'often',
+    'actual', 'actuat', 'character', 'impact', 'redact', 'satellit', 'syntax', 'tranquil', 'transact', 'trajector', 'trait', 'transceiv',
+    'insinuat', 'transcend', 'transclud',
     #set, heal, repo, side, rand
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
