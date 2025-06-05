@@ -180,7 +180,8 @@ diixo = [
     'granular', 'grace', 'grappl', 'grant', 'grand', 'gratif', 'gracious', 'disgrac', 'grate', 'gray',  'aboli', 'aggravat',
     'ablat', 'abid', 'abhor', 'abomina', 'parabol', 'paradigm', 'paragraph', 'parallax', 'parad', 'abscond', 'abrogat', 'abrupt',
     'abreast', 'acquaint', 'acquies', 'acquisition', 'knowledg', 'amus', 'amend', 'ambi', 'ambient', 'audi', 'concord',
-    'conclusi', 'comprehen', 'congru',
+    'conclusi', 'comprehen', 'congru', 'compound', 'aris', 'compris', 'compromis', 'compuls', 'familiar', 'famous', 'galler',
+    'gallant', 'gadget',
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
