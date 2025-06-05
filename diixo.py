@@ -26,7 +26,7 @@ diixo = [
     'spect', 'licens', 'los', 'mess', 'opposs', 'pars', 'press', 'process', 'profess', 'progress', 'regress', 'propos', 'purpos', 'vers', 'sens',
     'sing', 'stress',
     'key', 'word', 'form', 'base', 'inform', 'ativ', 'present', 'oper', 'open', 'norm', 'relat', 'auto', 'launch',
-    'object', 'coord', 'cover', 'nomi', 'pack', 'part', 'poly', 'count', 'direct', 'master', 'organ', 'order', 'over',
+    'object', 'coordinat', 'cover', 'nomi', 'pack', 'part', 'poly', 'count', 'direct', 'master', 'organ', 'order', 'over',
     'bio', 'cyber', 'tech', 'anti', 'logic', 'atic', 'deep', 'space', 'sport', 'cycl',
     'free', 'ship', 'graph', 'own', 'photo', 'freez', 'slow', 'show', 'grow',
     'hyper', 'hash', 'gram', 'hard', 'lexic', 'orth',
@@ -43,7 +43,7 @@ diixo = [
     'allegor', 'alleviat', 'alleg', 'allocat', 'admin', 'admir', 'allot', 'allow', 'allud', 'allus', 'exam', 'examin', 'exampl', 'alli',
     'mail', 'magic', 'basic', 'mechanic', 'medic', 'mimic', 'mini',
     'atomic', 'generic', 'basic', 'graphic', 'organic', 'empir', 'epic', 'optic', 'entropic', 'economic', 'dynamic', 'electr',
-    'electron', 'entrop', 'fantast', 'hypoth', 'lexic', 'ident', 'algebra', 'algorithm', 'alphabet', 'analytic',
+    'electron', 'entrop', 'fantas', 'hypoth', 'lexic', 'ident', 'algebra', 'algorithm', 'alphabet', 'analytic',
     'arithmet', 'asymptot', 'typic', 'semantic', 'specif', 'strateg', 'synthet', 'vocal', 'pract', 'public', 'topic',
     'vertic', 'numer', 'paradox', 'optimist', 'monolith', 'reciproc', 'scien', 'synonym', 'critic', 'ellip', 'drastic', 'extrinsic',
     'phonet', 'physic', 'monoton', 'suspic', 'suffic', 'stratif', 'stochast', 'stick', 'splic', 'spher', 'spars', 'sophisticat',
@@ -126,7 +126,7 @@ diixo = [
     'element', 'retriev', 'retro', 'field', 'solid', 'feel', 'till', 'distill', 'tilt', 'disabl', 'spoil', 'tunel', 'box', 'virtual',
     'list', 'limit', 'black', 'wait', 'liquidat', 'drop', 'lift', 'enlarg', 'enjoy', 'enhanc', 'fool', 'rectang', 'night', 'right',
     'bright', 'wright', 'brief', 'offer', 'coffee', 'exist', 'argument', 'fact', 'manual', 'manufactur', 'factor', 'refactor', 'manipul',
-    'fear', 'feasib', 'experiment', 'export', 'desert', 'exponent', 'expound', 'explos', 'argue', 'greet', 'great', 'trade', 'half',
+    'fear', 'feasib', 'experiment', 'export', 'desert', 'exponent', 'expound', 'explos', 'argue', 'greet', 'great', 'trad', 'half',
     'govern', 'goal', 'general', 'futur', 'further', 'fork', 'font', 'eras', 'epoch', 'episod', 'camera', 'kernel', 'keep', 'campaign',
     'eliminat', 'effort', 'eigen', 'eject', 'elaborat', 'elect', 'descript', 'degree', 'elaps', 'employ', 'envelop', 'environ', 'exceed',
     'delay', 'delet', 'delegat', 'definit', 'deliberat', 'demonstra', 'mystif', 'depreciate', 'eligib', 'elegan', 'house', 'room', 'root',
@@ -156,8 +156,9 @@ diixo = [
     'multiplay', 'particip', 'particul', 'perpendicular', 'persever', 'precipit', 'precis', 'preclud', 'prolong', 'prominen', 'prolog',
     'prohibit', 'procur', 'proceed', 'procedur', 'primitiv', 'princip', 'prevent', 'presum', 'pressur', 'premis', 'preliminar',
     'prejudic', 'prais', 'possess', 'postgres', 'multipl', 'multiplatform', 'multiplex', 'multiple', 'templat', 'temperatur',
-    'tempor', 'temper', 'tempt', 'tomorrow', 'truncat', 'true',
-    # other
+    'tempor', 'temper', 'tempt', 'tomorrow', 'truncat', 'true', 'correlat', 'correspond', 'corrupt', 'tradition', 'patien',
+    'pattern', 'way', 'sway', 'ubiquit', 'impart', 'aware', 'what', 'well', 'swell', 'award', 'fascinat', 'whence', 'fashion',
+    'far', 'faq', 'awak', 'awe', 'flaw', 'ware', 'while', 'insist', 'between', 'firm', 'first', 'beyond', # fire fare other ransom worth whim vocab rank rapid
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
