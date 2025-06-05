@@ -175,7 +175,7 @@ diixo = [
     'slot', 'slop', 'slim', 'slid', 'show', 'slic', 'slip', 'sponsor', 'split', 'splin', 'spontane', 'spread', 'speed',
     'squeez', 'sprint', 'staff', 'stemm', 'steer', 'stencil', 'bottom', 'brush', 'speculat', 'speech', 'special', 'specializ',
     'spectr', 'speci', 'spec', 'bump', 'calendar', 'calibrat', 'button', 'cable', 'burn', 'budget', 'criteri', 'credit', 'crop',
-    'critique', 'crush', 'crunch',
+    'critique', 'crush', 'crunch', 'cub', 'lib', 'libert', 'liberal', 'libr', 'std', 'url', 'zero', 'unfurl', 'hour',
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
