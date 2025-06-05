@@ -139,7 +139,7 @@ diixo = [
     'commiss', 'dismiss', 'emiss', 'intermiss', 'permiss', 'remiss', 'submiss', 'permanent', 'permit', 'permeat', 'defenc', 'defens',
     'defend', 'deflect', 'deflat', 'entire', 'discord', 'either', 'twiddl', 'neighbo', 'neither', 'negotiat', 'neglig', 'neglect', #'sync'
     'negativ', 'render', 'surrender', 'surround', 'surpris', 'suspend', 'surrogate', 'suspect', 'survey', 'suspens', 'surviv',# 'con'
-    'deft', 'obfuscat', 'confus', 'infus', 'congrat', 'congest', 'defus', 'infring', 'degrad', 'tensor', 'privileg', 'privat', #privacy
+    'deft', 'obfuscat', 'confus', 'infus', 'congratulat', 'congest', 'defus', 'infring', 'degrad', 'tensor', 'privileg', 'privat', #privacy
     'tend', 'tender', 'pretend', 'tens', 'pretens', 'pretenc', 'contend', 'contempt', 'contemplat', 'contemp', 'prior', 'threat',
     'depress', 'depriv', 'three', 'depreciat', 'tendenc', 'anonym', 'anomal', 'annual', 'mother', 'brother', 'annoy', 'announc',
     'chain', 'certain', 'annotat', 'ambig', 'amazon', 'ambit', 'anneal', 'answer', 'afraid', 'amaz', 'ultimat', 'tweak', 'tutor',
@@ -160,8 +160,10 @@ diixo = [
     'pattern', 'way', 'sway', 'ubiquit', 'impart', 'aware', 'what', 'well', 'swell', 'award', 'fascinat', 'whence', 'fashion',
     'far', 'faq', 'awak', 'awe', 'flaw', 'ware', 'while', 'insist', 'between', 'firm', 'first', 'beyond', 'betray', 'whim', 'worth',
     'wrap', 'other', 'bother', 'vocabular', 'rank', 'crank', 'shrank', 'drank', 'cramp', 'drain', 'fair', 'fare', 'brave', 'ravel',
-    'breach', 'large', 'laravel', 'outlast',
-    # last fire fare ransom rapid wind
+    'breach', 'large', 'laravel', 'outlast', 'last', 'latch', 'accumulat', 'circulat', 'collat', 'conflat', 'dilat', 'laten',
+    'simulat', 'stimul', 'stipulat', 'ventilat', 'violat', 'vendor', 'violen', 'lateral', 'ventur', 'colleague', 'conferenc',
+    'deque',
+    # late, fire fare ransom rapid wind
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
