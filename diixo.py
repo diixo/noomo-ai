@@ -184,8 +184,9 @@ diixo = [
     'gallant', 'gadget', 'giant', 'gentl', 'git', 'gain', 'gift', 'girl', 'giga', 'gigant', 'grind', 'groom', 'griev', 'greed',
     'assuag', 'assum', 'assuranc', 'summon', 'assur', 'assort', 'astonish', 'astound', 'summer', 'amid', 'amiabl', 'amiss',
     'amplitud', 'android', 'anticipat', 'antenn', 'ansi', 'ansible', 'alias', 'string', 'strik', 'strip', 'substitut',
-    'strid', 'striv', 'aspect', 'aspir', 'assault', 'width', 'body', 'bold', 'boast', 'anxious', 'blur', 'stretch',
-    'substantiat', 'strong', 'widget',
+    'strid', 'striv', 'aspect', 'aspir', 'assault', 'width', 'body', 'bold', 'boast', 'anxious', 'blur', 'stretch', 'addendum',
+    'substantiat', 'strong', 'widget', 'cheer', 'chief', 'child', 'summa', 'behav', 'behavio', 'behaviou', 'computer', 'intelli',
+    # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
