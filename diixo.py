@@ -56,7 +56,7 @@ diixo = [
     'explic', 'felic', 'flick', 'harmon', 'hierarch', 'acoust', 'amplic', 'analog', 'elastic', 'fabric', 'histor', 'plast',
     'indic', 'indicat', 'inflict', 'intrinsic', 'logarithm', 'magnif', 'malic', 'metaphor', 'method', 'music', 'period', 'philosoph',
     'polit', 'polic', 'morph', 'python', 'quick', 'joic', 'replic', 'ridic', 'rubric', 'robo', 'scept', 'colon', 'skept', 'simplic',
-    'vehic', 'variad', 'vindic', 'judic', 'benefic', 'choic', 'combin', 'energ', 'intric', 'justic', 'partic', 'predica', 'profic',
+    'vehic', 'variad', 'vindic', 'judic', 'benefic', 'choic', 'combin', 'energ', 'intric', 'justic', 'particl', 'predica', 'profic',
     'radic', 'robust', 'modal', 'thing', 'cloth', 'breath', 'smooth', 'sooth', 'serv', 'reserv', 'observ', 'server', 'user', 'squar',
     #'pick', 'kick', 'sick', 'slic', 'wick', 'uni', 'mnemo', 'nice', 'nich',
     'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici', 'contact', 'synt', 'silicon', 'icon', 'respon',
@@ -152,6 +152,8 @@ diixo = [
     'lesson', 'level', 'leverag', 'length', 'lemma', 'layer', 'play', 'splay', 'pilot', 'patch', 'platform', 'team', 'patent',
     'autonom', 'steep', 'pair', 'parallel', 'pardon', 'phras', 'passiv', 'repetit', 'php', 'storm', 'brain', 'branch', 'batch',
     'batter', 'replac', 'famil', 'battle', 'bayes', 'false', 'exult', 'extrem', 'extern', 'exterior', 'devot', 'dexter',
+    'extenuat', 'extinguish', 'glyph', 'glow', 'agree', 'agitat', 'flex', 'plex', 'inflect', 'fleet', 'inflat', 'perplex',
+    'multiplay', 'particip', 'particul', 'perpendicular', 'persever', 'precipit', 'precis', 'preclud',
     # other
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous
     #act, bas, log,
