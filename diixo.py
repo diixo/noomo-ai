@@ -171,7 +171,7 @@ diixo = [
     'flash', 'flat', 'flare', 'flag', 'preach', 'pray', 'pride', 'previous', 'procrastinat', 'animat', 'wound', 'angular',
     'many', 'wind', 'dwindl', 'swin', 'willing', 'swift', 'processor', 'proud', 'sock', 'provid', 'claim', 'civil', 'clamp',
     'acclaim', 'disciplin', 'accommodat', 'discern', 'competen', 'compet', 'appeas', 'protrud', 'furbish', 'appellation', 'wield',
-    'whol', 'rememb',
+    'whol', 'rememb', 'past', 'verb', 'advers', 'provok', 'provis', 'provocation', 'prox', 'repair', 'revok', 'reviv',
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
