@@ -162,7 +162,9 @@ diixo = [
     'wrap', 'other', 'bother', 'vocabular', 'rank', 'crank', 'shrank', 'drank', 'cramp', 'drain', 'fair', 'fare', 'brave', 'ravel',
     'breach', 'large', 'laravel', 'outlast', 'last', 'latch', 'accumulat', 'circulat', 'collat', 'conflat', 'dilat', 'laten',
     'simulat', 'stimul', 'stipulat', 'ventilat', 'violat', 'vendor', 'violen', 'lateral', 'ventur', 'colleague', 'conferenc',
-    'deque',
+    'deque', 'circuit', 'circum', 'circular', 'clear', 'clever', 'clutter', 'cling', 'citation', 'declin', 'cipher', 'cisco',
+    'decimal', 'cmos', 'ascii', 'decision', 'heuristic', 'hesitat', 'incur', 'indebt', 'indeed', 'deed', 'deduc', 'deem', 'conquer',
+    'consecutiv', 'controver', 'convert', 'convex', 'convey', 'convol',
     # late, fire fare ransom rapid wind
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous
     #act, bas, log,
