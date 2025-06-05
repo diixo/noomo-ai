@@ -164,7 +164,9 @@ diixo = [
     'simulat', 'stimul', 'stipulat', 'ventilat', 'violat', 'vendor', 'violen', 'lateral', 'ventur', 'colleague', 'conferenc',
     'deque', 'circuit', 'circum', 'circular', 'clear', 'clever', 'clutter', 'cling', 'citation', 'declin', 'cipher', 'cisco',
     'decimal', 'cmos', 'ascii', 'decision', 'heuristic', 'hesitat', 'incur', 'indebt', 'indeed', 'deed', 'deduc', 'deem', 'conquer',
-    'consecutiv', 'controver', 'convert', 'convex', 'convey', 'convol',
+    'consecutiv', 'controver', 'convert', 'convex', 'convey', 'convol', 'convinc', 'corner', 'coroutin', 'core', 'soul', 'ston',
+    'collinear', 'collid', 'color', 'colour', 'college', 'collung', 'arrow', 'narrow', 'narrat', 'nano', 'corollar', 'corpus',
+    'cosin', 'coach',
     # late, fire fare ransom rapid wind
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous
     #act, bas, log,
