@@ -169,8 +169,10 @@ diixo = [
     'cosin', 'coach', 'rapid', 'curat', 'articulat', 'cumulat', 'tabul', 'triangul', 'ransom', 'adopt', 'interact', 'interpret',# 'tabl',
     'mutat', 'portal', 'stabl', 'integr', 'mutab', 'intercept', 'invent', 'intro', 'issu', 'pragm', 'duc', 'reduc', 'map',
     'flash', 'flat', 'flare', 'flag', 'preach', 'pray', 'pride', 'previous', 'procrastinat', 'animat', 'wound', 'angular',
-    'many', 'wind', 'dwindl', 'swin', 'willing', 'swift',
-    # late, fire light wield win ful wise claim processor sock proud provid prov api
+    'many', 'wind', 'dwindl', 'swin', 'willing', 'swift', 'processor', 'proud', 'sock', 'provid', 'claim', 'civil', 'clamp',
+    'acclaim', 'disciplin', 'accommodat', 'discern', 'competen', 'compet', 'appeas', 'protrud', 'furbish', 'appellation', 'wield',
+    'whol', 'rememb',
+    # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
