@@ -79,7 +79,7 @@ diixo = [
     'mainfram', 'mainten', 'domain', 'document', 'debut', 'debat', 'crowd', 'depend', 'doc', 'found', 'dock', 'funder', 'thunder',
     'pseudo', 'depict', 'depart', 'department', 'fund', 'fundament', 'sampl', 'doctrin', 'blund', 'requi', 'same', 'inert',
     'etern', 'achiev', 'adapt', 'afford', 'approach', 'attain', 'attack', 'avail', 'ability', 'capab', 'compar', 'component', 'puls',
-    'contriv', 'custom', 'detain', 'embed', 'embar', 'exec', 'idea', 'ideal', 'migrat', 'accur', 'index', 'inspir', 'measur', 'must', 'www',
+    'contriv', 'custom', 'detain', 'embed', 'embark', 'exec', 'idea', 'ideal', 'migrat', 'accur', 'index', 'inspir', 'measur', 'must', 'www',
     'profil', 'profit', 'reach', 'read', 'cours', 'relevan', 'remot', 'remov', 'repeat', 'specif', 'separ', 'stabil', 'suggest', 'suit', 'sql',
     'sustain', 'swap', 'train', 'void', 'avoid', 'pool', 'variab', 'thesis', 'thread', 'spool', 'accept', 'viab', 'spoon', 'spoof', 'accent',
     'detail', 'attach', 'attempt', 'audit', 'audio', 'attend', 'augment', 'install', 'attent', 'insert', 'stor', 'strain', 'prob', 'seque',
@@ -175,7 +175,8 @@ diixo = [
     'slot', 'slop', 'slim', 'slid', 'show', 'slic', 'slip', 'sponsor', 'split', 'splin', 'spontane', 'spread', 'speed',
     'squeez', 'sprint', 'staff', 'stemm', 'steer', 'stencil', 'bottom', 'brush', 'speculat', 'speech', 'special', 'specializ',
     'spectr', 'speci', 'spec', 'bump', 'calendar', 'calibrat', 'button', 'cable', 'burn', 'budget', 'criteri', 'credit', 'crop',
-    'critique', 'crush', 'crunch', 'cub', 'lib', 'libert', 'liberal', 'libr', 'std', 'url', 'zero', 'unfurl', 'hour',
+    'critique', 'crush', 'crunch', 'cub', 'lib', 'libert', 'liberal', 'libr', 'std', 'url', 'zero', 'unfurl', 'hour', 'css',
+    'decen', 'liab', 'decelerat', 'diligen', 'elongat', 'else', 'elucidat', 'elud', 'embarrass',
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
