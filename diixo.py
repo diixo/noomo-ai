@@ -117,7 +117,7 @@ diixo = [
     'ember', 'emblem', 'deceiv', 'member', 'embrac', 'melod', 'embellish', 'emerg', 'contain', 'novel', 'novic', 'tool', 'toggl', 'token',
     'transfer', 'travel', 'travers', 'triumph', 'trivial', 'trigger', 'trim', 'troubl', 'warn', 'warm', 'warp', 'tell', 'weird', 'craft',
     'crack', 'weigh', 'weight', 'welcom', 'crash', 'bing', 'bin', 'bill', 'angl', 'boil', 'bundl', 'celebrat', 'clip', 'compensat', 'cultur',
-    'consol', 'counsel', 'crawl', 'culminat', 'cull', 'storag', 'creat', 'dangl', 'spoil', 'doubl', 'dwell', 'eclips', 'ecma', 'enabl',
+    'consol', 'counsel', 'crawl', 'culminat', 'cull', 'storag', 'creat', 'dangl', 'spoil', 'doubl', 'dwel', 'eclips', 'ecma', 'enabl',
     'ensembl', 'tangl', 'fellow', 'gambl', 'handl', 'middl', 'model', 'modem', 'prevail', 'rambl', 'conciliat', 'recruit', 'shuffl', 'retail',
     'scrambl', 'stumbl', 'tackl', 'trail', 'trembl', 'unveil', 'cultivat', 'danger', 'engag', 'ecolog', 'emulat', 'entail', 'moderat',
     # 'shad', 'fell', 'fli', 'tang', 'tile, ->'ling', night, rect+angl, 'empt', area, ling
@@ -168,8 +168,9 @@ diixo = [
     'collinear', 'collid', 'color', 'colour', 'college', 'collung', 'arrow', 'narrow', 'narrat', 'nano', 'corollar', 'corpus',
     'cosin', 'coach', 'rapid', 'curat', 'articulat', 'cumulat', 'tabul', 'triangul', 'ransom', 'adopt', 'interact', 'interpret',# 'tabl',
     'mutat', 'portal', 'stabl', 'integr', 'mutab', 'intercept', 'invent', 'intro', 'issu', 'pragm', 'duc', 'reduc', 'map',
-    'flash', 'flat', 'flare', 'flag', 'preach', 'pray', 'pride', 'previous',
-    # late, fire wind light many
+    'flash', 'flat', 'flare', 'flag', 'preach', 'pray', 'pride', 'previous', 'procrastinat', 'animat', 'wound', 'angular',
+    'many', 'wind', 'dwindl', 'swin', 'willing', 'swift',
+    # late, fire light wield win ful wise claim processor sock proud provid prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
