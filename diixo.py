@@ -176,7 +176,10 @@ diixo = [
     'squeez', 'sprint', 'staff', 'stemm', 'steer', 'stencil', 'bottom', 'brush', 'speculat', 'speech', 'special', 'specializ',
     'spectr', 'speci', 'spec', 'bump', 'calendar', 'calibrat', 'button', 'cable', 'burn', 'budget', 'criteri', 'credit', 'crop',
     'critique', 'crush', 'crunch', 'cub', 'lib', 'libert', 'liberal', 'libr', 'std', 'url', 'zero', 'unfurl', 'hour', 'css',
-    'decen', 'liab', 'decelerat', 'diligen', 'elongat', 'else', 'elucidat', 'elud', 'embarrass',
+    'decen', 'liab', 'decelerat', 'diligen', 'elongat', 'else', 'elucidat', 'elud', 'embarrass', 'ensu', 'ensur', 'entangl',
+    'granular', 'grace', 'grappl', 'grant', 'grand', 'gratif', 'gracious', 'disgrac', 'grate', 'gray',  'aboli', 'aggravat',
+    'ablat', 'abid', 'abhor', 'abomina', 'parabol', 'paradigm', 'paragraph', 'parallax', 'parad', 'abscond', 'abrogat', 'abrupt',
+    'abreast', 'acquaint', 'acquies', 'acquisition',
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
