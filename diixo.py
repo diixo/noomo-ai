@@ -182,7 +182,8 @@ diixo = [
     'abreast', 'acquaint', 'acquies', 'acquisition', 'knowledg', 'amus', 'amend', 'ambi', 'ambient', 'audi', 'concord',
     'conclusi', 'comprehen', 'congru', 'compound', 'aris', 'compris', 'compromis', 'compuls', 'familiar', 'famous', 'galler',
     'gallant', 'gadget', 'giant', 'gentl', 'git', 'gain', 'gift', 'girl', 'giga', 'gigant', 'grind', 'groom', 'griev', 'greed',
-    'assuag', 'assum', 'assuranc', 'summon', 'assur', 'assort', 'astonish', 'astound',
+    'assuag', 'assum', 'assuranc', 'summon', 'assur', 'assort', 'astonish', 'astound', 'summer', 'amid', 'amiabl', 'amiss',
+    'amplitud', 'android', 'anticipat', 'antenn', 'ansi', 'ansible',
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
