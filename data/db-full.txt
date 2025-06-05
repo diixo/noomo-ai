@@ -314,6 +314,9 @@ angling
 animate
 animated
 animates
+anneal
+annealedannealing
+anneals
 annotate
 annotated
 announce
@@ -323,6 +326,7 @@ annoy
 annoyances
 annoyed
 annoying
+annoys
 anomaly
 anonymized
 anonymizes
@@ -632,6 +636,7 @@ bereft
 beside
 besides
 bespoke
+betrays
 better
 between
 beware
@@ -704,6 +709,7 @@ brag
 bragged
 brags
 breached
+breaches
 breaching
 break
 breaking
@@ -891,6 +897,7 @@ churning
 circled
 circulate
 circulated
+circulates
 circulating
 circumvent
 circumvented
@@ -930,6 +937,9 @@ clicks
 climb
 climbed
 climbs
+clinged
+clinging
+clings
 clip
 clipped
 clips
@@ -947,6 +957,7 @@ closing
 clued
 clustered
 clustering
+clutters
 co
 co-found
 co-operate
@@ -970,6 +981,7 @@ collaboratively
 collapsed
 collapses
 collate
+collated
 collates
 collating
 collation
@@ -1133,6 +1145,7 @@ confines
 confirm
 confirmed
 confirms
+conflate
 conflated
 conflates
 conflicted
@@ -1150,6 +1163,7 @@ confuse
 confused
 confuses
 confusing
+congestedcongestion
 congrats
 congratulate
 congratulated
@@ -1673,6 +1687,7 @@ depreciates
 deprive
 deprived
 deprives
+depriving
 deprocess
 dequeue
 dequeued
@@ -2014,6 +2029,7 @@ downward
 downwards
 dragged
 dragging
+drain
 drained
 dramatically
 drank
@@ -2556,6 +2572,9 @@ far
 faraway
 farther
 farthest
+fascinate
+fascinated
+fascinates
 faster
 fastified
 fastify
@@ -2667,6 +2686,8 @@ flown
 fluctuate
 fluctuates
 fluff
+fluffed
+fluffs
 flung
 flush
 flushed
@@ -3135,6 +3156,7 @@ impede
 impedes
 impelled
 impells
+impels
 impend
 impending
 impends
@@ -3234,6 +3256,7 @@ induct
 inducted
 inductively
 inducts
+indulges
 inevitably
 infect
 infected
@@ -3564,6 +3587,7 @@ lasts
 latch
 latched
 latches
+latching
 late
 lately
 later
@@ -3846,6 +3870,9 @@ migrated
 migrates
 mindedly
 mine
+minificate
+minificated
+minificates
 minified
 minifies
 minify
@@ -4219,6 +4246,8 @@ outgoing
 outgrow
 outgrown
 outlasted
+outlasting
+outlasts
 outlined
 outlive
 outlives
@@ -4544,8 +4573,13 @@ practised
 pragma
 praise
 praised
+prayed
+praying
+prays
 pre
 pre-loaded
+preach
+preaches
 preallocated
 preassign
 preassigned
@@ -4620,6 +4654,7 @@ presume
 presumed
 presumes
 pretend
+pretends
 pretrain
 pretrained
 pretraining
@@ -4635,6 +4670,8 @@ previously
 priced
 pricing
 pride
+prided
+prides
 primarily
 primed
 principally
@@ -4656,6 +4693,9 @@ process
 processed
 processes
 processing
+procrastinate
+procrastinated
+procrastinates
 prodded
 prodding
 produce
@@ -4818,6 +4858,10 @@ rather
 rationalize
 rationalized
 rationalizes
+ravel
+raveled
+raveling
+ravels
 re
 re-acquire
 re-acquired
@@ -4868,7 +4912,9 @@ realizes
 realizing
 reallocate
 really
+reanimate
 reanimated
+reanimates
 reappear
 reappeared
 reappears
@@ -6047,6 +6093,8 @@ still
 stimulate
 stimulated
 stimulates
+stipulated
+stipulates
 stolen
 stood
 stop
@@ -6216,6 +6264,8 @@ swapped
 swapping
 swaps
 sway
+swaying
+sways
 swear
 sweared
 swearing
@@ -6308,8 +6358,11 @@ templatize
 templatized
 temporally
 temporarily
+tempts
 tend
 tends
+tensed
+tenses
 termed
 terminate
 terminated
@@ -6872,6 +6925,8 @@ vectorised
 vectorize
 vectorized
 vectorizes
+ventilate
+ventilates
 venturing
 verb
 verified
@@ -7728,6 +7783,7 @@ animators
 anime
 anisotropic
 annealed
+annealing
 anniversary
 annotates
 annotating
@@ -9626,6 +9682,7 @@ containers
 contemplating
 contemplation
 contemporary
+contempt
 contemptible
 contemptuous
 contender
@@ -10229,6 +10286,7 @@ deductions
 deduplication
 deed
 deedily
+deeds
 deep
 deep-data
 deep-learning
@@ -10280,6 +10338,7 @@ deformable
 deformation
 deforming
 defragmentation
+deft
 defunct
 degeneration
 degradation
@@ -11940,6 +11999,7 @@ flags
 flagship
 flagships
 flame
+flare
 flares
 flas
 flash
@@ -13106,7 +13166,9 @@ impatience
 impatient
 impatiently
 impeccable
+impedance
 impediment
+impelling
 imperative
 imperfect
 imperfection
@@ -13285,6 +13347,7 @@ indent
 indentation
 indented
 indenting
+indents
 independence
 independent
 indepth
@@ -16565,6 +16628,7 @@ permutation
 permutations
 permutative
 perpendicular
+perpendicularity
 perpetual
 perplexed
 perplexing
@@ -17039,8 +17103,11 @@ presuming
 presumption
 presumptuous
 pretence
+pretences
 pretended
 pretending
+pretense
+pretenses
 pretension
 pretensions
 prettily
@@ -17061,6 +17128,7 @@ price
 priceless
 prices
 pricey
+prideful
 primary
 prime
 primer
@@ -19219,6 +19287,7 @@ spirit
 spirited
 spirits
 splash
+splayed
 spleen
 splendour
 splicing
@@ -19812,6 +19881,7 @@ surplus
 surprise
 surprising
 surrogate
+surrogates
 surrounding
 surveillance
 survey
@@ -19822,6 +19892,8 @@ suspecting
 suspects
 suspending
 suspense
+suspensful
+suspension
 suspicion
 suspicions
 suspicious
@@ -20044,6 +20116,7 @@ teleport
 telnet
 temp
 temper
+temperament
 temperature
 temperatures
 tempered
@@ -20066,6 +20139,7 @@ tenderer
 tenderest
 tenderly
 tenderness
+tense
 tension
 tensor
 tensor's
@@ -20415,7 +20489,9 @@ trademarks
 tradeoff
 tradeoffs
 tradesman
+tradition
 traditional
+traditions
 traffic
 traffic's
 trail
@@ -21382,6 +21458,7 @@ vendors
 veneration
 vent
 ventilated
+ventilation
 venture
 ventured
 ventures
@@ -22012,6 +22089,7 @@ would-be
 wound
 wounded
 wounding
+wounds
 wow-effect
 wpf
 wrapper
