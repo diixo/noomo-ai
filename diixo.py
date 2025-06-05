@@ -166,9 +166,11 @@ diixo = [
     'decimal', 'cmos', 'ascii', 'decision', 'heuristic', 'hesitat', 'incur', 'indebt', 'indeed', 'deed', 'deduc', 'deem', 'conquer',
     'consecutiv', 'controver', 'convert', 'convex', 'convey', 'convol', 'convinc', 'corner', 'coroutin', 'core', 'soul', 'ston',
     'collinear', 'collid', 'color', 'colour', 'college', 'collung', 'arrow', 'narrow', 'narrat', 'nano', 'corollar', 'corpus',
-    'cosin', 'coach',
-    # late, fire fare ransom rapid wind
-    #set, heal, repo, side, rand, mov, def, nom-nomo, uous
+    'cosin', 'coach', 'rapid', 'curat', 'articulat', 'cumulat', 'tabul', 'triangul', 'ransom', 'adopt', 'interact', 'interpret',# 'tabl',
+    'mutat', 'portal', 'stabl', 'integr', 'mutab', 'intercept', 'invent', 'intro', 'issu', 'pragm', 'duc', 'reduc', 'map',
+    'flash', 'flat', 'flare', 'flag', 'preach', 'pray', 'pride', 'previous',
+    # late, fire wind light many
+    #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
     ]
