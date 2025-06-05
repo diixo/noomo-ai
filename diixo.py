@@ -158,7 +158,10 @@ diixo = [
     'prejudic', 'prais', 'possess', 'postgres', 'multipl', 'multiplatform', 'multiplex', 'multiple', 'templat', 'temperatur',
     'tempor', 'temper', 'tempt', 'tomorrow', 'truncat', 'true', 'correlat', 'correspond', 'corrupt', 'tradition', 'patien',
     'pattern', 'way', 'sway', 'ubiquit', 'impart', 'aware', 'what', 'well', 'swell', 'award', 'fascinat', 'whence', 'fashion',
-    'far', 'faq', 'awak', 'awe', 'flaw', 'ware', 'while', 'insist', 'between', 'firm', 'first', 'beyond', # fire fare other ransom worth whim vocab rank rapid
+    'far', 'faq', 'awak', 'awe', 'flaw', 'ware', 'while', 'insist', 'between', 'firm', 'first', 'beyond', 'betray', 'whim', 'worth',
+    'wrap', 'other', 'bother', 'vocabular', 'rank', 'crank', 'shrank', 'drank', 'cramp', 'drain', 'fair', 'fare', 'brave', 'ravel',
+    'breach', 'large', 'laravel', 'outlast',
+    # last fire fare ransom rapid wind
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
