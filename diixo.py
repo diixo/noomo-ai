@@ -153,7 +153,10 @@ diixo = [
     'autonom', 'steep', 'pair', 'parallel', 'pardon', 'phras', 'passiv', 'repetit', 'php', 'storm', 'brain', 'branch', 'batch',
     'batter', 'replac', 'famil', 'battle', 'bayes', 'false', 'exult', 'extrem', 'extern', 'exterior', 'devot', 'dexter',
     'extenuat', 'extinguish', 'glyph', 'glow', 'agree', 'agitat', 'flex', 'plex', 'inflect', 'fleet', 'inflat', 'perplex',
-    'multiplay', 'particip', 'particul', 'perpendicular', 'persever', 'precipit', 'precis', 'preclud',
+    'multiplay', 'particip', 'particul', 'perpendicular', 'persever', 'precipit', 'precis', 'preclud', 'prolong', 'prominen', 'prolog',
+    'prohibit', 'procur', 'proceed', 'procedur', 'primitiv', 'princip', 'prevent', 'presum', 'pressur', 'premis', 'preliminar',
+    'prejudic', 'prais', 'possess', 'postgres', 'multipl', 'multiplatform', 'multiplex', 'multiple', 'templat', 'temperatur',
+    'tempor', 'temper', 'tempt', 'tomorrow', 'truncat', 'true',
     # other
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous
     #act, bas, log,
