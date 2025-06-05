@@ -142,7 +142,7 @@ diixo = [
     'deft', 'obfuscat', 'confus', 'infus', 'congratulat', 'congest', 'defus', 'infring', 'degrad', 'tensor', 'privileg', 'privat', #privacy
     'tend', 'tender', 'pretend', 'tens', 'pretens', 'pretenc', 'contend', 'contempt', 'contemplat', 'contemp', 'prior', 'threat',
     'depress', 'depriv', 'three', 'depreciat', 'tendenc', 'anonym', 'anomal', 'annual', 'mother', 'brother', 'annoy', 'announc',
-    'chain', 'certain', 'annotat', 'ambig', 'amazon', 'ambit', 'anneal', 'answer', 'afraid', 'amaz', 'ultimat', 'tweak', 'tutor',
+    'chain', 'certain', 'annotat', 'ambigu', 'amazon', 'ambit', 'anneal', 'answer', 'afraid', 'amaz', 'ultimat', 'tweak', 'tutor',
     'tunnel', 'anim', 'reanimat', 'world', 'hello', 'analys', 'analyz', 'anchor', 'ancient', 'desk', 'correct', 'tree', 'math',
     'street', 'plot', 'material', 'imitat', 'tupl', 'imbue', 'immediat', 'immens', 'popular', 'pleas', 'populat', 'precedent',
     'menu', 'mentor', 'duck', 'dump', 'preced', 'cautio', 'dual', 'gradual', 'grad', 'upgrad', 'gradat', 'gradient', 'gradl',
@@ -179,7 +179,8 @@ diixo = [
     'decen', 'liab', 'decelerat', 'diligen', 'elongat', 'else', 'elucidat', 'elud', 'embarrass', 'ensu', 'ensur', 'entangl',
     'granular', 'grace', 'grappl', 'grant', 'grand', 'gratif', 'gracious', 'disgrac', 'grate', 'gray',  'aboli', 'aggravat',
     'ablat', 'abid', 'abhor', 'abomina', 'parabol', 'paradigm', 'paragraph', 'parallax', 'parad', 'abscond', 'abrogat', 'abrupt',
-    'abreast', 'acquaint', 'acquies', 'acquisition',
+    'abreast', 'acquaint', 'acquies', 'acquisition', 'knowledg', 'amus', 'amend', 'ambi', 'ambient', 'audi', 'concord',
+    'conclusi', 'comprehen', 'congru',
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
