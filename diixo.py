@@ -191,6 +191,9 @@ diixo = [
     'total', 'path', 'foot', 'fortun', 'forbid', 'forum', 'enforc', 'inforc', 'forc', 'upon', 'snow', 'new', 'knock', 'neutral',
     'java', 'invit', 'includ', 'import', 'opportun', 'oppos', 'inclin', 'inclus', 'port', 'invocat', 'opponent', 'oppress',
     'coheren', 'inhibit', 'inimitab', 'disgust', 'coincid', 'cohesi', 'cognit', 'incognito', 'inherent', 'initiat',
+    'ingress', 'injur', 'coin', 'innocent', 'innate', 'ingrain', 'machin', 'macro', 'magnitud', 'major', 'maneuver', 'manifest',
+    'mass', 'marshall', 'mash', 'second', 'million', 'milli', 'miniatur', 'mirror', 'minus', 'minor', 'minute', 'miscellaneous',
+    'mitigat', 'mix', 'mixture', 'catch', 'catalog', 'caught',
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
