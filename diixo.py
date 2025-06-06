@@ -29,7 +29,7 @@ diixo = [
     'object', 'coordinat', 'cover', 'nomi', 'pack', 'part', 'poly', 'count', 'direct', 'master', 'organ', 'order', 'over',
     'bio', 'cyber', 'tech', 'anti', 'logic', 'atic', 'deep', 'space', 'sport', 'cycl',
     'free', 'ship', 'graph', 'own', 'photo', 'freez', 'slow', 'show', 'grow',
-    'hyper', 'hash', 'gram', 'hard', 'lexic', 'orth',
+    'hyper', 'hash', 'gram', 'hard', 'lexic', 'ortho',
     'project', 'program', 'param', 'phone', 'tele', 'power', 'excel', 'cell', 'produc', 'extra', 'extract', 'extrapolat', 'cancel',
     'micro', 'head', 'chip', 'mobil', 'system', 'control', 'comput', 'struct', 'view', 'bench', 'board', 'client', 'video',
     'web', 'assembl', 'develop', 'work', 'design', 'thought',
@@ -186,6 +186,8 @@ diixo = [
     'amplitud', 'android', 'anticipat', 'antenn', 'ansi', 'ansible', 'alias', 'string', 'strik', 'strip', 'substitut',
     'strid', 'striv', 'aspect', 'aspir', 'assault', 'width', 'body', 'bold', 'boast', 'anxious', 'blur', 'stretch', 'addendum',
     'substantiat', 'strong', 'widget', 'cheer', 'chief', 'child', 'summa', 'behav', 'behavio', 'behaviou', 'computer', 'intelli',
+    'intellect', 'pixel', 'latitud', 'target', 'terminat','terminal', 'tera', 'term', 'termin', 'utter', 'terrain', 'mutex',
+    'mutual', 'alter', 'latter', 'tentat', 'osten', 'oscill', 'oscillat', 'forth',
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
