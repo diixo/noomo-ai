@@ -213,7 +213,8 @@ diixo = [
     'intrigu', 'torch', 'topolog', 'tough', 'tout', 'transpil', 'transform', 'transgress', 'transient', 'transplant',
     'stash', 'stock', 'statistic', 'stak', 'stay', 'stationar', 'station', 'status', 'steam', 'stead', 'stand', 'stood', 'stat',
     'stud', 'stuff', 'studio', 'week', 'subscrib', 'wedg', 'strength', 'strick', 'straggl', 'stout', 'story', 'dish', 'disdain',
-    'season', 'unleash', 'seat', 'law', 'mock',
+    'season', 'unleash', 'seat', 'law', 'mock', 'neat', 'beneath', 'bend', 'high', 'hijack', 'disk', 'wish', 'twist',
+    'swish', 'swip', # 'wise', 'lif', 'liv', 'lik',
     # date
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
