@@ -214,7 +214,8 @@ diixo = [
     'stash', 'stock', 'statistic', 'stak', 'stay', 'stationar', 'station', 'status', 'steam', 'stead', 'stand', 'stood', 'stat',
     'stud', 'stuff', 'studio', 'week', 'subscrib', 'wedg', 'strength', 'strick', 'straggl', 'stout', 'story', 'dish', 'disdain',
     'season', 'unleash', 'seat', 'law', 'mock', 'neat', 'beneath', 'bend', 'high', 'hijack', 'disk', 'wish', 'twist',
-    'swish', 'swip', # 'wise', 'lif', 'liv', 'lik',
+    'swish', 'swip', 'wise', 'ought', 'polar', 'bottle', 'neck', 'byte', 'kilo', 'peta', 'exaggerat', 'alert',
+    'piece', 'kind', 'vexat', 'phase', 'bought', 'brought', 'apolog', 'apertur', 'bounc', 'apparent', # 'lif', 'liv', 'lik', 'lin',
     # date
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
