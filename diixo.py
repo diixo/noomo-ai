@@ -211,7 +211,9 @@ diixo = [
     'institut', 'although', 'instinct', 'instigat', 'retain', 'harm', 'harness', 'instruct', 'instrument', 'insult', # by imagin
     'insuff', 'insur', 'interfac', 'interfer', 'internet', 'invers', 'transparen', 'interrupt', 'intract', 'intim',
     'intrigu', 'torch', 'topolog', 'tough', 'tout', 'transpil', 'transform', 'transgress', 'transient', 'transplant',
-    'stash', 'stock', 'statistic', 'stak', 'stay', 'stationar', 'station', 'status', 'steam', 'stead',
+    'stash', 'stock', 'statistic', 'stak', 'stay', 'stationar', 'station', 'status', 'steam', 'stead', 'stand', 'stood', 'stat',
+    'stud', 'stuff', 'studio', 'week', 'subscrib', 'wedg', 'strength', 'strick', 'straggl', 'stout', 'story', 'dish', 'disdain',
+    'season', 'unleash', 'seat', 'law', 'mock',
     # date
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
