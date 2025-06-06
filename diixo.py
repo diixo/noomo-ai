@@ -198,7 +198,10 @@ diixo = [
     'investigat', 'invigorat', 'puzzl', 'shad', 'shadow', 'shak', 'sham', 'shap', 'shar', 'side', 'conjuga', 'plung', 'sick',
     'shut', 'plug', 'ping', 'chrom', 'diod', 'monitor', 'ampersand', 'alone', 'along', 'aloud', 'stall', 'stakeholder', 'forest',
     'foretell', 'forever', 'congregat', 'conniv', 'conserv', 'contingen', 'contigu', 'contour', 'contract', 'contrast', 'couch',
-    'corroborat', 'cost', 'chronologic',
+    'corroborat', 'cost', 'chronologic', 'pipeline', 'pitch', 'dark', 'pioneer', 'scan', 'pick', 'dart', 'valid', 'invad', 'dash',
+    'frustrat', 'frustum', 'emit', 'eminent', 'epilog', 'euler', 'exclud', 'exclusiv', 'exercis', 'exert', 'exhibit', 'exigen',
+    'eye', 'revamp', 'reveal', 'revert', 'revers', 'saas', 'scen', 'remind', 'scrap',
+    # date
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
