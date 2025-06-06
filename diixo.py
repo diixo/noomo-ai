@@ -189,7 +189,8 @@ diixo = [
     'intellect', 'pixel', 'latitud', 'target', 'terminat','terminal', 'tera', 'term', 'termin', 'utter', 'terrain', 'mutex',
     'mutual', 'alter', 'latter', 'tentat', 'osten', 'oscill', 'oscillat', 'forth', 'hence', 'home', 'holo', 'homo', 'fatal',
     'total', 'path', 'foot', 'fortun', 'forbid', 'forum', 'enforc', 'inforc', 'forc', 'upon', 'snow', 'new', 'knock', 'neutral',
-    'java',
+    'java', 'invit', 'includ', 'import', 'opportun', 'oppos', 'inclin', 'inclus', 'port', 'invocat', 'opponent', 'oppress',
+    'coheren', 'inhibit', 'inimitab', 'disgust', 'coincid', 'cohesi', 'cognit', 'incognito', 'inherent', 'initiat',
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
