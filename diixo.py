@@ -210,6 +210,7 @@ diixo = [
     'appl', 'fire', 'myster', 'mutter', 'mut', 'natur', 'navi', 'gat', 'nativ', 'naive', 'instead', 'negat', # near nam, gon
     'institut', 'although', 'instinct', 'instigat', 'retain', 'harm', 'harness', 'instruct', 'instrument', 'insult', # by imagin
     'insuff', 'insur', 'interfac', 'interfer', 'internet', 'invers', 'transparen', 'interrupt', 'intract', 'intim',
+    'intrigu', 'torch', 'topolog', 'tough', 'tout', 'transpil', 'transform', 'transgress', 'transient', 'transplant',
     # date
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
