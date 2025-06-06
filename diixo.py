@@ -207,8 +207,9 @@ diixo = [
     'percept', 'paus', 'peopl', 'mission', 'transmiss', 'zoom', 'transmit', 'zon', 'cut', 'horizon', #'omi', 'coming',
     'morning', 'morrow', 'acute', 'tolerat', 'moral', 'moon', 'moor', 'tooth', 'blue', 'month', 'stag', 'lang', 'slang', 'slash',
     'only', 'errant', 'errand', 'coming', 'applaud', 'applet', 'kit', 'webinar', 'erroneous', 'apple', 'erlang', 'applianc',
-    'appl', 'fire', 'myster', 'mutter', 'mut', 'natur', 'navi', 'gat', 'nativ', 'naive', 'instead', 'negat', # nam, gon
-    #'near', #'institut', although, instinct instigate retain my by imagin
+    'appl', 'fire', 'myster', 'mutter', 'mut', 'natur', 'navi', 'gat', 'nativ', 'naive', 'instead', 'negat', # near nam, gon
+    'institut', 'although', 'instinct', 'instigat', 'retain', 'harm', 'harness', 'instruct', 'instrument', 'insult', # by imagin
+    'insuff', 'insur', 'interfac', 'interfer', 'internet', 'invers', 'transparen', 'interrupt', 'intract', 'intim',
     # date
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
