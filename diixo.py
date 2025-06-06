@@ -205,7 +205,9 @@ diixo = [
     'record', 'recipe', 'recover', 'distribut', 'reflect', 'distress', 'regain', 'relegat', 'rent', 'recurren', 'torrent',
     'util', 'road', 'roast', 'insan', 'tax', 'took', 'volt', 'volum', 'talent', 'revolt', 'percent', 'perceiv', 'volatil', #stak
     'percept', 'paus', 'peopl', 'mission', 'transmiss', 'zoom', 'transmit', 'zon', 'cut', 'horizon', #'omi', 'coming',
-    'morning', 'morrow', 'acute', 'tolerat', 'moral', 'moon', 'moor', 'tooth',
+    'morning', 'morrow', 'acute', 'tolerat', 'moral', 'moon', 'moor', 'tooth', 'blue', 'month', 'stag', 'lang', 'slang', 'slash',
+    'only', 'errant', 'errand', 'coming', 'applaud', 'applet', 'kit', 'webinar', 'erroneous', 'apple', 'erlang', 'applianc',
+    'appl', 'fire',
     # date
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
