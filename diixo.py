@@ -203,6 +203,7 @@ diixo = [
     'eye', 'revamp', 'reveal', 'revert', 'revers', 'saas', 'scen', 'remind', 'scrap', 'secret', 'seed', 'seek', 'seduc', 'fault',
     'info', 'guid', 'raster', 'rational', 'bas', 'buil', 'bash', 'rebut', 'realm', 'recent', 'recipient', 'recept', 'reconcil',
     'record', 'recipe', 'recover', 'distribut', 'reflect', 'distress', 'regain', 'relegat', 'rent', 'recurren', 'torrent',
+    'util', 'road', 'roast', 'insan', 'tax', 'took', 'volt', 'volum', 'talent', 'revolt', #percent perceiv volatil tak
     # date
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
