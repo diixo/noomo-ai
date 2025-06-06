@@ -187,7 +187,9 @@ diixo = [
     'strid', 'striv', 'aspect', 'aspir', 'assault', 'width', 'body', 'bold', 'boast', 'anxious', 'blur', 'stretch', 'addendum',
     'substantiat', 'strong', 'widget', 'cheer', 'chief', 'child', 'summa', 'behav', 'behavio', 'behaviou', 'computer', 'intelli',
     'intellect', 'pixel', 'latitud', 'target', 'terminat','terminal', 'tera', 'term', 'termin', 'utter', 'terrain', 'mutex',
-    'mutual', 'alter', 'latter', 'tentat', 'osten', 'oscill', 'oscillat', 'forth',
+    'mutual', 'alter', 'latter', 'tentat', 'osten', 'oscill', 'oscillat', 'forth', 'hence', 'home', 'holo', 'homo', 'fatal',
+    'total', 'path', 'foot', 'fortun', 'forbid', 'forum', 'enforc', 'inforc', 'forc', 'upon', 'snow', 'new', 'knock', 'neutral',
+    'java',
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
