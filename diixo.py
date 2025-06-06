@@ -216,6 +216,7 @@ diixo = [
     'season', 'unleash', 'seat', 'law', 'mock', 'neat', 'beneath', 'bend', 'high', 'hijack', 'disk', 'wish', 'twist',
     'swish', 'swip', 'wise', 'ought', 'polar', 'bottle', 'neck', 'byte', 'kilo', 'peta', 'exaggerat', 'alert',
     'piece', 'kind', 'vexat', 'phase', 'bought', 'brought', 'apolog', 'apertur', 'bounc', 'apparent', # 'lif', 'liv', 'lik', 'lin',
+    'overlap', 'recap', 'tap', 'trap', 'trash', 'ball', 'tangent', 'apostrophe', 'anniversary', 'chunk',
     # date
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
