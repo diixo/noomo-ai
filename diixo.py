@@ -193,7 +193,12 @@ diixo = [
     'coheren', 'inhibit', 'inimitab', 'disgust', 'coincid', 'cohesi', 'cognit', 'incognito', 'inherent', 'initiat',
     'ingress', 'injur', 'coin', 'innocent', 'innate', 'ingrain', 'machin', 'macro', 'magnitud', 'major', 'maneuver', 'manifest',
     'mass', 'marshall', 'mash', 'second', 'million', 'milli', 'miniatur', 'mirror', 'minus', 'minor', 'minute', 'miscellaneous',
-    'mitigat', 'mix', 'mixture', 'catch', 'catalog', 'caught',
+    'mitigat', 'mix', 'mixture', 'catch', 'catalog', 'caught', 'plus', 'covet', 'plural', 'pad', 'ceas', 'ceil', 'char', 'charm',
+    'charit', 'school', 'chao', 'confer', 'conduc', 'federat', 'confluen', 'confront', 'confound', 'conjectur', 'invert', 'invest',
+    'investigat', 'invigorat', 'puzzl', 'shad', 'shadow', 'shak', 'sham', 'shap', 'shar', 'side', 'conjuga', 'plung', 'sick',
+    'shut', 'plug', 'ping', 'chrom', 'diod', 'monitor', 'ampersand', 'alone', 'along', 'aloud', 'stall', 'stakeholder', 'forest',
+    'foretell', 'forever', 'congregat', 'conniv', 'conserv', 'contingen', 'contigu', 'contour', 'contract', 'contrast', 'couch',
+    'corroborat', 'cost', 'chronologic',
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
