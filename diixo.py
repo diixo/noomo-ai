@@ -201,7 +201,8 @@ diixo = [
     'corroborat', 'cost', 'chronologic', 'pipeline', 'pitch', 'dark', 'pioneer', 'scan', 'pick', 'dart', 'valid', 'invad', 'dash',
     'frustrat', 'frustum', 'emit', 'eminent', 'epilog', 'euler', 'exclud', 'exclus', 'exercis', 'exert', 'exhibit', 'exigen',
     'eye', 'revamp', 'reveal', 'revert', 'revers', 'saas', 'scen', 'remind', 'scrap', 'secret', 'seed', 'seek', 'seduc', 'fault',
-    'info', 'guid', 'raster', 'rational',
+    'info', 'guid', 'raster', 'rational', 'bas', 'buil', 'bash', 'rebut', 'realm', 'recent', 'recipient', 'recept', 'reconcil',
+    'record', 'recipe', 'recover', 'distribut', 'reflect', 'distress', 'regain', 'relegat', 'rent', 'recurren', 'torrent',
     # date
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
