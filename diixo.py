@@ -156,7 +156,7 @@ diixo = [
     'multiplay', 'particip', 'particul', 'perpendicular', 'persever', 'precipit', 'precis', 'preclud', 'prolong', 'prominen', 'prolog',
     'prohibit', 'procur', 'proceed', 'procedur', 'primitiv', 'princip', 'prevent', 'presum', 'pressur', 'premis', 'preliminar',
     'prejudic', 'prais', 'possess', 'postgres', 'multipl', 'multiplatform', 'multiplex', 'multiple', 'templat', 'temperatur',
-    'tempor', 'temper', 'tempt', 'tomorrow', 'truncat', 'true', 'correlat', 'correspond', 'corrupt', 'tradition', 'patien',
+    'tempor', 'temper', 'tempt', 'truncat', 'true', 'correlat', 'correspond', 'corrupt', 'tradition', 'patien',
     'pattern', 'way', 'sway', 'ubiquit', 'impart', 'aware', 'what', 'well', 'swell', 'award', 'fascinat', 'whence', 'fashion',
     'far', 'faq', 'awak', 'awe', 'flaw', 'ware', 'while', 'insist', 'between', 'firm', 'first', 'beyond', 'betray', 'whim', 'worth',
     'wrap', 'other', 'bother', 'vocabular', 'rank', 'crank', 'shrank', 'drank', 'cramp', 'drain', 'fair', 'fare', 'brave', 'ravel',
@@ -203,7 +203,9 @@ diixo = [
     'eye', 'revamp', 'reveal', 'revert', 'revers', 'saas', 'scen', 'remind', 'scrap', 'secret', 'seed', 'seek', 'seduc', 'fault',
     'info', 'guid', 'raster', 'rational', 'bas', 'buil', 'bash', 'rebut', 'realm', 'recent', 'recipient', 'recept', 'reconcil',
     'record', 'recipe', 'recover', 'distribut', 'reflect', 'distress', 'regain', 'relegat', 'rent', 'recurren', 'torrent',
-    'util', 'road', 'roast', 'insan', 'tax', 'took', 'volt', 'volum', 'talent', 'revolt', #percent perceiv volatil tak
+    'util', 'road', 'roast', 'insan', 'tax', 'took', 'volt', 'volum', 'talent', 'revolt', 'percent', 'perceiv', 'volatil', #stak
+    'percept', 'paus', 'peopl', 'mission', 'transmiss', 'zoom', 'transmit', 'zon', 'cut', 'horizon', #'omi', 'coming',
+    'morning', 'morrow', 'acute', 'tolerat', 'moral', 'moon', 'moor', 'tooth',
     # date
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
