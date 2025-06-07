@@ -224,7 +224,10 @@ diixo = [
     'revisit', 'scar', 'care', 'carr', 'architect', 'archiv', 'arbit', 'arch', 'margin', 'marginal', 'area', 'scatter', 'hedron',
     'vanish', 'car', 'arduino', 'api', 'valu', 'vector', 'eight', 'for', 'app', 'apposit', 'entrap', 'dream', 'dron', 'drill',
     'octa', 'dub', 'dress', 'driv', 'drink', 'talk', 'tall', 'drag', 'engross', 'entitl', 'eradicate', 'litera', 'obliterat',
-    'plac', 'display', 'plain', 'planar', 'plan', 'plane', 'planet', 'complacen', 'bulk', 'buch',
+    'plac', 'display', 'plain', 'planar', 'plan', 'plane', 'planet', 'complacen', 'bulk', 'buch', 'buy', 'calm', 'off', 'take',
+    'tak', 'tag', 'tailor', 'tail', 'oust', 'one', 'noone', 'honest', 'noone', 'demot', 'curtail', 'bone', 'demo', 'cone',
+    'honour', 'postpon', 'patron',
+    #'pump', 'snip', 'out', 'our', 'cursor', 'demolish', 'long', 'mon',
     #'complacen', 'emplace',
     # er?, gence, gance, que, date, que, case, marathon
     # add 'summar', 'summat', substance substantial
