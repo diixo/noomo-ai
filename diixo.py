@@ -219,9 +219,9 @@ diixo = [
     'overlap', 'recap', 'tap', 'trap', 'trash', 'ball', 'tangent', 'apostrophe', 'anniversary', 'chunk', 'destruct',
     'accord', 'head', 'ache', 'man', 'seo', 'skip', 'impos', 'detach', 'mandat', 'impossibl', 'roman', 'accomplish',
     'reproach', 'settl', 'setup', 'woman', 'upset', 'broach', 'destroy', 'destin', 'delta', 'hub', 'act', 'delv', 'acronym',
-    'arti', 'ficial', 'art', 'artist', 'quarter', 'earth', 'carv', 'cart', 'thwart', 'arrogant', 'cascad',
-    'quarrel', 'quaternion', 'quant',
-    # thunk, carr?, er?, gence, gance, que, bird, date
+    'arti', 'ficial', 'art', 'artist', 'quarter', 'earth', 'carv', 'cart', 'thwart', 'arrogant', 'cascad', 'apart', 'revis',
+    'quarrel', 'quaternion', 'quant', 'queer', 'queen', 'thunk', 'nail', 'apache', 'bird', 'reprehen', 'apartment', #revisit
+    # carr?, er?, gence, gance, que, date, que, care, case
     # add 'summar', 'summat', substance substantial
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
