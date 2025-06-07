@@ -223,7 +223,7 @@ diixo = [
     'quarrel', 'quaternion', 'quant', 'queer', 'queen', 'thunk', 'nail', 'apache', 'bird', 'reprehen', 'apartment',
     'revisit', 'scar', 'care', 'carr', 'architect', 'archiv', 'arbit', 'arch', 'margin', 'marginal', 'area', 'scatter', 'hedron',
     'vanish', 'car', 'arduino', 'api', 'valu', 'vector', 'eight', 'for', 'app', 'apposit', 'entrap', 'dream', 'dron', 'drill',
-    'octa', 'dub', 'dress',
+    'octa', 'dub', 'dress', 'driv', 'drink', 'talk', 'tall', 'drag', 'engross', 'entitl', 'eradicate', 'litera', 'obliterat',
     # er?, gence, gance, que, date, que, case, marathon
     # add 'summar', 'summat', substance substantial
     # late, fire light wield win ful wise prov api
