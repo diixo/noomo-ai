@@ -42,7 +42,7 @@ diixo = [
     #'call', 'ic', #??? #, 'ous',
     'allegor', 'alleviat', 'alleg', 'allocat', 'admin', 'admir', 'allot', 'allow', 'allud', 'allus', 'exam', 'examin', 'exampl', 'alli',
     'mail', 'magic', 'basic', 'mechanic', 'medic', 'mimic', 'mini',
-    'atomic', 'generic', 'basic', 'graphic', 'organic', 'empir', 'epic', 'optic', 'entropic', 'economic', 'dynamic', 'electr',
+    'atomic', 'generic', 'graphic', 'organic', 'empir', 'epic', 'optic', 'entropic', 'economic', 'dynamic', 'electr',
     'electron', 'entrop', 'fantas', 'hypoth', 'lexic', 'ident', 'algebra', 'algorithm', 'alphabet', 'analytic',
     'arithmet', 'asymptot', 'typic', 'semantic', 'specif', 'strateg', 'synthet', 'vocal', 'pract', 'public', 'topic',
     'vertic', 'numer', 'paradox', 'optimist', 'monolith', 'reciproc', 'scien', 'synonym', 'critic', 'ellip', 'drastic', 'extrinsic',
@@ -227,12 +227,13 @@ diixo = [
     'plac', 'display', 'plain', 'planar', 'plan', 'plane', 'planet', 'complacen', 'bulk', 'buch', 'buy', 'calm', 'off', 'take',
     'tak', 'tag', 'tailor', 'tail', 'oust', 'one', 'noone', 'honest', 'noone', 'demot', 'curtail', 'bone', 'demo', 'cone',
     'honour', 'postpon', 'patron', 'cursor', 'demolish', 'pump', 'snip', 'punct', 'long', 'sniff', 'punish', 'pupil', 'mongo',
-    'humour', 'journal', 'journ', 'pour', 'humbl', 'park', 'rumour', 'pin', 'joy', 'scal', 'scalar', 'sys', 'much',#'out',
+    'humour', 'journal', 'journ', 'pour', 'humbl', 'park', 'rumour', 'pin', 'joy', 'scal', 'scalar', 'sys', 'much', #'out',
     'inaugurat', 'mon', 'favo', 'endeav', 'labo', 'laborator', 'collab', 'lab', 'lack', 'cold', 'fus', 'scold', 'idiom', 'axiom',
-    'matur', 'matter', 'premier',
-    #'out', 'our', 'mon',
-    #'complacen', 'emplace',
-    # er?, gence, gance, que, date, que, case, marathon
+    'matur', 'matter', 'premier', 'four', 'splend', 'stair', 'chair', 'http', 'url', 'html', 'aim', 'air', 'conspir', 'fortif',
+    'fac', 'tun', 'treat', 'cris', 'attribut', 'attract', 'intuit', 'intrusiv', 'inur', 'couth', #'agil', 'outrag', 'lonel',
+    #'out', 'our', 'mon', lin lif liv pace fad lonel writ
+    #'emplace',
+    # er?, gence, gance, que, date, case, marathon
     # add 'summar', 'summat', substance substantial
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
