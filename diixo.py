@@ -227,10 +227,11 @@ diixo = [
     'plac', 'display', 'plain', 'planar', 'plan', 'plane', 'planet', 'complacen', 'bulk', 'buch', 'buy', 'calm', 'off', 'take',
     'tak', 'tag', 'tailor', 'tail', 'oust', 'one', 'noone', 'honest', 'noone', 'demot', 'curtail', 'bone', 'demo', 'cone',
     'honour', 'postpon', 'patron', 'cursor', 'demolish', 'pump', 'snip', 'punct', 'long', 'sniff', 'punish', 'pupil', 'mongo',
-    'humour', 'journal', 'journ', 'pour', 'humbl', 'park', 'rumour', 'pin', 'joy', 'scal', 'scalar', 'sys', 'much', #'out',
+    'humour', 'journal', 'journ', 'pour', 'humbl', 'park', 'rumour', 'pin', 'joy', 'scal', 'scalar', 'sys', 'much',
     'inaugurat', 'mon', 'favo', 'endeav', 'labo', 'laborator', 'collab', 'lab', 'lack', 'cold', 'fus', 'scold', 'idiom', 'axiom',
     'matur', 'matter', 'premier', 'four', 'splend', 'stair', 'chair', 'http', 'url', 'html', 'aim', 'air', 'conspir', 'fortif',
-    'fac', 'tun', 'treat', 'cris', 'attribut', 'attract', 'intuit', 'intrusiv', 'inur', 'couth', #'agil', 'outrag', 'lonel',
+    'fac', 'tun', 'treat', 'cris', 'attribut', 'attract', 'intuit', 'intrusiv', 'inur', 'couth', 'fragil', 'aghast', 'outer',
+    'agil', 'outrage', 'lonel', 'clog', 'relish', 'littl', 'ugl',# 'lif', 'liv',
     #'out', 'our', 'mon', lin lif liv pace fad lonel writ
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
