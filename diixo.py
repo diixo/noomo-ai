@@ -231,7 +231,8 @@ diixo = [
     'inaugurat', 'mon', 'favo', 'endeav', 'labo', 'laborator', 'collab', 'lab', 'lack', 'cold', 'fus', 'scold', 'idiom', 'axiom',
     'matur', 'matter', 'premier', 'four', 'splend', 'stair', 'chair', 'http', 'url', 'html', 'aim', 'air', 'conspir', 'fortif',
     'fac', 'tun', 'treat', 'cris', 'attribut', 'attract', 'intuit', 'intrusiv', 'inur', 'couth', 'fragil', 'aghast', 'outer',
-    'agil', 'outrage', 'lonel', 'clog', 'relish', 'littl', 'ugl',# 'lif', 'liv',
+    'agil', 'outrage', 'lonel', 'clog', 'relish', 'littl', 'ugl', 'benefit', 'fad', 'bent', 'bend', 'bereav', 'bereft', 'fit',# 'lif', 'liv',
+    'miser', 'commiserat', 'abstract', 'abundan',
     #'out', 'our', 'mon', lin lif liv pace fad lonel writ
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
