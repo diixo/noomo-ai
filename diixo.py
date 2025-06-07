@@ -220,8 +220,9 @@ diixo = [
     'accord', 'head', 'ache', 'man', 'seo', 'skip', 'impos', 'detach', 'mandat', 'impossibl', 'roman', 'accomplish',
     'reproach', 'settl', 'setup', 'woman', 'upset', 'broach', 'destroy', 'destin', 'delta', 'hub', 'act', 'delv', 'acronym',
     'arti', 'ficial', 'art', 'artist', 'quarter', 'earth', 'carv', 'cart', 'thwart', 'arrogant', 'cascad', 'apart', 'revis',
-    'quarrel', 'quaternion', 'quant', 'queer', 'queen', 'thunk', 'nail', 'apache', 'bird', 'reprehen', 'apartment', #revisit
-    # carr?, er?, gence, gance, que, date, que, care, case
+    'quarrel', 'quaternion', 'quant', 'queer', 'queen', 'thunk', 'nail', 'apache', 'bird', 'reprehen', 'apartment',
+    'revisit', 'scar', 'care', 'carr', 'architect', 'archiv', 'arbit', 'arch', 'margin', 'marginal',
+    # er?, gence, gance, que, date, que, case, area scatter vanish car arduino api marathon
     # add 'summar', 'summat', substance substantial
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
