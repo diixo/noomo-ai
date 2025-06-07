@@ -215,8 +215,10 @@ diixo = [
     'stud', 'stuff', 'studio', 'week', 'subscrib', 'wedg', 'strength', 'strick', 'straggl', 'stout', 'story', 'dish', 'disdain',
     'season', 'unleash', 'seat', 'law', 'mock', 'neat', 'beneath', 'bend', 'high', 'hijack', 'disk', 'wish', 'twist',
     'swish', 'swip', 'wise', 'ought', 'polar', 'bottle', 'neck', 'byte', 'kilo', 'peta', 'exaggerat', 'alert',
-    'piece', 'kind', 'vexat', 'phase', 'bought', 'brought', 'apolog', 'apertur', 'bounc', 'apparent', # 'lif', 'liv', 'lik', 'lin',
-    'overlap', 'recap', 'tap', 'trap', 'trash', 'ball', 'tangent', 'apostrophe', 'anniversary', 'chunk',
+    'piece', 'kind', 'vexat', 'phase', 'bought', 'brought', 'apolog', 'apertur', 'bounc', 'apparent', 'huge',# 'lif', 'liv', 'lik', 'lin',
+    'overlap', 'recap', 'tap', 'trap', 'trash', 'ball', 'tangent', 'apostrophe', 'anniversary', 'chunk', 'destruct',
+    'accord', 'head', 'ache', 'man', 'seo', 'skip', 'impos', 'detach', 'mandat', 'impossibl', 'roman', 'accomplish',
+    'reproach', 'settl', 'setup', 'woman', 'upset', 'broach', 'destroy',
     # date
     # add 'summar', 'summat', substance substantial substantially
     # late, fire light wield win ful wise prov api
