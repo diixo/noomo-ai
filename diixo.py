@@ -56,7 +56,7 @@ diixo = [
     'explic', 'felic', 'flick', 'harmon', 'hierarch', 'acoust', 'amplic', 'analog', 'elastic', 'fabric', 'histor', 'plast',
     'indic', 'indicat', 'inflict', 'intrinsic', 'logarithm', 'magnif', 'malic', 'metaphor', 'method', 'music', 'period', 'philosoph',
     'polit', 'polic', 'morph', 'python', 'quick', 'joic', 'replic', 'ridic', 'rubric', 'robo', 'scept', 'colon', 'skept', 'simplic',
-    'vehic', 'variad', 'vindic', 'judic', 'benefic', 'choic', 'combin', 'energ', 'intric', 'justic', 'particl', 'predica', 'profic',
+    'vehicl', 'variad', 'vindic', 'judic', 'benefic', 'choic', 'combin', 'energ', 'intric', 'justic', 'particl', 'predica', 'profic',
     'radic', 'robust', 'modal', 'thing', 'cloth', 'breath', 'smooth', 'sooth', 'serv', 'reserv', 'observ', 'server', 'user', 'squar',
     #'pick', 'kick', 'sick', 'slic', 'wick', 'uni', 'mnemo', 'nice', 'nich',
     'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici', 'contact', 'synt', 'silicon', 'icon', 'respon',
@@ -126,7 +126,7 @@ diixo = [
     'element', 'retriev', 'retro', 'field', 'solid', 'feel', 'till', 'distill', 'tilt', 'disabl', 'spoil', 'tunel', 'box', 'virtual',
     'list', 'limit', 'black', 'wait', 'liquidat', 'drop', 'lift', 'enlarg', 'enjoy', 'enhanc', 'fool', 'rectang', 'night', 'right',
     'bright', 'wright', 'brief', 'offer', 'coffee', 'exist', 'argument', 'fact', 'manual', 'manufactur', 'factor', 'refactor', 'manipul',
-    'fear', 'feasib', 'experiment', 'export', 'desert', 'exponent', 'expound', 'explos', 'argue', 'greet', 'great', 'trad', 'half',
+    'fear', 'feasib', 'experiment', 'export', 'desert', 'exponent', 'expound', 'explos', 'argu', 'greet', 'great', 'trad', 'half',
     'govern', 'goal', 'general', 'futur', 'further', 'fork', 'font', 'eras', 'epoch', 'episod', 'camera', 'kernel', 'keep', 'campaign',
     'eliminat', 'effort', 'eigen', 'eject', 'elaborat', 'elect', 'descript', 'degree', 'elaps', 'employ', 'envelop', 'environ', 'exceed',
     'delay', 'delet', 'delegat', 'definit', 'deliberat', 'demonstra', 'mystif', 'depreciate', 'eligib', 'elegan', 'house', 'room', 'root',
@@ -221,8 +221,9 @@ diixo = [
     'reproach', 'settl', 'setup', 'woman', 'upset', 'broach', 'destroy', 'destin', 'delta', 'hub', 'act', 'delv', 'acronym',
     'arti', 'ficial', 'art', 'artist', 'quarter', 'earth', 'carv', 'cart', 'thwart', 'arrogant', 'cascad', 'apart', 'revis',
     'quarrel', 'quaternion', 'quant', 'queer', 'queen', 'thunk', 'nail', 'apache', 'bird', 'reprehen', 'apartment',
-    'revisit', 'scar', 'care', 'carr', 'architect', 'archiv', 'arbit', 'arch', 'margin', 'marginal',
-    # er?, gence, gance, que, date, que, case, area scatter vanish car arduino api marathon
+    'revisit', 'scar', 'care', 'carr', 'architect', 'archiv', 'arbit', 'arch', 'margin', 'marginal', 'area', 'scatter',
+    'vanish', 'car', 'arduino', 'api', 'valu', 'vector', 'eight', 'for',
+    # er?, gence, gance, que, date, que, case, marathon
     # add 'summar', 'summat', substance substantial
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
