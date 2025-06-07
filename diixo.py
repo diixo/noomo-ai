@@ -234,6 +234,7 @@ diixo = [
     'agil', 'outrage', 'lonel', 'clog', 'relish', 'littl', 'ugl', 'benefit', 'fad', 'bent', 'bend', 'bereav', 'bereft', 'fit',# 'lif', 'liv',
     'miser', 'commiserat', 'abstract', 'abundan', 'abstain', 'been', 'fidget', 'fide', 'account', 'adher', 'adjacen', 'adjectiv',
     'ador', 'arm', 'win', 'alarm', 'earl', 'skew', 'year', 'yeah', 'window', 'loyal', 'yellow', 'blow',
+    'darl', 'blind', 'mid', 'might', 'timid', 'bless', 'blend', 'blank', 'wav', 'blam',#'near',# 'gap', 'eag', 'low', 'lin', 'mid', 'abat',
     #'out', 'our', 'mon', lin lif liv pace fad lonel writ
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
