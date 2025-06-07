@@ -226,15 +226,15 @@ diixo = [
     'octa', 'dub', 'dress', 'driv', 'drink', 'talk', 'tall', 'drag', 'engross', 'entitl', 'eradicate', 'litera', 'obliterat',
     'plac', 'display', 'plain', 'planar', 'plan', 'plane', 'planet', 'complacen', 'bulk', 'buch', 'buy', 'calm', 'off', 'take',
     'tak', 'tag', 'tailor', 'tail', 'oust', 'one', 'noone', 'honest', 'noone', 'demot', 'curtail', 'bone', 'demo', 'cone',
-    'honour', 'postpon', 'patron',
-    #'pump', 'snip', 'out', 'our', 'cursor', 'demolish', 'long', 'mon',
+    'honour', 'postpon', 'patron', 'cursor', 'demolish', 'pump', 'snip', 'punct', 'long', 'sniff', 'punish', 'pupil', 'mongo',
+    #'out', 'our', 'mon',
     #'complacen', 'emplace',
     # er?, gence, gance, que, date, que, case, marathon
     # add 'summar', 'summat', substance substantial
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
-    #url, exe, ecut, net, non, sum, go, act, add, app, off, plac, tun, set,
+    #url, exe, ecut, net, non, sum, go, act, add, app, plac, tun, set,
     ]
 
 #print(sorted(diixo))
