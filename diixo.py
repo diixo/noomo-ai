@@ -232,13 +232,14 @@ diixo = [
     'matur', 'matter', 'premier', 'four', 'splend', 'stair', 'chair', 'http', 'url', 'html', 'aim', 'air', 'conspir', 'fortif',
     'fac', 'tun', 'treat', 'cris', 'attribut', 'attract', 'intuit', 'intrusiv', 'inur', 'couth', 'fragil', 'aghast', 'outer',
     'agil', 'outrage', 'lonel', 'clog', 'relish', 'littl', 'ugl', 'benefit', 'fad', 'bent', 'bend', 'bereav', 'bereft', 'fit',# 'lif', 'liv',
-    'miser', 'commiserat', 'abstract', 'abundan',
+    'miser', 'commiserat', 'abstract', 'abundan', 'abstain', 'been', 'fidget', 'fide', 'account', 'adher', 'adjacen', 'adjectiv',
+    'ador', 'arm', 'win', 'alarm', 'earl', 'skew', 'year', 'yeah', 'window', 'loyal', 'yellow', 'blow',
     #'out', 'our', 'mon', lin lif liv pace fad lonel writ
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
     # add 'summar', 'summat', substance substantial
-    # late, fire light wield win ful wise prov api
-    #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
+    # late, fire light win ful wise prov api
+    #set, heal, repo, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, plac, tun, set,
     ]
