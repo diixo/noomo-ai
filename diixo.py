@@ -30,7 +30,7 @@ diixo = [
     'bio', 'cyber', 'tech', 'anti', 'logic', 'atic', 'deep', 'space', 'sport', 'cycl',
     'free', 'ship', 'graph', 'own', 'photo', 'freez', 'slow', 'show', 'grow',
     'hyper', 'hash', 'gram', 'hard', 'lexic', 'ortho',
-    'project', 'program', 'param', 'phone', 'tele', 'power', 'excel', 'cell', 'produc', 'extra', 'extract', 'extrapolat', 'cancel',
+    'project', 'program', 'param', 'phone', 'tele', 'pow', 'excel', 'cell', 'produc', 'extra', 'extract', 'extrapolat', 'cancel',
     'micro', 'head', 'chip', 'mobil', 'system', 'control', 'comput', 'struct', 'view', 'bench', 'board', 'client', 'video',
     'web', 'assembl', 'develop', 'work', 'design', 'thought',
     'round', 'around', 'flow', 'sheet', 'time', 'shop', 'group', 'local', 'ground', 'stack', 'sketch', 'sentiment', 'life',
@@ -227,6 +227,9 @@ diixo = [
     'plac', 'display', 'plain', 'planar', 'plan', 'plane', 'planet', 'complacen', 'bulk', 'buch', 'buy', 'calm', 'off', 'take',
     'tak', 'tag', 'tailor', 'tail', 'oust', 'one', 'noone', 'honest', 'noone', 'demot', 'curtail', 'bone', 'demo', 'cone',
     'honour', 'postpon', 'patron', 'cursor', 'demolish', 'pump', 'snip', 'punct', 'long', 'sniff', 'punish', 'pupil', 'mongo',
+    'humour', 'journal', 'journ', 'pour', 'humbl', 'park', 'rumour', 'pin', 'joy', 'scal', 'scalar', 'sys', 'much',#'out',
+    'inaugurat', 'mon', 'favo', 'endeav', 'labo', 'laborator', 'collab', 'lab', 'lack', 'cold', 'fus', 'scold', 'idiom', 'axiom',
+    'matur', 'matter', 'premier',
     #'out', 'our', 'mon',
     #'complacen', 'emplace',
     # er?, gence, gance, que, date, que, case, marathon
