@@ -50,7 +50,7 @@ diixo = [
     'complicat', 'predict', 'offic', 'strict', 'ficat', 'twice', 'trick', 'traff', 'tick', 'thick', 'theor', 'communic', 'symbol',
     'solicit', 'small', 'smart', 'devic', 'certif', 'atmo', 'amplif', 'clarif', 'classif', 'codif', 'dens', 'densif', 'diversif',
     'electrif', 'gamif', 'gratif', 'identif', 'justif', 'minif', 'modif', 'mortif', 'notif', 'qualif', 'quantif', 'simplif', 'unif',
-    'verif', 'notic', 'pric', 'voic', 'which', 'academ', 'addict', 'advic', 'alpha', 'logic', 'trop', 'applic', 'artic', 'artific',
+    'verif', 'notic', 'pric', 'voic', 'which', 'academ', 'addict', 'advic', 'alpha', 'logic', 'trop', 'applic', 'articl', 'ticket',
     'authent', 'centr', 'bion', 'canon', 'categor', 'click', 'hapt', 'servic', 'coeff', 'conflict', 'contradict', 'convict',
     'dedicat', 'dupl', 'defic', 'delic', 'dict', 'dictat', 'difficult', 'effic', 'electr', 'magnet', 'elicit', 'ergonom', 'evict',
     'explic', 'felic', 'flick', 'harmon', 'hierarch', 'acoust', 'amplic', 'analog', 'elastic', 'fabric', 'histor', 'plast',
@@ -218,9 +218,11 @@ diixo = [
     'piece', 'kind', 'vexat', 'phase', 'bought', 'brought', 'apolog', 'apertur', 'bounc', 'apparent', 'huge',# 'lif', 'liv', 'lik', 'lin',
     'overlap', 'recap', 'tap', 'trap', 'trash', 'ball', 'tangent', 'apostrophe', 'anniversary', 'chunk', 'destruct',
     'accord', 'head', 'ache', 'man', 'seo', 'skip', 'impos', 'detach', 'mandat', 'impossibl', 'roman', 'accomplish',
-    'reproach', 'settl', 'setup', 'woman', 'upset', 'broach', 'destroy',
+    'reproach', 'settl', 'setup', 'woman', 'upset', 'broach', 'destroy', 'destin', 'delta', 'hub', 'act', 'delv', 'acronym',
+    'arti', 'ficial', 'art', 'artist',
+    # thunk, quarter, thwart, quarrel, quaternion, earth, carv, cart, arrogant, carr?, er?, gence, gance, que, bird
     # date
-    # add 'summar', 'summat', substance substantial substantially
+    # add 'summar', 'summat', substance substantial
     # late, fire light wield win ful wise prov api
     #set, heal, repo, side, rand, mov, def, nom-nomo, uous, duc
     #act, bas, log,
