@@ -14,8 +14,8 @@ ablating
 able
 ably
 abnormally
-abode
 abolish
+abolished
 abort
 aborted
 aborting
@@ -60,6 +60,7 @@ access
 accessed
 accessing
 accidentally
+acclaims
 accommodate
 accommodated
 accommodates
@@ -99,6 +100,7 @@ acknowledge
 acknowledges
 acknowledging
 acquainted
+acquiesces
 acquire
 acquired
 acquires
@@ -367,6 +369,7 @@ appeared
 appearing
 appears
 appease
+appeases
 append
 appended
 appending
@@ -403,6 +406,8 @@ approximates
 approximating
 aptly
 arbitrarily
+arched
+arches
 architected
 architecting
 archived
@@ -469,6 +474,10 @@ associated
 associates
 associating
 associative
+assorts
+assuaged
+assuages
+assuaging
 assume
 assumed
 assumes
@@ -627,6 +636,7 @@ beloved
 below
 bench
 bend
+bended
 beneath
 beneficially
 bent
@@ -701,6 +711,9 @@ bothered
 bothering
 bothers
 bought
+bounced
+bounces
+bouncing
 bound
 bounded
 bounds
@@ -1182,6 +1195,9 @@ connect
 connected
 connecting
 connects
+connive
+connived
+connives
 conquer
 conquered
 conquering
@@ -1191,6 +1207,7 @@ consent
 consented
 consequently
 conserve
+conserved
 consider
 considerably
 considered
@@ -1334,6 +1351,9 @@ corresponded
 corresponding
 correspondingly
 corresponds
+corroborate
+corroborated
+corroborates
 corrupt
 corrupted
 corrupts
@@ -2047,7 +2067,9 @@ dreamt
 dress
 drew
 drill
+drilled
 drilling
+drills
 drink
 drink-up
 drinking
@@ -2160,6 +2182,7 @@ elucidates
 elude
 eluded
 eludes
+eluding
 emailed
 emailing
 embark
@@ -2312,6 +2335,8 @@ entertains
 entirely
 entitle
 entitles
+entrap
+entraps
 entrench
 entrenched
 entrust
@@ -2339,7 +2364,9 @@ equipped
 equipping
 equips
 equivalently
+eradicate
 eradicated
+eradicates
 erase
 erased
 erases
@@ -3083,6 +3110,7 @@ how's
 howbeit
 however
 hugely
+humbles
 hung
 hunt
 hunted
@@ -3567,6 +3595,7 @@ kindly
 knew
 knock
 knocked
+knockes
 knocking
 know
 knowing
@@ -4752,6 +4781,8 @@ protect
 protected
 protecting
 protects
+protrude
+protrudes
 proud
 prouded
 prouds
@@ -4815,6 +4846,9 @@ quantifying
 quantize
 quantized
 quantizes
+queer
+queered
+queers
 queried
 queued
 queuing
@@ -5128,6 +5162,7 @@ reforming
 reformulate
 reformulated
 reformulates
+refrains
 refresh
 refreshed
 refreshes
@@ -5139,6 +5174,7 @@ refused
 refuses
 regain
 regained
+regains
 regard
 regarded
 regarding
@@ -5238,6 +5274,7 @@ releases
 releasing
 relegate
 relegated
+relegates
 relegating
 reliably
 relied
@@ -5367,6 +5404,9 @@ repositioned
 repost
 reposted
 reposting
+reprehend
+reprehended
+reprehends
 represent
 represented
 representing
@@ -5723,6 +5763,8 @@ searching
 second
 secondly
 secures
+seduce
+seduces
 see
 seeing
 seek
@@ -5996,6 +6038,10 @@ specified
 specifies
 specify
 specifying
+speculate
+speculated
+speculates
+speculating
 sped
 speed
 speed-up
@@ -6050,6 +6096,8 @@ stagger
 staggered
 staggering
 staggers
+stagnate
+stagnated
 stall
 stalled
 stalls
@@ -6912,6 +6960,7 @@ valuably
 valued
 vanish
 vanished
+vanishes
 varchar
 variably
 variate
@@ -7698,6 +7747,7 @@ amendments
 amends
 amiable
 amiableness
+amiably
 amity
 amoled
 amount
@@ -7882,6 +7932,7 @@ appointing
 appointment
 appointments
 appositional
+appositive
 appraisal
 appreciable
 appreciation
@@ -7917,6 +7968,7 @@ arbiter
 arbitrary
 arcade
 arch
+arching
 architect
 architects
 architectural
@@ -7960,6 +8012,8 @@ arrear
 arrival
 arriving
 arrogance
+arrogant
+arrogantly
 arrow
 arrows
 art
@@ -8045,7 +8099,9 @@ assistantship
 association
 associations
 associativity
+assort
 assorted
+assorting
 assortment
 assuage
 assumption
@@ -8644,6 +8700,7 @@ brisk
 briskly
 briskness
 brittle
+broaching
 broad
 broadband
 broadcast
@@ -8872,6 +8929,7 @@ cbow
 cc1plus
 cca
 cd
+ceil
 ceiling
 celebrating
 celebration
@@ -8929,6 +8987,7 @@ changeover
 changer
 channel
 channels
+chaos
 chaotic
 chapter
 chapters
@@ -9628,6 +9687,7 @@ consequent
 consequential
 consequentially
 conservation
+conserves
 considerable
 considerate
 consideration
@@ -9642,6 +9702,7 @@ consolidation
 consoling
 consonant
 consortium
+conspiracy
 constancy
 constant
 constant-time
@@ -10740,6 +10801,8 @@ discriminator
 discussion
 discussions
 disdain
+disdained
+disdainful
 disengage
 disengaged
 disgrace
@@ -11233,6 +11296,7 @@ emergence
 emergency
 emergent
 emerging
+eminence
 eminent
 eminently
 emission
@@ -11382,6 +11446,7 @@ entranced
 entrant
 entrants
 entrapped
+entrapping
 entreat
 entreated
 entreaties
@@ -11454,6 +11519,7 @@ equivalents
 equivariance
 equivocation
 era
+eradicating
 erasable
 eraser
 erasure
@@ -11461,8 +11527,10 @@ ergonomic
 ergonomics
 erlang
 errand
+erranded
 errands
 errant
+errantly
 errantry
 erratic
 erroneous
@@ -12579,6 +12647,7 @@ great
 greatest
 greatly
 greatness
+greed
 greedy
 grep
 grid
@@ -12991,6 +13060,8 @@ humane
 humanely
 humanity
 humble
+humbled
+humbling
 humiliation
 humility
 humour
@@ -13110,7 +13181,9 @@ illegitimacy
 illegitimate
 illiberal
 illicit
+illiteracy
 illiterate
+illiterates
 illness
 illnesses
 illumination
@@ -13510,6 +13583,7 @@ ingestion
 ingratiating
 ingratitude
 ingress
+ingression
 inhabited
 inherent
 inheritable
@@ -13631,6 +13705,7 @@ instantaneously
 instantiation
 instantiations
 instigator
+instinct
 instinctive
 institute
 institutes
@@ -14496,6 +14571,8 @@ literacy
 literal
 literals
 literary
+literate
+literates
 literature
 little-known
 littleness
@@ -14748,7 +14825,6 @@ manipulations
 manipulator
 manipulators
 manners
-manoeuvring
 manual
 manually-assembled
 manuals
@@ -15949,6 +16025,7 @@ obligations
 obligatory
 obliging
 obliquity
+obliterating
 obscure
 obscuring
 obscurity
@@ -16331,7 +16408,6 @@ oversampled
 oversampling
 oversaturated
 overseas
-overseers
 oversight
 oversimplified
 overstock
@@ -16751,7 +16827,6 @@ pity
 pivotal
 pixel
 pixels
-pixilation
 pl
 pl-sql
 placeholder
@@ -17503,6 +17578,8 @@ quaternion
 quaternions
 que
 queen
+queering
+queerness
 queernesses
 queries
 query
@@ -17883,6 +17960,7 @@ refusal
 refusing
 refuted
 reg
+regaining
 regards
 regeneration
 regex
@@ -18060,6 +18138,7 @@ reposition
 repositioning
 repositories
 repository
+reprehending
 reprehensible
 reprehension
 representability
@@ -18589,6 +18668,8 @@ security
 sed
 sedate
 seduced
+seduction
+seductive
 seed
 seed-stage
 seeded
@@ -18788,7 +18869,6 @@ shading
 shadow
 shadowing
 shadows
-shakespeare
 shaking
 shallow
 shame
@@ -19813,6 +19893,7 @@ summer's
 summit
 summon
 summoned
+summoning
 summons
 sums
 sun
@@ -20314,6 +20395,7 @@ throwback
 thumbnail
 thumbnails
 thunderbird
+thunk
 thunks
 thwarted
 ticket
@@ -21832,6 +21914,9 @@ webworks
 webxml
 wedding
 weddings
+wedge
+wedged
+wedges
 wedging
 wednesday
 week
