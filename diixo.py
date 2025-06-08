@@ -74,7 +74,7 @@ diixo = [
     'effect', 'expans', 'expedite', 'explor', 'command', 'confirm', 'except', 'expir', 'explain', 'explanat', 'follow', 'cluster', 'collect',
     'node', 'expand', 'excess', 'expert', 'chang', 'champ', 'channel', 'itera', 'chanc', 'challeng', 'chapt', 'excit', 'recogni', 'fold',
     'charg', 'chart', 'clock', 'focus', 'call', 'ic', 'consist', 'optim', 'permut', 'flect', 'simpl', 'help', 'forward', 'feed',
-    'sight', 'sign', 'mono', 'assist', 'assign', 'insight', 'consider', 'associat', 'foresee', 'start', 'xor', 'debug', 'metr',
+    'sight', 'sign', 'mono', 'assist', 'assign', 'insight', 'consider', 'foresee', 'start', 'xor', 'debug', 'metr',
     'unifi', 'unicorn', 'unicode', 'jump', 'quiet', 'stream', 'ignit', 'fuck', 'guarant', 'digit', 'ignor', 'main', 'remain', 'maintain',
     'mainfram', 'mainten', 'domain', 'document', 'debut', 'debat', 'crowd', 'depend', 'doc', 'found', 'dock', 'funder', 'thunder',
     'pseudo', 'depict', 'depart', 'department', 'fund', 'fundament', 'sampl', 'doctrin', 'blund', 'requi', 'same', 'inert',
@@ -148,7 +148,7 @@ diixo = [
     'menu', 'mentor', 'duck', 'dump', 'preced', 'cautio', 'dual', 'gradual', 'grad', 'upgrad', 'gradat', 'gradient', 'gradl',
     'fluctuat', 'fluen', 'fluff', 'conform', 'complian', 'flourish', 'flush', 'impertinen', 'imped', 'impend', 'impel', 'immut',
     'immers', 'imminent', 'migrat', 'industr', 'indulg', 'induct', 'induc', 'individual', 'disput', 'indent', 'incubat', 'increment',
-    'decreas', 'increas', 'incredibl', 'height', 'spat', 'final', 'filt', 'involv', 'invok', 'laugh', 'legal', 'legitim',
+    'decreas', 'increas', 'incredibl', 'height', 'spatial', 'final', 'filt', 'involv', 'invok', 'laugh', 'legal', 'legitim',
     'lesson', 'level', 'leverag', 'length', 'lemma', 'layer', 'play', 'splay', 'pilot', 'patch', 'platform', 'team', 'patent',
     'autonom', 'steep', 'pair', 'parallel', 'pardon', 'phras', 'passiv', 'repetit', 'php', 'storm', 'brain', 'branch', 'batch',
     'batter', 'replac', 'famil', 'battle', 'bayes', 'false', 'exult', 'extrem', 'extern', 'exterior', 'devot', 'dexter',
@@ -239,9 +239,10 @@ diixo = [
     'vue', 'nam', 'cod', 'tour', 'tournament', 'edge', 'vulgar', 'accrue', 'accus', 'ada', 'ful', 'glimps', 'plent', 'pledg',
     'wizard', 'power', 'relinquish', 'reliev', 'ornament', 'dia', 'gonal', 'dialect', 'dialog', 'dial', 'meter', 'nurs', 'jitter',
     'writ', 'wrote', 'wretch', 'relax', 'fulfil', 'file', 'dos', 'sincere', 'since', 'figur', 'layout', 'dot', 'bot', 'both', 'fight',
-    'fuel', 'get', 'make', 'lay', 'laid', # obvius
-    #file 'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat',
-    #'out', 'our', 'mon', lin lif liv pace fad writ file
+    'fuel', 'get', 'make', 'lay', 'laid', 'twent', 'underwent', 'went', 'twelve', 'whelm', 'simultaneous', 'similar', 'silver',# obvius
+    'signal', 'signif', 'signatur', 'dissent', 'dissipat', 'sociat', 'disrupt', 'dissuad', 'distan', 'tast', 'taught', 'speak', 'spoke',
+    #'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat',
+    #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
     # add 'summar', 'summat', substance substantial
