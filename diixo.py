@@ -246,8 +246,9 @@ diixo = [
     'during', 'duration', 'durab', 'notat', 'cur', 'curl', 'light', 'male', 'female', 'equaliz', 'linguist', 'compel', 'sill',
     'mak', 'made', 'get', 'hav', 'has', 'haskell', 'captcha', 'hast', 'hassl', 'haunt', 'hunt', 'hurr', 'lodg', 'loose', 'lov', 'loud',
     'low', 'luxur', 'mama', 'marr', 'indign', 'meet', 'meditat', 'merit', 'messag', 'demodulat', 'late', 'option', 'outage', 'overrid',
-    'saturat', 'frantic', 'warrant', 'endur', 'rand', 'fortran', 'fragran', 'hinder', 'intra', 'vibr', 'remonstra',#remembrance
-    #'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat', 'tim' ring hind
+    'saturat', 'frantic', 'warrant', 'endur', 'rand', 'fortran', 'fragran', 'hinder', 'intra', 'vibr', 'remonstra',
+    'wash', 'franca', 'him', 'hint', 'hindranc', 'remembr', 'ramp', 'hir', 'thir', 'think',
+    #'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat', 'tim' ring whim whisp thither ward thin hist retir fraud ran retent
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
