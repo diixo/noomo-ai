@@ -247,9 +247,10 @@ diixo = [
     'mak', 'made', 'get', 'hav', 'has', 'haskell', 'captcha', 'hast', 'hassl', 'haunt', 'hunt', 'hurr', 'lodg', 'loose', 'lov', 'loud',
     'low', 'luxur', 'mama', 'marr', 'indign', 'meet', 'meditat', 'merit', 'messag', 'demodulat', 'late', 'option', 'outage', 'overrid',
     'saturat', 'frantic', 'warrant', 'endur', 'rand', 'fortran', 'fragran', 'hinder', 'intra', 'vibr', 'remonstra',
-    'wash', 'franca', 'him', 'hint', 'hindranc', 'remembr', 'ramp', 'hir', 'thir', 'think', 'they', 'theta',
-    'whip', 'whisp', 'thither', 'thin', 'hist', 'retir', 'fraud', 'retent',
-    #'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat', 'tim' ring, # told thos thous therm thes
+    'wash', 'franca', 'him', 'hint', 'hindranc', 'remembr', 'ramp', 'hir', 'thir', 'think', 'they', 'theta', 'tolera', 'ther', 'thest',
+    'whip', 'whisp', 'thither', 'thin', 'hist', 'retir', 'until', 'retent', 'told', 'those', 'thous', 'therm', 'thes', 'away', 'thesa',
+    # ether father heather heat heaven rat tether, fraud rather father ran
+    #'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
