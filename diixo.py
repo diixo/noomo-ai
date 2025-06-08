@@ -238,7 +238,8 @@ diixo = [
     'forge', 'forget', 'forgiv', 'palette', 'panel', 'abat', 'item', 'men', 'human', 'site', 'pag', 'tremend', 'comma', 'obstacl',
     'vue', 'nam', 'cod', 'tour', 'tournament', 'edge', 'vulgar', 'accrue', 'accus', 'ada', 'ful', 'glimps', 'plent', 'pledg',
     'wizard', 'power', 'relinquish', 'reliev', 'ornament', 'dia', 'gonal', 'dialect', 'dialog', 'dial', 'meter', 'nurs', 'jitter',
-    'writ', 'wrote', 'wretch', 'relax', 'fulfil', 'file', 'dos', 'sincere', 'since', 'figur',
+    'writ', 'wrote', 'wretch', 'relax', 'fulfil', 'file', 'dos', 'sincere', 'since', 'figur', 'layout', 'dot', 'bot', 'both', 'fight',
+    'fuel', 'get', 'make', 'lay', 'laid', # obvius
     #file 'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat',
     #'out', 'our', 'mon', lin lif liv pace fad writ file
     #'emplace',
