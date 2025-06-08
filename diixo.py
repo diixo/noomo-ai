@@ -244,7 +244,8 @@ diixo = [
     'fram', 'framework', 'guard', 'wire', 'tim', 'verbos', 'obstinate', 'obtain', 'obviat', 'obvious', 'occasion', 'occup', 'occlud',
     'obstruct', 'old', 'omit', 'hold', 'gold', 'thres', 'got', 'vigour', 'django', 'rigorous', 'logit', 'logistic', 'gorgeous', 'poll',
     'during', 'duration', 'durab', 'notat', 'cur', 'curl', 'light', 'male', 'female', 'equaliz', 'linguist', 'compel', 'sill',
-    'mak', 'made', 'get', 'hav', 'has', 'haskell', 'captcha', 'hast', 'hassl', 'haunt', 'hunt',
+    'mak', 'made', 'get', 'hav', 'has', 'haskell', 'captcha', 'hast', 'hassl', 'haunt', 'hunt', 'hurr', 'lodg', 'loose', 'lov', 'loud',
+    'low', 'luxur', 'mama', 'marr', 'indign', #'meet', 'meditat', 'merit', 'messag',
     #'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat', 'tim' ring
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
