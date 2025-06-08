@@ -255,7 +255,9 @@ diixo = [
     'log', 'thriv', 'cas', 'thrill', 'came', 'witness', 'threw', 'thrift', 'lend', 'lent', 'relent', 'insolen', 'indolen', 'inso',
     'jealous', 'jet', 'jok', 'job', 'judg', 'kept', 'rais', 'diffiden', 'juggl', 'kept', 'rain', 'rac', 'rad', 'brag', 'brac', 'boy',
     'surg', 'sync', 'surfac', 'surf', 'surmis', 'untaint', 'surpass', 'risk', 'rival', 'ris', 'rose', 'river', 'village', 'town', 'worr',
-    'see', 'saw', 'seen', 'sees', 'sawed', 'sawn', 'noun', 'sav', 'gam', 'notorious', 'nought', 'gap',
+    'see', 'saw', 'seen', 'sees', 'sawed', 'sawn', 'noun', 'sav', 'gam', 'notorious', 'nought', 'gap', 'mile', 'ston', 'smil', 'smell',
+    'smok', 'mild', 'segue', 'send', 'sent', 'senior', 'sensation', 'seven', 'several', 'sever', 'shrink', 'shrank', 'shrunk', 'sigh',
+    'sink', 'six', 'situat', 'slav', 'sleep', 'slept', 'sembl', 'solution', 'sensitiv', 'assent', 'seiz', 'seminar', 'slay', 'smit',
 
     # rat, euclid, tri
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
