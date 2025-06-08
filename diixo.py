@@ -72,7 +72,7 @@ diixo = [
     'cool', 'cook', 'book', 'bool', 'ultra', 'fast', 'text', 'context', 'contest', 'content', 'face', 'hand', 'edit', 'circl', 'center',
     'expedit', 'expend', 'expedien', 'educat', 'constrain', 'conscious', 'connect', 'continu', 'expens', 'conjunct', 'expect', 'experienc',
     'effect', 'expans', 'expedite', 'explor', 'command', 'confirm', 'except', 'expir', 'explain', 'explanat', 'follow', 'cluster', 'collect',
-    'node', 'expand', 'excess', 'expert', 'chang', 'champ', 'channel', 'iterat', 'chanc', 'challeng', 'chapt', 'excit', 'recogni', 'fold',
+    'node', 'expand', 'excess', 'expert', 'chang', 'champ', 'channel', 'itera', 'chanc', 'challeng', 'chapt', 'excit', 'recogni', 'fold',
     'charg', 'chart', 'clock', 'focus', 'call', 'ic', 'consist', 'optim', 'permut', 'flect', 'simpl', 'help', 'forward', 'feed',
     'sight', 'sign', 'mono', 'assist', 'assign', 'insight', 'consider', 'associat', 'foresee', 'start', 'xor', 'debug', 'metr',
     'unifi', 'unicorn', 'unicode', 'jump', 'quiet', 'stream', 'ignit', 'fuck', 'guarant', 'digit', 'ignor', 'main', 'remain', 'maintain',
@@ -171,7 +171,7 @@ diixo = [
     'flash', 'flat', 'flare', 'flag', 'preach', 'pray', 'pride', 'previous', 'procrastinat', 'animat', 'wound', 'angular',
     'many', 'wind', 'dwindl', 'swin', 'willing', 'swift', 'processor', 'proud', 'sock', 'provid', 'claim', 'civil', 'clamp',
     'acclaim', 'disciplin', 'accommodat', 'discern', 'competen', 'compet', 'appeas', 'protrud', 'furbish', 'appellation', 'wield',
-    'whol', 'rememb', 'past', 'verb', 'advers', 'provok', 'provis', 'provocation', 'prox', 'repair', 'revok', 'reviv',
+    'whole', 'rememb', 'past', 'verb', 'advers', 'provok', 'provis', 'provocation', 'prox', 'repair', 'revok', 'reviv',
     'slot', 'slop', 'slim', 'slid', 'show', 'slic', 'slip', 'sponsor', 'split', 'splin', 'spontane', 'spread', 'speed',
     'squeez', 'sprint', 'staff', 'stemm', 'steer', 'stencil', 'bottom', 'brush', 'speculat', 'speech', 'special', 'specializ',
     'spectr', 'speci', 'spec', 'bump', 'calendar', 'calibrat', 'button', 'cable', 'burn', 'budget', 'criteri', 'credit', 'crop',
@@ -235,9 +235,9 @@ diixo = [
     'miser', 'commiserat', 'abstract', 'abundan', 'abstain', 'been', 'fidget', 'fide', 'account', 'adher', 'adjacen', 'adjectiv',
     'ador', 'arm', 'win', 'alarm', 'earl', 'skew', 'year', 'yeah', 'window', 'loyal', 'yellow', 'blow', 'scrut', 'scrup',
     'darl', 'blind', 'mid', 'might', 'timid', 'bless', 'blend', 'blank', 'wav', 'blam', 'tabl', 'refut', 'scrutiniz', 'titl',
-    'forge', 'forget', 'forgiv', 'palette',
-    #'near', 'lin', # 'gap', 'eag', 'low', 'abat',
-    #'out', 'our', 'mon', lin lif liv pace fad lonel writ
+    'forge', 'forget', 'forgiv', 'palette', 'panel', 'abat', 'item', 'men', 'human', 'site', 'pag', 'tremend', 'comma', 'obstacl',
+    #'nam', 'cod', 'near', 'lin', # 'gap', 'eag', 'low', 'abat', rear qualit
+    #'out', 'our', 'mon', lin lif liv pace fad writ
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
     # add 'summar', 'summat', substance substantial
