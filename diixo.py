@@ -166,7 +166,7 @@ diixo = [
     'decimal', 'cmos', 'ascii', 'decision', 'heuristic', 'hesitat', 'incur', 'indebt', 'indeed', 'deed', 'deduc', 'deem', 'conquer',
     'consecutiv', 'controver', 'convert', 'convex', 'convey', 'convol', 'convinc', 'corner', 'coroutin', 'core', 'soul', 'ston',
     'collinear', 'collid', 'color', 'colour', 'college', 'collung', 'arrow', 'narrow', 'narrat', 'nano', 'corollar', 'corpus',
-    'cosin', 'coach', 'rapid', 'curat', 'articulat', 'cumulat', 'tabul', 'triangul', 'ransom', 'adopt', 'interact', 'interpret',# 'tabl',
+    'cosin', 'coach', 'rapid', 'curat', 'articulat', 'cumulat', 'tabul', 'triangul', 'ransom', 'adopt', 'interact', 'interpret',
     'mutat', 'portal', 'stabl', 'integr', 'mutab', 'intercept', 'invent', 'intro', 'issu', 'pragm', 'duc', 'reduc', 'map',
     'flash', 'flat', 'flare', 'flag', 'preach', 'pray', 'pride', 'previous', 'procrastinat', 'animat', 'wound', 'angular',
     'many', 'wind', 'dwindl', 'swin', 'willing', 'swift', 'processor', 'proud', 'sock', 'provid', 'claim', 'civil', 'clamp',
@@ -233,8 +233,10 @@ diixo = [
     'fac', 'tun', 'treat', 'cris', 'attribut', 'attract', 'intuit', 'intrusiv', 'inur', 'couth', 'fragil', 'aghast', 'outer',
     'agil', 'outrage', 'lonel', 'clog', 'relish', 'littl', 'ugl', 'benefit', 'fad', 'bent', 'bend', 'bereav', 'bereft', 'fit',# 'lif', 'liv',
     'miser', 'commiserat', 'abstract', 'abundan', 'abstain', 'been', 'fidget', 'fide', 'account', 'adher', 'adjacen', 'adjectiv',
-    'ador', 'arm', 'win', 'alarm', 'earl', 'skew', 'year', 'yeah', 'window', 'loyal', 'yellow', 'blow',
-    'darl', 'blind', 'mid', 'might', 'timid', 'bless', 'blend', 'blank', 'wav', 'blam',#'near',# 'gap', 'eag', 'low', 'lin', 'mid', 'abat',
+    'ador', 'arm', 'win', 'alarm', 'earl', 'skew', 'year', 'yeah', 'window', 'loyal', 'yellow', 'blow', 'scrut', 'scrup',
+    'darl', 'blind', 'mid', 'might', 'timid', 'bless', 'blend', 'blank', 'wav', 'blam', 'tabl', 'refut', 'scrutiniz', 'titl',
+    'forge', 'forget', 'forgiv', 'palette',
+    #'near', 'lin', # 'gap', 'eag', 'low', 'abat',
     #'out', 'our', 'mon', lin lif liv pace fad lonel writ
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
