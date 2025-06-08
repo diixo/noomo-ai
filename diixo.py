@@ -108,7 +108,7 @@ diixo = [
     'fract', 'fraction', 'schem', 'scholar', 'secur', 'sensor', 'sentenc', 'sharp', 'shard', 'session', 'singular', 'singl', 'sinus', 'sister',
     'skeleton', 'slight', 'watch', 'smash', 'socket', 'social', 'summit', 'trend', 'trial', 'triang', 'water', 'scenar', 'societ', 'init',
     'finish', 'finit', 'affiliat', 'infer', 'finger', 'affect', 'affin', 'infect', 'financ', 'fine', 'confin', 'currenc', 'current', 'concurr',
-    'concret', 'liter', 'curious', 'recur', 'obscur', 'translat', 'rectif', 'transit', 'recurs', 'transcrib', 'transist', 'resist',
+    'concret', 'liter', 'curio', 'recur', 'obscur', 'translat', 'rectif', 'transit', 'recurs', 'transcrib', 'transist', 'resist',
     'resilien', 'silen', 'silhouett', 'resid', 'resident', 'resonat', 'restor', 'restart', 'restat', 'restrict', 'restruct', 'submit',
     'restaurant', 'rest', 'fair', 'purchas', 'restrain', 'exploit', 'affab', 'fail', 'explod', 'result', 'resum', 'resurrect', 'host', 'grab',
     'ghost', 'hospit', 'hook', 'ordinar', 'imag', 'absorb', 'climb', 'describ', 'descen', 'condens', 'deriv', 'binanc', 'disturb', 'glob',
@@ -239,9 +239,12 @@ diixo = [
     'vue', 'nam', 'cod', 'tour', 'tournament', 'edge', 'vulgar', 'accrue', 'accus', 'ada', 'ful', 'glimps', 'plent', 'pledg',
     'wizard', 'power', 'relinquish', 'reliev', 'ornament', 'dia', 'gonal', 'dialect', 'dialog', 'dial', 'meter', 'nurs', 'jitter',
     'writ', 'wrote', 'wretch', 'relax', 'fulfil', 'file', 'dos', 'sincere', 'since', 'figur', 'layout', 'dot', 'bot', 'both', 'fight',
-    'fuel', 'get', 'make', 'lay', 'laid', 'twent', 'underwent', 'went', 'twelve', 'whelm', 'simultaneous', 'similar', 'silver',# obvius
+    'fuel', 'get', 'lay', 'laid', 'twent', 'underwent', 'went', 'twelve', 'whelm', 'simultaneous', 'similar', 'silver', 'odd',
     'signal', 'signif', 'signatur', 'dissent', 'dissipat', 'sociat', 'disrupt', 'dissuad', 'distan', 'tast', 'taught', 'speak', 'spoke',
-    #'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat',
+    'fram', 'framework', 'guard', 'wire', 'tim', 'verbos', 'obstinate', 'obtain', 'obviat', 'obvious', 'occasion', 'occup', 'occlud',
+    'obstruct', 'old', 'omit', 'hold', 'gold', 'thres', 'got', 'vigour', 'django', 'rigorous', 'logit', 'logistic', 'gorgeous', 'poll',
+    'during', 'duration', 'durab', 'notat', 'cur', 'curl', 'light', 'male', 'female', 'equaliz', 'linguist', 'compel', 'sill', #make
+    #'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat', 'tim' ring
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
