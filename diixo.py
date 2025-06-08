@@ -196,7 +196,7 @@ diixo = [
     'mitigat', 'mix', 'mixture', 'catch', 'catalog', 'caught', 'plus', 'covet', 'plural', 'pad', 'ceas', 'ceil', 'char', 'charm',
     'charit', 'school', 'chao', 'confer', 'conduc', 'federat', 'confluen', 'confront', 'confound', 'conjectur', 'invert', 'invest',
     'investigat', 'invigorat', 'puzzl', 'shad', 'shadow', 'shak', 'sham', 'shap', 'shar', 'side', 'conjuga', 'plung', 'sick',
-    'shut', 'plug', 'ping', 'chrom', 'diod', 'monitor', 'ampersand', 'alone', 'along', 'aloud', 'stall', 'stakeholder', 'forest',
+    'shut', 'plug', 'ping', 'chrome', 'diod', 'monitor', 'ampersand', 'alone', 'along', 'aloud', 'stall', 'stakeholder', 'forest',
     'foretell', 'forever', 'congregat', 'conniv', 'conserv', 'contingen', 'contigu', 'contour', 'contract', 'contrast', 'couch',
     'corroborat', 'cost', 'chronologic', 'pipeline', 'pitch', 'dark', 'pioneer', 'scan', 'pick', 'dart', 'valid', 'invad', 'dash',
     'frustrat', 'frustum', 'emit', 'eminen', 'epilog', 'euler', 'exclud', 'exclus', 'exercis', 'exert', 'exhibit', 'exigen',
@@ -246,13 +246,17 @@ diixo = [
     'during', 'duration', 'durab', 'notat', 'cur', 'curl', 'light', 'male', 'female', 'equaliz', 'linguist', 'compel', 'sill',
     'mak', 'made', 'get', 'hav', 'has', 'haskell', 'captcha', 'hast', 'hassl', 'haunt', 'hunt', 'hurr', 'lodg', 'loose', 'lov', 'loud',
     'low', 'luxur', 'mama', 'marr', 'indign', 'meet', 'meditat', 'merit', 'messag', 'demodulat', 'late', 'option', 'outage', 'overrid',
-    'saturat', 'frantic', 'warrant', 'endur', 'rand', 'fortran', 'fragran', 'hinder', 'intra', 'vibr', 'remonstra',
+    'saturat', 'frantic', 'warrant', 'endur', 'rand', 'fortran', 'fragran', 'hinder', 'intra', 'vibr', 'remonstra', 'bring', 'brisk',
     'wash', 'franca', 'him', 'hint', 'hindranc', 'remembr', 'ramp', 'hir', 'thir', 'think', 'they', 'theta', 'tolera', 'ther', 'thest',
     'whip', 'whisp', 'thither', 'thin', 'hist', 'retir', 'until', 'retent', 'told', 'those', 'thous', 'therm', 'thes', 'away', 'thesa',
     'fraud', 'rather', 'father', 'ran', 'ratio', 'illustrat', 'tether', 'aberrant', 'encumb', 'penetrat', 'forb', 'illuminat', 'illus',
     'foray', 'giv', 'glad', 'glanc', 'farth', 'ether', 'numb', 'net', 'oauth', 'glass', 'conviv', 'conv', 'dang', 'obey', 'genuin',
     'geni', 'gene', 'heather', 'heat', 'heaven', 'euclid', 'heav', 'contrit', 'attrit', 'happen', 'heart', 'held', 'heir', 'vigorous',
-    'log', 'thriv', 'cas', 'thrill', 'came', 'witness', 'threw', 'thrift',
+    'log', 'thriv', 'cas', 'thrill', 'came', 'witness', 'threw', 'thrift', 'lend', 'lent', 'relent', 'insolen', 'indolen', 'inso',
+    'jealous', 'jet', 'jok', 'job', 'judg', 'kept', 'rais', 'diffiden', 'juggl', 'kept', 'rain', 'rac', 'rad', 'brag', 'brac', 'boy',
+    'surg', 'sync', 'surfac', 'surf', 'surmis', 'untaint', 'surpass', 'risk', 'rival', 'ris', 'rose', 'river', 'village', 'town', 'worr',
+    'see', 'saw', 'seen', 'sees', 'sawed', 'sawn', 'noun', 'sav', 'gam', 'notorious', 'nought', 'gap',
+
     # rat, euclid, tri
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
