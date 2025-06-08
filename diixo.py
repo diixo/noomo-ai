@@ -42,14 +42,14 @@ diixo = [
     #'call', 'ic', #??? #, 'ous',
     'allegor', 'alleviat', 'alleg', 'allocat', 'admin', 'admir', 'allot', 'allow', 'allud', 'allus', 'exam', 'examin', 'exampl', 'alli',
     'mail', 'magic', 'basic', 'mechanic', 'medic', 'mimic', 'mini',
-    'atomic', 'generic', 'graphic', 'organic', 'empir', 'epic', 'optic', 'entropic', 'economic', 'dynamic', 'electr',
+    'atomic', 'generic', 'graphic', 'organic', 'empir', 'epic', 'optic', 'entropic', 'econom', 'dynam', 'electr',
     'electron', 'entrop', 'fantas', 'hypoth', 'lexic', 'ident', 'algebra', 'algorithm', 'alphabet', 'analytic',
     'arithmet', 'asymptot', 'typic', 'semantic', 'specif', 'strateg', 'synthet', 'vocal', 'pract', 'public', 'topic',
     'vertic', 'numer', 'paradox', 'optimist', 'monolith', 'reciproc', 'scien', 'synonym', 'critic', 'ellip', 'drastic', 'extrinsic',
     'phonet', 'physic', 'monoton', 'suspic', 'suffic', 'stratif', 'stochast', 'stick', 'splic', 'spher', 'spars', 'sophisticat',
     'complicat', 'predict', 'offic', 'strict', 'ficat', 'twice', 'trick', 'traff', 'tick', 'thick', 'theor', 'communic', 'symbol',
     'solicit', 'small', 'smart', 'devic', 'certif', 'atmo', 'amplif', 'clarif', 'classif', 'codif', 'dens', 'densif', 'diversif',
-    'electrif', 'gamif', 'gratif', 'identif', 'justif', 'minif', 'modif', 'mortif', 'notif', 'qualif', 'quantif', 'simplif', 'unif',
+    'electrif', 'gamif', 'gratif', 'identif', 'justif', 'minif', 'modif', 'mortif', 'notif', 'quali', 'quantif', 'simplif', 'unif',
     'verif', 'notic', 'pric', 'voic', 'which', 'academ', 'addict', 'advic', 'alpha', 'logic', 'trop', 'applic', 'articl', 'ticket',
     'authent', 'centr', 'bion', 'canon', 'categor', 'click', 'hapt', 'servic', 'coeff', 'conflict', 'contradict', 'convict',
     'dedicat', 'dupl', 'defic', 'delic', 'dict', 'dictat', 'difficult', 'effic', 'electr', 'magnet', 'elicit', 'ergonom', 'evict',
@@ -236,7 +236,7 @@ diixo = [
     'ador', 'arm', 'win', 'alarm', 'earl', 'skew', 'year', 'yeah', 'window', 'loyal', 'yellow', 'blow', 'scrut', 'scrup',
     'darl', 'blind', 'mid', 'might', 'timid', 'bless', 'blend', 'blank', 'wav', 'blam', 'tabl', 'refut', 'scrutiniz', 'titl',
     'forge', 'forget', 'forgiv', 'palette', 'panel', 'abat', 'item', 'men', 'human', 'site', 'pag', 'tremend', 'comma', 'obstacl',
-    #'nam', 'cod', 'near', 'lin', # 'gap', 'eag', 'low', 'abat', rear qualit
+    'vue', 'nam', 'cod', 'tour', 'tournament', 'edge', 'vulgar', 'accrue', 'accus', 'ada', #file 'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat',
     #'out', 'our', 'mon', lin lif liv pace fad writ
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
