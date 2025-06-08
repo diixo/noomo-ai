@@ -249,8 +249,10 @@ diixo = [
     'saturat', 'frantic', 'warrant', 'endur', 'rand', 'fortran', 'fragran', 'hinder', 'intra', 'vibr', 'remonstra',
     'wash', 'franca', 'him', 'hint', 'hindranc', 'remembr', 'ramp', 'hir', 'thir', 'think', 'they', 'theta', 'tolera', 'ther', 'thest',
     'whip', 'whisp', 'thither', 'thin', 'hist', 'retir', 'until', 'retent', 'told', 'those', 'thous', 'therm', 'thes', 'away', 'thesa',
-    'fraud', 'rather', 'father', 'ran', 'ratio', 'illustrat', 'tether', 'aberrant', 'encumb', 'penetrat',
-    # ether father heather heat heaven rat, euclid, giv forb illuminat illus
+    'fraud', 'rather', 'father', 'ran', 'ratio', 'illustrat', 'tether', 'aberrant', 'encumb', 'penetrat', 'forb', 'illuminat', 'illus',
+    'foray', 'giv', 'glad', 'glanc', 'farth', 'ether', 'numb', 'net', 'oauth', 'glass', 'conviv', 'conv', 'dang', 'obey', 'genuin',
+    'geni', 'gene',
+    # ether heather heat heaven rat, euclid, tri
     #'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
