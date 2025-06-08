@@ -231,13 +231,15 @@ diixo = [
     'inaugurat', 'mon', 'favo', 'endeav', 'labo', 'laborator', 'collab', 'lab', 'lack', 'cold', 'fus', 'scold', 'idiom', 'axiom',
     'matur', 'matter', 'premier', 'four', 'splend', 'stair', 'chair', 'http', 'url', 'html', 'aim', 'air', 'conspir', 'fortif',
     'fac', 'tun', 'treat', 'cris', 'attribut', 'attract', 'intuit', 'intrusiv', 'inur', 'couth', 'fragil', 'aghast', 'outer',
-    'agil', 'outrage', 'lonel', 'clog', 'relish', 'littl', 'ugl', 'benefit', 'fad', 'bent', 'bend', 'bereav', 'bereft', 'fit',# 'lif', 'liv',
+    'agil', 'outrage', 'lonel', 'clog', 'relish', 'littl', 'ugl', 'benefit', 'fad', 'bent', 'bend', 'bereav', 'bereft', 'fit', 'sorry',
     'miser', 'commiserat', 'abstract', 'abundan', 'abstain', 'been', 'fidget', 'fide', 'account', 'adher', 'adjacen', 'adjectiv',
-    'ador', 'arm', 'win', 'alarm', 'earl', 'skew', 'year', 'yeah', 'window', 'loyal', 'yellow', 'blow', 'scrut', 'scrup',
-    'darl', 'blind', 'mid', 'might', 'timid', 'bless', 'blend', 'blank', 'wav', 'blam', 'tabl', 'refut', 'scrutiniz', 'titl',
+    'ador', 'arm', 'win', 'alarm', 'earl', 'skew', 'year', 'yeah', 'window', 'loyal', 'yellow', 'blow', 'scrut', 'scrup', 'shallow',
+    'darl', 'blind', 'mid', 'might', 'timid', 'bless', 'blend', 'blank', 'wav', 'blam', 'tabl', 'refut', 'scrutiniz', 'titl', 'youth',
     'forge', 'forget', 'forgiv', 'palette', 'panel', 'abat', 'item', 'men', 'human', 'site', 'pag', 'tremend', 'comma', 'obstacl',
-    'vue', 'nam', 'cod', 'tour', 'tournament', 'edge', 'vulgar', 'accrue', 'accus', 'ada', #file 'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat',
-    #'out', 'our', 'mon', lin lif liv pace fad writ
+    'vue', 'nam', 'cod', 'tour', 'tournament', 'edge', 'vulgar', 'accrue', 'accus', 'ada', 'ful', 'glimps', 'plent', 'pledg',
+    'wizard', 'power', 'relinquish',
+    #file 'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat',
+    #'out', 'our', 'mon', lin lif liv pace fad writ file
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
     # add 'summar', 'summat', substance substantial
