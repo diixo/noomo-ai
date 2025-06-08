@@ -247,8 +247,9 @@ diixo = [
     'mak', 'made', 'get', 'hav', 'has', 'haskell', 'captcha', 'hast', 'hassl', 'haunt', 'hunt', 'hurr', 'lodg', 'loose', 'lov', 'loud',
     'low', 'luxur', 'mama', 'marr', 'indign', 'meet', 'meditat', 'merit', 'messag', 'demodulat', 'late', 'option', 'outage', 'overrid',
     'saturat', 'frantic', 'warrant', 'endur', 'rand', 'fortran', 'fragran', 'hinder', 'intra', 'vibr', 'remonstra',
-    'wash', 'franca', 'him', 'hint', 'hindranc', 'remembr', 'ramp', 'hir', 'thir', 'think',
-    #'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat', 'tim' ring whim whisp thither ward thin hist retir fraud ran retent
+    'wash', 'franca', 'him', 'hint', 'hindranc', 'remembr', 'ramp', 'hir', 'thir', 'think', 'they', 'theta',
+    'whip', 'whisp', 'thither', 'thin', 'hist', 'retir', 'fraud', 'retent',
+    #'ling', #'near', #'lin', # 'gap', 'eag', 'low', 'abat', 'tim' ring, # told thos thous therm thes
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
