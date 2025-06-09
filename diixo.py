@@ -258,8 +258,10 @@ diixo = [
     'see', 'saw', 'seen', 'sees', 'sawed', 'sawn', 'noun', 'sav', 'gam', 'notorious', 'nought', 'gap', 'mile', 'ston', 'smil', 'smell',
     'smok', 'mild', 'segue', 'send', 'sent', 'senior', 'sensation', 'seven', 'several', 'sever', 'shrink', 'shrank', 'shrunk', 'sigh',
     'sink', 'six', 'situat', 'slav', 'sleep', 'slept', 'sembl', 'solution', 'sensitiv', 'assent', 'seiz', 'seminar', 'slay', 'smit',
-
-    # rat, euclid, tri
+    'seldom', 'spam', 'span', 'spel', 'spen', 'spring', 'winter', 'subtl', 'subtract', 'such', 'wip', 'sudden', 'sprinkl', 'suffer',
+    'suffix', 'suppress', 'sure', 'synthes', 'tear', 'teas', 'tenacious', 'terribl', 'terrif', 'reluctan', 'now', 'dissonan', 'song',
+    'json', 'consonan', 'concis',
+    # rat, tri, son, conclud
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
