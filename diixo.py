@@ -266,7 +266,9 @@ diixo = [
     'eager', 'near', 'dear', 'hex', 'sea', 'seal', 'who', 'whop', 'whither', 'why', 'peripher', 'wick', 'wide', 'perl', 'heter', 'hit',
     'hither', 'hit', 'hiv', 'hi', 'hid', 'hiber', 'delphi', 'chin', 'behind', 'nourish', 'whilst', 'phish', 'poach', 'pocket', 'publish',
     'puff', 'prov', 'podcast', 'pod', 'her', 'propriet', 'incept', 'strat', 'grat', 'stray', 'raspberry', 'rar', 'congrat', #'rat',
-    'scratch', 'raptur', 'instat', 'ubuntu', 'nois',# 'how',#'nomin',#'rat',
+    'scratch', 'raptur', 'instat', 'ubuntu', 'nois', 'para', 'persuas', 'pertain', 'pervad', 'pertin', 'pessimi', 'pos', 'typo',
+    # 'how',#'nomin',#'rat',
+    'october', 'december', 'june', 'july', 'august', 'september', 'november', 'march', 'february', 'april', 'january', 'haul',
     # rat, tri, son, conclud perma-link neura-link euclid broke tiny tip bi- peripher dining begin art, hit, her
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
