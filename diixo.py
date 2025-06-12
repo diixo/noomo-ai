@@ -262,8 +262,9 @@ diixo = [
     'suffix', 'suppress', 'sure', 'synthes', 'tear', 'teas', 'tenacious', 'terribl', 'terrif', 'reluctan', 'now', 'dissonan', 'song',
     'json', 'consonan', 'concis', 'go', 'ago', 'had', 'hadoop', 'line', 'inlin', 'lingu', 'ink', 'inner', 'tinker', 'begin', 'began',
     'begun', 'lead', 'leak', 'lect', 'leav', 'legend', 'lens', 'left', 'let', 'plead', 'leas', 'mat', 'lean', 'bleak', 'leaf', 'plent',
-    'deplet', 'replet', 'doat',
-    # rat, tri, son, conclud perma-link neura-link euclid broke tiny tip bi- peripher dining begin art
+    'deplet', 'replet', 'doat', 'liv', 'lik', 'til', 'hack', 'tight', 'drown', 'drunk', 'contr', 'drew', 'ear', 'earn', 'eas', 'eat',
+    'eager', 'near', 'dear', 'hex', 'sea', 'seal', 'who', 'whop', #'whither',
+    # rat, tri, son, conclud perma-link neura-link euclid broke tiny tip bi- peripher dining begin art 'peripher', hit, her
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
