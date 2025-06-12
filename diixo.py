@@ -265,7 +265,8 @@ diixo = [
     'deplet', 'replet', 'doat', 'liv', 'lik', 'til', 'hack', 'tight', 'drown', 'drunk', 'contr', 'drew', 'ear', 'earn', 'eas', 'eat',
     'eager', 'near', 'dear', 'hex', 'sea', 'seal', 'who', 'whop', 'whither', 'why', 'peripher', 'wick', 'wide', 'perl', 'heter', 'hit',
     'hither', 'hit', 'hiv', 'hi', 'hid', 'hiber', 'delphi', 'chin', 'behind', 'nourish', 'whilst', 'phish', 'poach', 'pocket', 'publish',
-    'puff', 'prov', 'podcast', 'pod', 'her', 'propriet', 'incept', 'strat',# 'grat',# 'congrat',#'rat',
+    'puff', 'prov', 'podcast', 'pod', 'her', 'propriet', 'incept', 'strat', 'grat', 'stray', 'raspberry', 'rar', 'congrat', #'rat',
+    'scratch', 'raptur', 'instat', 'ubuntu', 'nois',#'nomin',#'rat',
     # rat, tri, son, conclud perma-link neura-link euclid broke tiny tip bi- peripher dining begin art, hit, her
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
