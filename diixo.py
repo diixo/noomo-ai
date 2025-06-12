@@ -260,7 +260,9 @@ diixo = [
     'sink', 'six', 'situat', 'slav', 'sleep', 'slept', 'sembl', 'solution', 'sensitiv', 'assent', 'seiz', 'seminar', 'slay', 'smit',
     'seldom', 'spam', 'span', 'spel', 'spen', 'spring', 'winter', 'subtl', 'subtract', 'such', 'wip', 'sudden', 'sprinkl', 'suffer',
     'suffix', 'suppress', 'sure', 'synthes', 'tear', 'teas', 'tenacious', 'terribl', 'terrif', 'reluctan', 'now', 'dissonan', 'song',
-    'json', 'consonan', 'concis', 'go', 'ago', 'had', 'hadoop', 'line', 'inlin', 'lingu', 'ink', 'inner', 'tinker',
+    'json', 'consonan', 'concis', 'go', 'ago', 'had', 'hadoop', 'line', 'inlin', 'lingu', 'ink', 'inner', 'tinker', 'begin', 'began',
+    'begun', 'lead', 'leak', 'lect', 'leav', 'legend', 'lens', 'left', 'let', 'plead', 'leas', 'mat', 'lean', 'bleak', 'leaf', 'plent',
+    'deplet', 'replet', 'doat',
     # rat, tri, son, conclud perma-link neura-link euclid broke tiny tip bi- peripher dining begin art
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
