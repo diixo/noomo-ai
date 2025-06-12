@@ -251,7 +251,7 @@ diixo = [
     'whip', 'whisp', 'thither', 'thin', 'hist', 'retir', 'until', 'retent', 'told', 'those', 'thous', 'therm', 'thes', 'away', 'thesa',
     'fraud', 'rather', 'father', 'ran', 'ratio', 'illustrat', 'tether', 'aberrant', 'encumb', 'penetrat', 'forb', 'illuminat', 'illus',
     'foray', 'giv', 'glad', 'glanc', 'farth', 'ether', 'numb', 'net', 'oauth', 'glass', 'conviv', 'conv', 'dang', 'obey', 'genuin',
-    'geni', 'gene', 'heather', 'heat', 'heaven', 'dinner', 'heav', 'contrit', 'attrit', 'happen', 'heart', 'held', 'heir', 'vigorous',
+    'geni', 'gener', 'heather', 'heat', 'heaven', 'dinner', 'heav', 'contrit', 'attrit', 'happen', 'heart', 'held', 'heir', 'vigorous',
     'log', 'thriv', 'cas', 'thrill', 'came', 'witness', 'threw', 'thrift', 'lend', 'lent', 'relent', 'insolen', 'indolen', 'inso',
     'jealous', 'jet', 'jok', 'job', 'judg', 'kept', 'rais', 'diffiden', 'juggl', 'kept', 'rain', 'rac', 'rad', 'brag', 'brac', 'boy',
     'surg', 'sync', 'surfac', 'surf', 'surmis', 'untaint', 'surpass', 'risk', 'rival', 'ris', 'rose', 'river', 'village', 'town', 'worr',
@@ -269,6 +269,7 @@ diixo = [
     'scratch', 'raptur', 'instat', 'ubuntu', 'nois', 'para', 'persuas', 'pertain', 'pervad', 'pertin', 'pessimi', 'pos', 'typo',
     # 'how',#'nomin',#'rat',
     'october', 'december', 'june', 'july', 'august', 'september', 'november', 'march', 'february', 'april', 'january', 'haul',
+    'poor', 'pros', 'prospect', 'revel', 'rush', 'salar', 'spar', 'spark', 'genet', 'spawn',#'sit', 'set',
     # rat, tri, son, conclud perma-link neura-link euclid broke tiny tip bi- peripher dining begin art, hit, her
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
