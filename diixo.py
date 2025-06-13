@@ -271,9 +271,10 @@ diixo = [
     'october', 'december', 'june', 'july', 'august', 'september', 'november', 'march', 'february', 'april', 'january', 'haul',
     'poor', 'pros', 'prospect', 'revel', 'rush', 'salar', 'spar', 'spark', 'genet', 'spawn', 'treasur', 'spirit', 'big', 'tip', 'inno',
     'tread', 'trifl', 'vouch', 'vot', 'volunt', 'spit', 'bit', 'habit', 'zip', 'hop', 'hook', 'chop', 'chos', 'walk', 'wak', 'nerv',
-    'ingrat', 'conclud', 'during', 'ingest', 'date', 'dat', 'commend', 'daughter', 'commenc', 'daunt', 'ingen',# 'dawdl',
+    'ingrat', 'conclud', 'during', 'ingest', 'date', 'dat', 'commend', 'daughter', 'commenc', 'daunt', 'ingen', 'dawdl', 'predecess',
+    'concess', 'damp', 'danc', 'dabbl', 'dar', 'lidar', '.js', 'ddr',
     #'sit', 'set',
-    # rat, tri, son, perma-link neura-link euclid broke tiny tip bi- , hit, predecess
+    # rat, tri, son, perma-link neura-link euclid broke tiny tip bi- , hit, bus, nod, bus
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
