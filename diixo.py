@@ -269,8 +269,9 @@ diixo = [
     'scratch', 'raptur', 'instat', 'ubuntu', 'nois', 'para', 'persuas', 'pertain', 'pervad', 'pertin', 'pessimi', 'pos', 'typo',
     # 'how',#'nomin',#'rat',
     'october', 'december', 'june', 'july', 'august', 'september', 'november', 'march', 'february', 'april', 'january', 'haul',
-    'poor', 'pros', 'prospect', 'revel', 'rush', 'salar', 'spar', 'spark', 'genet', 'spawn', 'treasur', 'spirit', 'big', 'tip',
-    'tread', 'trifl', 'vouch', 'vot', 'volunt', 'spit', #'bit', #'sit', 'set',
+    'poor', 'pros', 'prospect', 'revel', 'rush', 'salar', 'spar', 'spark', 'genet', 'spawn', 'treasur', 'spirit', 'big', 'tip', 'inno',
+    'tread', 'trifl', 'vouch', 'vot', 'volunt', 'spit', 'bit', 'habit', 'zip', 'hop', 'hook', 'chop', 'chos', 'walk', 'wak', 'nerv',
+    #'sit', 'set',
     # rat, tri, son, conclud perma-link neura-link euclid broke tiny tip bi- peripher dining begin art, hit, her
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
