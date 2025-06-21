@@ -274,6 +274,8 @@ diixo = [
     'ingrat', 'conclud', 'during', 'ingest', 'date', 'dat', 'commend', 'daughter', 'commenc', 'daunt', 'ingen', 'dawdl', 'predecess',
     'concess', 'damp', 'danc', 'dabbl', 'dar', 'lidar', '.js', 'ddr', 'preserv', 'prepend', 'prett', 'primar', 'lanc', 'knew', 'king',
     'intend', 'intens', 'intent', 'peak', 'peac', 'wreak', 'lurk', 'trunk', 'truncat', 'peculiar', 'peer', 'peek', 'peep', 'penal',
+    'alex', 'amper', 'asham', 'ampl', 'aside', 'am', 'jam', 'always', 'flam', 'sdk', 'slack', 'skype', 'drank', 'temp', 'slack', 'scream',
+    'slam', 'preambl', 'lambd', 'roam', 'ram', 'dram',
     #'sit', 'set', 'pen', 'pencil',
     # rat, tri, son, perma-link neura-link euclid broke tiny tip bi- , hit, bus, nod, bus
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
