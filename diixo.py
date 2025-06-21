@@ -277,7 +277,8 @@ diixo = [
     'alex', 'amper', 'asham', 'ampl', 'aside', 'am', 'jam', 'always', 'flam', 'sdk', 'slack', 'skype', 'drank', 'temp', 'slack', 'scream',
     'slam', 'preambl', 'lambd', 'roam', 'ram', 'dram', 'saf', 'safar', 'sal', 'revolv', 'siz', 'sad', 'hood', 'impl', 'impet', 'rear',
     'rearrang', 'rely', 'rescind', 'pur', 'syllabl', 'swoop', 'tier', 'top', 'blew', 'badg', 'bad', 'bag', 'garment', 'garbag',
-    'bow', 'bowl', 'bridg', 'broke', 'btw', 'bye',
+    'bow', 'bowl', 'bridg', 'broke', 'btw', 'bye', 'clue', 'club', 'collud', 'collis', 'column', 'compliment', 'compli', 'comply',
+    'conceal', 'conced', 'concav', 'conceit', 'divert', 'divis', 'div', 'due', 'dull', 'dust', 'empt', 'exempt',
     #'sit', 'set', 'pen', 'pencil',
     # rat, tri, son, perma-link neura-link euclid broke tiny tip bi- , hit, bus, nod, bus
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
