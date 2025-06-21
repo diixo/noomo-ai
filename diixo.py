@@ -279,6 +279,7 @@ diixo = [
     'rearrang', 'rely', 'rescind', 'pur', 'syllabl', 'swoop', 'tier', 'top', 'blew', 'badg', 'bad', 'bag', 'garment', 'garbag',
     'bow', 'bowl', 'bridg', 'broke', 'btw', 'bye', 'clue', 'club', 'collud', 'collis', 'column', 'compliment', 'compli', 'comply',
     'conceal', 'conced', 'concav', 'conceit', 'divert', 'divis', 'div', 'due', 'dull', 'dust', 'empt', 'exempt',
+    'pen', 'pencil', 'pend', 'spend', 'pens', 'pent', 'transcript', 'transduc', 'transduct', 'transliterat',
     #'sit', 'set', 'pen', 'pencil',
     # rat, tri, son, perma-link neura-link euclid broke tiny tip bi- , hit, bus, nod, bus
     #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
