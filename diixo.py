@@ -228,7 +228,7 @@ diixo = [
     'tak', 'tag', 'tailor', 'tail', 'oust', 'one', 'noone', 'honest', 'noone', 'demot', 'curtail', 'bone', 'demo', 'cone',
     'honour', 'postpon', 'patron', 'cursor', 'demolish', 'pump', 'snip', 'punct', 'long', 'sniff', 'punish', 'pupil', 'mongo',
     'humour', 'journal', 'journ', 'pour', 'humbl', 'park', 'rumour', 'pin', 'joy', 'scal', 'scalar', 'sys', 'much',
-    'inaugurat', 'mon', 'favo', 'endeav', 'labo', 'laborator', 'collab', 'lab', 'lack', 'cold', 'fus', 'scold', 'idiom', 'axiom',
+    'inaugurat', 'mon', 'favo', 'endeav', 'labo', 'laborator', 'collaborat', 'lab', 'lack', 'cold', 'fus', 'scold', 'idiom', 'axiom',
     'matur', 'matter', 'premier', 'four', 'splend', 'stair', 'chair', 'http', 'url', 'html', 'aim', 'air', 'conspir', 'fortif',
     'fac', 'tun', 'treat', 'cris', 'attribut', 'attract', 'intuit', 'intrusiv', 'inur', 'couth', 'fragil', 'aghast', 'outer',
     'agil', 'outrage', 'lonel', 'clog', 'relish', 'littl', 'ugl', 'benefit', 'fad', 'bent', 'bend', 'bereav', 'bereft', 'fit', 'sorry',
@@ -278,11 +278,12 @@ diixo = [
     'slam', 'preambl', 'lambd', 'roam', 'ram', 'dram', 'saf', 'safar', 'sal', 'revolv', 'siz', 'sad', 'hood', 'impl', 'impet', 'rear',
     'rearrang', 'rely', 'rescind', 'pur', 'syllabl', 'swoop', 'tier', 'top', 'blew', 'badg', 'bad', 'bag', 'garment', 'garbag',
     'bow', 'bowl', 'bridg', 'broke', 'btw', 'bye', 'clue', 'club', 'collud', 'collis', 'column', 'compliment', 'compli', 'comply',
-    'conceal', 'conced', 'concav', 'conceit', 'divert', 'divis', 'div', 'due', 'dull', 'dust', 'empt', 'exempt',
-    'pen', 'pencil', 'pend', 'spend', 'pens', 'pent', 'transcript', 'transduc', 'transduct', 'transliterat',
-    #'sit', 'set', 'pen', 'pencil',
-    # rat, tri, son, perma-link neura-link euclid broke tiny tip bi- , hit, bus, nod, bus
-    #'ling', #'near', #'lin', # 'gap', 'eag', 'tim' ring,
+    'conceal', 'conced', 'concav', 'conceit', 'divert', 'divis', 'div', 'due', 'dull', 'dust', 'empt', 'exempt', 'reset', 'offset',
+    'pen', 'pencil', 'pend', 'spend', 'pens', 'pent', 'transcript', 'transduc', 'transduct', 'transliterat', 'clobber', 'asset', 'assid',
+    'rat', 'reliab', 'relian', 'remed', 'nominal',
+    #'sit', 'set',
+    # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit, nod,
+    #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
