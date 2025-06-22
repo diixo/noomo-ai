@@ -280,7 +280,7 @@ diixo = [
     'bow', 'bowl', 'bridg', 'broke', 'btw', 'bye', 'clue', 'club', 'collud', 'collis', 'column', 'compliment', 'compli', 'comply',
     'conceal', 'conced', 'concav', 'conceit', 'divert', 'divis', 'div', 'due', 'dull', 'dust', 'empt', 'exempt', 'reset', 'offset',
     'pen', 'pencil', 'pend', 'spend', 'pens', 'pent', 'transcript', 'transduc', 'transduct', 'transliterat', 'clobber', 'asset', 'assid',
-    'rat', 'reliab', 'relian', 'remed', 'nominal',
+    'rat', 'reliab', 'relian', 'remed', 'nominal', 'nod', 'how', 'hover', 'nine', 'nice', 'mechan', 'meddl', 'matrimon', 'max', 'felt',
     #'sit', 'set',
     # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit, nod,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
