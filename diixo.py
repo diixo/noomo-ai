@@ -281,7 +281,9 @@ diixo = [
     'conceal', 'conced', 'concav', 'conceit', 'divert', 'divis', 'div', 'due', 'dull', 'dust', 'empt', 'exempt', 'reset', 'offset',
     'pen', 'pencil', 'pend', 'spend', 'pens', 'pent', 'transcript', 'transduc', 'transduct', 'transliterat', 'clobber', 'asset', 'assid',
     'rat', 'reliab', 'relian', 'remed', 'nominal', 'nod', 'how', 'hover', 'nine', 'nice', 'mechan', 'meddl', 'matrimon', 'max', 'felt',
-    #'sit', 'set',
+    'urg', 'urban', 'very', 'virus', 'vulner', 'waiv', 'wander', 'war', 'wast', 'weak', 'west', 'widow', 'wood', 'yes', 'yet', 'yield',
+    'wor', 'woke', 'whirl', 'weld', 'xml', 'vanit', 'vacan', 'vague', 'ceremon', 'unar', 'symmetr', 'subject', 'ordinat', 'stir',
+    #'sit', 'set', worfklow
     # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit, nod,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
