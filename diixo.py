@@ -306,6 +306,7 @@ diixo = [
     'groov', 'recaptur', 'opt', 'oracle', 'dbms', 'rust', 'sail', 'said', 'scrum', 'tripl', 'theorem', 'lace', 'enough',
     'solace', 'guest', 'gui', 'sold', 'software', 'solely', 'solemn', 'fatigu', 'fat', 'fanc', 'fan', 'entrust', 'enum', 'enumer',
     'envi', 'envision', 'extravagan', 'flight', 'ftp', 'glue', 'glitch', 'impersonat', 'quiz', 'raw', 'ray', 'gcc', 'gave',
+    'forfeit', 'hail', 'halt', 'hamper', 'guilt', 'hackathon', 'harsh', 'impair', 'flux', 'gnu',
     #'sit', 'set', worfklow, retargatable, disc, at, ace,
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
@@ -313,7 +314,7 @@ diixo = [
     #'emplace',
     # er?, gence, gance, que, marathon
     # 'summar', 'summat',
-    #set, heal, repo, rand, def, nom-nomo, uous, duc
+    #set, heal, repo, rand,
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, plac, tun, set,
     ]
