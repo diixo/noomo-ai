@@ -303,6 +303,7 @@ diixo = [
     'spac', 'mercant', 'merchan', 'estate', 'scrab', 'rough', 'rous', 'rol', 'rock', 'onerous', 'rnn', 'rimm', 'rip', 'rid',
     'rgb', 'ridd', 'revenue', 'request', 'repl', 'fri', 'grip', 'horribl', 'horror', 'hybrid', 'husband', 'hype', 'repla',
     'replenish', 'reput', 'reputa', 'rigid', 'star', 'pursu', 'receipt', 'tamper', 'tam', 'tap', 'sue', 'steal', 'stale', 'stare',
+    'groov', 'recaptur',
     #'sit', 'set', worfklow, retargatable, disc, at, groov, recaptur
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
