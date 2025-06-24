@@ -290,8 +290,9 @@ diixo = [
     'substan', 'subsid', 'subsist', 'listen', 'llm', 'llama', 'loom', 'llvm', 'bloom', 'blossom', 'glor', 'gloss', 'gloom',
     'mem', 'mod', 'bus', 'modest', 'motor', 'motivat', 'mov', 'burst', 'bur', 'imburs', 'mull', 'uous', 'conspic', 'stren', 'ardent',
     'arduous', 'samsung', 'ops', 'pop', 'dev', 'devis', 'deviat', 'detract', 'devoid', 'opaque', 'opaci', 'devalu', 'devastat', 'azure',
-    'averag', 'avatar', 'avert', 'autumn', 'associat', 'auxiliar', 'aton', 'atlas', 'boss', 'jira', 'jinja',
-    #'sit', 'set', worfklow, add, disc, at
+    'averag', 'avatar', 'avert', 'autumn', 'associat', 'auxiliar', 'aton', 'atlas', 'boss', 'jira', 'jinja', 'add', 'addit', 'adept',
+    'jott', 'jut', 'kotlin', 'kubernet', 'jdo', 'jest', 'dom',
+    #'sit', 'set', worfklow, disc, at
     # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
