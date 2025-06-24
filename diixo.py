@@ -298,8 +298,8 @@ diixo = [
     'tir', 'tiny', 'case', 'summ', 'succinct', 'stagnat', 'inst', 'instabil', 'upper', 'upped', 'geek', 'radio', 'raid', 'rail',
     'supper', 'dusk', 'dut', 'duo', 'dup', 'vis', 'lavish', 'entit', 'entic', 'jenkins', 'knack', 'keras', 'rag', 'gemini', 'ruby',
     'rude', 'crucial', 'prun', 'obtrud', 'pruden', 'impuls', 'rubber', 'upbraid', 'rudimen', 'rugged', 'latin', 'impuden', 'crude',
-    'impur', 'imput', 'lag', 'lap', 'laps', 'scap', 'lan', 'lash',
-    # splash, plagued, clash, clarity, laz
+    'impur', 'imput', 'lag', 'lap', 'laps', 'scap', 'lan', 'lash', 'splash', 'plagued', 'clash', 'clarity', 'laz', 'leverat',
+    'nlp', 'non', 'noname', 'nonsens',
     #'sit', 'set', worfklow, disc, at
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
