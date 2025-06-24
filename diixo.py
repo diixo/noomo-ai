@@ -55,7 +55,7 @@ diixo = [
     'dedicat', 'dupl', 'defic', 'delic', 'dict', 'dictat', 'difficult', 'effic', 'electr', 'magnet', 'elicit', 'ergonom', 'evict',
     'explic', 'felic', 'flick', 'harmon', 'hierarch', 'acoust', 'amplic', 'analog', 'elastic', 'fabric', 'histor', 'plast',
     'indic', 'indicat', 'inflict', 'intrinsic', 'logarithm', 'magnif', 'malic', 'metaphor', 'method', 'music', 'period', 'philosoph',
-    'polit', 'polic', 'morph', 'python', 'quick', 'joic', 'replic', 'ridic', 'rubric', 'robo', 'scept', 'colon', 'skept', 'simplic',
+    'polit', 'polic', 'morph', 'python', 'quick', 'joic', 'replic', 'ridicul', 'rubric', 'robo', 'scept', 'colon', 'skept', 'simplic',
     'vehicl', 'variad', 'vindic', 'judic', 'benefic', 'choic', 'combin', 'energ', 'intric', 'justic', 'particl', 'predica', 'profic',
     'radic', 'robust', 'modal', 'thing', 'cloth', 'breath', 'smooth', 'sooth', 'serv', 'reserv', 'observ', 'server', 'user', 'squar',
     #'pick', 'kick', 'sick', 'slic', 'wick', 'uni', 'mnemo', 'nice', 'nich',
@@ -300,8 +300,10 @@ diixo = [
     'rude', 'crucial', 'prun', 'obtrud', 'pruden', 'impuls', 'rubber', 'upbraid', 'rudimen', 'rugged', 'latin', 'impuden', 'crude',
     'impur', 'imput', 'lag', 'lap', 'laps', 'scap', 'lan', 'lash', 'splash', 'plagued', 'clash', 'clarity', 'laz', 'leverat',
     'nlp', 'non', 'noname', 'nonsens', 'murmur', 'nltk', 'meal', 'met', 'metal', 'mere', 'esteem', 'wasm', 'meld', 'melanchol',
-    'spac', 'mercant', 'merchan', 'estate', 'scrab', 'rough', 'rous', 'rol', 'rock', 'onerous',
-    #'sit', 'set', worfklow, disc, at
+    'spac', 'mercant', 'merchan', 'estate', 'scrab', 'rough', 'rous', 'rol', 'rock', 'onerous', 'rnn', 'rimm', 'rip', 'rid',
+    'rgb', 'ridd', 'revenue', 'request', 'repl', 'fri', 'grip', 'horribl', 'horror', 'hybrid', 'husband', 'hype', 'repla',
+    'replenish', 'reput', 'reputa',
+    #'sit', 'set', worfklow, retargatable, disc, at
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
