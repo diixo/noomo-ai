@@ -26,7 +26,7 @@ diixo = [
     'spect', 'licens', 'los', 'mess', 'opposs', 'pars', 'press', 'process', 'profess', 'progress', 'regress', 'propos', 'purpos', 'vers', 'sens',
     'sing', 'stress',
     'key', 'word', 'form', 'base', 'inform', 'ativ', 'present', 'oper', 'open', 'norm', 'relat', 'auto', 'launch',
-    'object', 'coordinat', 'cover', 'nomi', 'pack', 'part', 'poly', 'count', 'direct', 'master', 'organ', 'order', 'over',
+    'object', 'coordinat', 'cover', 'nomi', 'pack', 'part', 'poly', 'count', 'direct', 'master', 'organiz', 'order', 'over',
     'bio', 'cyber', 'tech', 'anti', 'logic', 'atic', 'deep', 'space', 'sport', 'cycl',
     'free', 'ship', 'graph', 'own', 'photo', 'freez', 'slow', 'show', 'grow',
     'hyper', 'hash', 'gram', 'hard', 'lexic', 'ortho',
@@ -303,7 +303,7 @@ diixo = [
     'spac', 'mercant', 'merchan', 'estate', 'scrab', 'rough', 'rous', 'rol', 'rock', 'onerous', 'rnn', 'rimm', 'rip', 'rid',
     'rgb', 'ridd', 'revenue', 'request', 'repl', 'fri', 'grip', 'horribl', 'horror', 'hybrid', 'husband', 'hype', 'repla',
     'replenish', 'reput', 'reputa', 'rigid', 'star', 'pursu', 'receipt', 'tamper', 'tam', 'tap', 'sue', 'steal', 'stale', 'stare',
-    'groov', 'recaptur',
+    'groov', 'recaptur', 'opt', 'oracle', 'dbms', 'rust', 'sail', 'said', 'scrum', 'tripl',
     #'sit', 'set', worfklow, retargatable, disc, at, groov, recaptur
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
