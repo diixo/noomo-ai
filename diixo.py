@@ -42,7 +42,7 @@ diixo = [
     #'call', 'ic', #??? #, 'ous',
     'allegor', 'alleviat', 'alleg', 'allocat', 'admin', 'admir', 'allot', 'allow', 'allud', 'allus', 'exam', 'examin', 'exampl', 'alli',
     'mail', 'magic', 'basic', 'mechanic', 'medic', 'mimic', 'mini',
-    'atomic', 'generic', 'graphic', 'organic', 'empir', 'epic', 'optic', 'entropic', 'econom', 'dynam', 'electr',
+    'atom', 'generic', 'graphic', 'organic', 'empir', 'epic', 'optic', 'entropic', 'econom', 'dynam', 'electr',
     'electron', 'entrop', 'fantas', 'hypoth', 'lexic', 'ident', 'algebra', 'algorithm', 'alphabet', 'analytic',
     'arithmet', 'asymptot', 'typic', 'semantic', 'specif', 'strateg', 'synthet', 'vocal', 'pract', 'public', 'topic',
     'vertic', 'numer', 'paradox', 'optimist', 'monolith', 'reciproc', 'scien', 'synonym', 'critic', 'ellip', 'drastic', 'extrinsic',
@@ -219,7 +219,7 @@ diixo = [
     'overlap', 'recap', 'tap', 'trap', 'trash', 'ball', 'tangent', 'apostrophe', 'anniversary', 'chunk', 'destruct',
     'accord', 'head', 'ache', 'man', 'seo', 'skip', 'impos', 'detach', 'mandat', 'impossibl', 'roman', 'accomplish',
     'reproach', 'settl', 'setup', 'woman', 'upset', 'broach', 'destroy', 'destin', 'delta', 'hub', 'act', 'delv', 'acronym',
-    'arti', 'ficial', 'art', 'artist', 'quarter', 'earth', 'carv', 'cart', 'thwart', 'arrogant', 'cascad', 'apart', 'revis',
+    'arti', 'ficial', 'art', 'artist', 'quarter', 'earth', 'carv', 'cart', 'thwart', 'arrogan', 'cascad', 'apart', 'revis',
     'quarrel', 'quaternion', 'quant', 'queer', 'queen', 'thunk', 'nail', 'apache', 'bird', 'reprehen', 'apartment',
     'revisit', 'scar', 'care', 'carr', 'architect', 'archiv', 'arbit', 'arch', 'margin', 'marginal', 'area', 'scatter', 'hedron',
     'vanish', 'car', 'arduino', 'api', 'valu', 'vector', 'eight', 'for', 'app', 'apposit', 'entrap', 'dream', 'dron', 'drill',
@@ -290,8 +290,8 @@ diixo = [
     'substan', 'subsid', 'subsist', 'listen', 'llm', 'llama', 'loom', 'llvm', 'bloom', 'blossom', 'glor', 'gloss', 'gloom',
     'mem', 'mod', 'bus', 'modest', 'motor', 'motivat', 'mov', 'burst', 'bur', 'imburs', 'mull', 'uous', 'conspic', 'stren', 'ardent',
     'arduous', 'samsung', 'ops', 'pop', 'dev', 'devis', 'deviat', 'detract', 'devoid', 'opaque', 'opaci', 'devalu', 'devastat', 'azure',
-    'averag',
-    #'sit', 'set', worfklow,
+    'averag', 'avatar', 'avert', 'autumn', 'associat', 'auxiliar', 'aton', 'atlas', 'boss', 'jira', 'jinja',
+    #'sit', 'set', worfklow, add, disc, at
     # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
