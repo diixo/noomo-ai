@@ -287,7 +287,7 @@ diixo = [
     'third', 'thirt', 'thousand', 'wont', 'beat', 'vaunt', 'fumbl', 'fungib', 'blunt', 'bunch', 'conundrum', 'punk', 'flung', 'funnel',
     'etc', 'euro', 'crim', 'hung', 'hundred', 'saunter', 'satur', 'sauc', 'sun', 'junk', 'furcat', 'junior', 'slumber', 'sling',
     'pronunc', 'sung', 'sunk', 'smack', 'sly', 'swung', 'bear', 'bucket', 'vast', 'beam', 'sang', 'sank', 'slung', 'slugg', 'sanit',
-    'substan', 'subsid', 'subsist',
+    'substan', 'subsid', 'subsist', 'listen', 'llm', 'llama', 'loom', 'llvm', 'bloom', 'blossom', 'glor', 'gloss', 'gloom',
     #'sit', 'set', worfklow,
     # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
