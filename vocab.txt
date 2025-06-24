@@ -1153,6 +1153,7 @@ engross
 enhanc
 enjoy
 enlarg
+enough
 enquir
 ensembl
 ensu
@@ -1178,8 +1179,13 @@ entrench
 entrop
 entrop
 entropic
+entrust
+enum
+enumer
 envelop
+envi
 environ
+envision
 epic
 epilog
 episod
@@ -1254,7 +1260,7 @@ expedit
 expedite
 expend
 expens
-experienc
+experien
 experiment
 expert
 expir
@@ -1278,6 +1284,7 @@ extinguish
 extra
 extract
 extrapolat
+extravagan
 extrem
 extrinsic
 exult
@@ -1298,6 +1305,8 @@ false
 famil
 familiar
 famous
+fan
+fanc
 fantas
 faq
 far
@@ -1306,8 +1315,10 @@ farth
 fascinat
 fashion
 fast
+fat
 fatal
 father
+fatigu
 fault
 favo
 fear
@@ -1361,6 +1372,7 @@ flew
 flex
 fli
 flick
+flight
 fling
 flip
 flirt
@@ -1378,6 +1390,7 @@ flung
 flurr
 flush
 flutter
+flux
 fly
 focal
 focus
@@ -1396,6 +1409,7 @@ foresee
 forest
 foretell
 forever
+forfeit
 forge
 forget
 forgiv
@@ -1434,6 +1448,7 @@ front
 fruit
 frustrat
 frustum
+ftp
 fuck
 fuel
 ful
@@ -1463,6 +1478,8 @@ garbag
 garment
 gat
 gather
+gave
+gcc
 geek
 gemini
 gener
@@ -1490,13 +1507,16 @@ glad
 glanc
 glass
 glimps
+glitch
 glob
 gloom
 glor
 gloss
 glow
+glue
 glyph
 gnome
+gnu
 go
 goal
 gold
@@ -1543,12 +1563,19 @@ grow
 guarant
 guard
 guess
+guest
+gui
 guid
+guilt
 habit
 hack
+hackathon
 had
 hadoop
+hail
 half
+halt
+hamper
 hand
 handl
 hang
@@ -1559,6 +1586,7 @@ hard
 harm
 harmon
 harness
+harsh
 has
 hash
 haskell
@@ -1671,10 +1699,12 @@ immers
 imminent
 immut
 impact
+impair
 impart
 imped
 impel
 impend
+impersonat
 impertinen
 impet
 impl
@@ -1956,7 +1986,9 @@ liberal
 libert
 libr
 licens
+licentious
 lidar
+lie
 life
 lift
 light
@@ -2605,6 +2637,7 @@ quick
 quiet
 quir
 quit
+quiz
 quot
 rac
 rad
@@ -2634,6 +2667,8 @@ rather
 ratio
 rational
 ravel
+raw
+ray
 re
 reach
 react
@@ -3051,6 +3086,11 @@ societ
 sock
 socket
 soft
+software
+solace
+sold
+solely
+solemn
 solicit
 solid
 solution
