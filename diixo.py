@@ -283,6 +283,7 @@ diixo = [
     'rat', 'reliab', 'relian', 'remed', 'nominal', 'nod', 'how', 'hover', 'nine', 'nice', 'mechan', 'meddl', 'matrimon', 'max', 'felt',
     'urg', 'urban', 'very', 'virus', 'vulner', 'waiv', 'wander', 'war', 'wast', 'weak', 'west', 'widow', 'wood', 'yes', 'yet', 'yield',
     'wor', 'woke', 'whirl', 'weld', 'xml', 'vanit', 'vacan', 'vague', 'ceremon', 'unar', 'symmetr', 'subject', 'ordinat', 'stir',
+    'stoop', 'strok', 'shoe', 'bar', 'ban', 'keen', 'banish', 'tedious', 'technolog', 'techni',
     #'sit', 'set', worfklow
     # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit, nod,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
@@ -296,4 +297,13 @@ diixo = [
     #url, exe, ecut, net, non, sum, go, act, add, app, plac, tun, set,
     ]
 
-#print(sorted(diixo))
+
+if __name__ == '__main__':
+
+    vocab = sorted(diixo)
+
+    print(f"sz={len(vocab)}")
+
+    with open("vocab.txt", "w", encoding="utf-8") as f_out:
+        for word in vocab:
+            f_out.write(f"{word}\n")
