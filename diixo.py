@@ -285,8 +285,8 @@ diixo = [
     'wor', 'woke', 'whirl', 'weld', 'xml', 'vanit', 'vacan', 'vague', 'ceremon', 'unar', 'symmetr', 'subject', 'ordinat', 'stir',
     'stoop', 'strok', 'shoe', 'bar', 'ban', 'keen', 'banish', 'tedious', 'technolog', 'techni', 'bisect', 'theft', 'thaw', 'flurr',
     'third', 'thirt', 'thousand', 'wont', 'beat', 'vaunt', 'fumbl', 'fungib', 'blunt', 'bunch', 'conundrum', 'punk', 'flung', 'funnel',
-    'etc', 'euro',
-    #'sit', 'set', worfklow,  hung, hundred, saunter, satur, sauc, sun, junk,
+    'etc', 'euro', 'crim', 'hung', 'hundred', 'saunter', 'satur', 'sauc', 'sun', 'junk', 'furcat', 'junior',
+    #'sit', 'set', worfklow,
     # pronunc, sung, sunk, smack, sly, swung, bear, bucket, vast
     # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit, nod,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
