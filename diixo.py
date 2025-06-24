@@ -305,7 +305,7 @@ diixo = [
     'replenish', 'reput', 'reputa', 'rigid', 'star', 'pursu', 'receipt', 'tamper', 'tam', 'tap', 'sue', 'steal', 'stale', 'stare',
     'groov', 'recaptur', 'opt', 'oracle', 'dbms', 'rust', 'sail', 'said', 'scrum', 'tripl', 'theorem', 'lace', 'enough',
     'solace', 'guest', 'gui', 'sold', 'software', 'solely', 'solemn', 'fatigu', 'fat', 'fanc', 'fan', 'entrust', 'enum', 'enumer',
-    'envi', 'envision', 'extravagan',
+    'envi', 'envision', 'extravagan', 'flight', 'ftp', 'glue', 'glitch', 'impersonat', 'quiz', 'raw', 'ray', 'gcc', 'gave',
     #'sit', 'set', worfklow, retargatable, disc, at, ace,
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
