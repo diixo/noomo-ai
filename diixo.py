@@ -283,8 +283,10 @@ diixo = [
     'rat', 'reliab', 'relian', 'remed', 'nominal', 'nod', 'how', 'hover', 'nine', 'nice', 'mechan', 'meddl', 'matrimon', 'max', 'felt',
     'urg', 'urban', 'very', 'virus', 'vulner', 'waiv', 'wander', 'war', 'wast', 'weak', 'west', 'widow', 'wood', 'yes', 'yet', 'yield',
     'wor', 'woke', 'whirl', 'weld', 'xml', 'vanit', 'vacan', 'vague', 'ceremon', 'unar', 'symmetr', 'subject', 'ordinat', 'stir',
-    'stoop', 'strok', 'shoe', 'bar', 'ban', 'keen', 'banish', 'tedious', 'technolog', 'techni',
-    #'sit', 'set', worfklow
+    'stoop', 'strok', 'shoe', 'bar', 'ban', 'keen', 'banish', 'tedious', 'technolog', 'techni', 'bisect', 'theft', 'thaw',
+    'third', 'thirt', 'thousand', 'wont', 'beat', 'vaunt', 'fumbl',# 'fungib',
+    #'sit', 'set', worfklow,  'blunt', 'bunch', conundrum, 'punk', flung, funnel, hung, hundred, saunter, satur, sauc, sun, junk,
+    # pronunc, sung, sunk, smack, sly, swung, bear, bucket, vast
     # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit, nod,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
