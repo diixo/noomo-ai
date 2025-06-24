@@ -302,8 +302,8 @@ diixo = [
     'nlp', 'non', 'noname', 'nonsens', 'murmur', 'nltk', 'meal', 'met', 'metal', 'mere', 'esteem', 'wasm', 'meld', 'melanchol',
     'spac', 'mercant', 'merchan', 'estate', 'scrab', 'rough', 'rous', 'rol', 'rock', 'onerous', 'rnn', 'rimm', 'rip', 'rid',
     'rgb', 'ridd', 'revenue', 'request', 'repl', 'fri', 'grip', 'horribl', 'horror', 'hybrid', 'husband', 'hype', 'repla',
-    'replenish', 'reput', 'reputa',
-    #'sit', 'set', worfklow, retargatable, disc, at
+    'replenish', 'reput', 'reputa', 'rigid', 'star', 'pursu', 'receipt', 'tamper', 'tam', 'tap', 'sue', 'steal', 'stale', 'stare',
+    #'sit', 'set', worfklow, retargatable, disc, at, groov, recaptur
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
