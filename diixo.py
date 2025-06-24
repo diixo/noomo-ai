@@ -293,6 +293,7 @@ diixo = [
     'averag', 'avatar', 'avert', 'autumn', 'associat', 'auxiliar', 'aton', 'atlas', 'boss', 'jira', 'jinja', 'add', 'addit', 'adept',
     'jott', 'jut', 'kotlin', 'kubernet', 'jdo', 'jest', 'dom', 'majest', 'jdk', 'jvm', 'jre', 'jwt', 'dbc', 'jpg', 'jpeg',
     'legac', 'legib', 'discount', 'discourag', 'discreet', 'led', 'amo', 'assail', 'crumbl', 'leap', 'baffl', 'flav',
+    'flew', 'flee', 'fled',
     #'sit', 'set', worfklow, disc, at
     # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
