@@ -288,16 +288,18 @@ diixo = [
     'etc', 'euro', 'crim', 'hung', 'hundred', 'saunter', 'satur', 'sauc', 'sun', 'junk', 'furcat', 'junior', 'slumber', 'sling',
     'pronunc', 'sung', 'sunk', 'smack', 'sly', 'swung', 'bear', 'bucket', 'vast', 'beam', 'sang', 'sank', 'slung', 'slugg', 'sanit',
     'substan', 'subsid', 'subsist', 'listen', 'llm', 'llama', 'loom', 'llvm', 'bloom', 'blossom', 'glor', 'gloss', 'gloom',
-    'mem', 'mod', 'bus', 'modest', 'motor', 'motivat', 'mov', 'burst', 'bur', 'imburs',
-    #'sit', 'set', worfklow, 'mull',
+    'mem', 'mod', 'bus', 'modest', 'motor', 'motivat', 'mov', 'burst', 'bur', 'imburs', 'mull', 'uous', 'conspic', 'stren', 'ardent',
+    'arduous', 'samsung', 'ops', 'pop', 'dev', 'devis', 'deviat', 'detract', 'devoid', 'opaque', 'opaci', 'devalu', 'devastat', 'azure',
+    'averag',
+    #'sit', 'set', worfklow,
     # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
     # er?, gence, gance, que, date, case, marathon
     # add 'summar', 'summat', substance substantial
-    # late, fire light win ful wise prov api
-    #set, heal, repo, rand, mov, def, nom-nomo, uous, duc
+    # late, fire light
+    #set, heal, repo, rand, def, nom-nomo, uous, duc
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, plac, tun, set,
     ]
