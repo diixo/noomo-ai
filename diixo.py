@@ -295,14 +295,14 @@ diixo = [
     'legac', 'legib', 'discount', 'discourag', 'discreet', 'led', 'amo', 'assail', 'crumbl', 'leap', 'baffl', 'flav', 'fixat',
     'flew', 'flee', 'fled', 'fling', 'flirt', 'fly', 'focal', 'flutter', 'fli', 'afflict', 'affix', 'floor', 'flopp', 'five', 'flask',
     'alternat', 'agent', 'agglomerat', 'agenc', 'agenda', 'again', 'against', 'volub', 'usb', 'blob', 'alike', 'alive', 'usab', 'usag',
+    'tir', 'tiny', 'case',
     #'sit', 'set', worfklow, disc, at
-    # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit,
+    # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
-    # er?, gence, gance, que, date, case, marathon
-    # add 'summar', 'summat', substance substantial
-    # late, fire light
+    # er?, gence, gance, que, marathon
+    # 'summar', 'summat',
     #set, heal, repo, rand, def, nom-nomo, uous, duc
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, plac, tun, set,
