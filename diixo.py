@@ -303,8 +303,8 @@ diixo = [
     'spac', 'mercant', 'merchan', 'estate', 'scrab', 'rough', 'rous', 'rol', 'rock', 'onerous', 'rnn', 'rimm', 'rip', 'rid',
     'rgb', 'ridd', 'revenue', 'request', 'repl', 'fri', 'grip', 'horribl', 'horror', 'hybrid', 'husband', 'hype', 'repla',
     'replenish', 'reput', 'reputa', 'rigid', 'star', 'pursu', 'receipt', 'tamper', 'tam', 'tap', 'sue', 'steal', 'stale', 'stare',
-    'groov', 'recaptur', 'opt', 'oracle', 'dbms', 'rust', 'sail', 'said', 'scrum', 'tripl',
-    #'sit', 'set', worfklow, retargatable, disc, at, groov, recaptur
+    'groov', 'recaptur', 'opt', 'oracle', 'dbms', 'rust', 'sail', 'said', 'scrum', 'tripl', 'theorem', 'lace',
+    #'sit', 'set', worfklow, retargatable, disc, at, groov, recaptur, ace, solace, guest, gui, sold, solace, software, solely
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace

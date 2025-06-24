@@ -846,6 +846,7 @@ daunt
 dawdl
 day
 dbc
+dbms
 ddr
 dead
 deal
@@ -1888,6 +1889,7 @@ lab
 label
 labo
 laborator
+lace
 lack
 lag
 lagrang
@@ -2290,16 +2292,18 @@ oppos
 opposs
 oppress
 ops
+opt
 optic
 optim
 optimist
 option
 or
+oracle
 order
 ordinar
 ordinat
-organ
 organic
+organiz
 orient
 origin
 ornament
@@ -2815,10 +2819,13 @@ rugged
 rumour
 run
 rush
+rust
 saas
 sad
 saf
 safar
+said
+sail
 sal
 salar
 same
@@ -2866,6 +2873,7 @@ screw
 scrib
 script
 scroll
+scrum
 scrup
 scrut
 scrutiniz
@@ -3349,6 +3357,7 @@ their
 them
 then
 theor
+theorem
 ther
 there
 therm
@@ -3479,6 +3488,7 @@ trick
 trifl
 trigger
 trim
+tripl
 triumph
 trivial
 trop
