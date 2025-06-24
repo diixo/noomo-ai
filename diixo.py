@@ -294,7 +294,7 @@ diixo = [
     'jott', 'jut', 'kotlin', 'kubernet', 'jdo', 'jest', 'dom', 'majest', 'jdk', 'jvm', 'jre', 'jwt', 'dbc', 'jpg', 'jpeg',
     'legac', 'legib', 'discount', 'discourag', 'discreet', 'led', 'amo', 'assail', 'crumbl', 'leap', 'baffl', 'flav', 'fixat',
     'flew', 'flee', 'fled', 'fling', 'flirt', 'fly', 'focal', 'flutter', 'fli', 'afflict', 'affix', 'floor', 'flopp', 'five', 'flask',
-    'alternat', 'agent', 'agglomerat', 'agenc',
+    'alternat', 'agent', 'agglomerat', 'agenc', 'agenda', 'again', 'against', 'volub', 'usb', 'blob', 'alike', 'alive', 'usab', 'usag',
     #'sit', 'set', worfklow, disc, at
     # rat, tri, son, perma-link neura-link euclid tiny tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
