@@ -300,7 +300,7 @@ diixo = [
     'rude', 'crucial', 'prun', 'obtrud', 'pruden', 'impuls', 'rubber', 'upbraid', 'rudimen', 'rugged', 'latin', 'impuden', 'crude',
     'impur', 'imput', 'lag', 'lap', 'laps', 'scap', 'lan', 'lash', 'splash', 'plagued', 'clash', 'clarity', 'laz', 'leverat',
     'nlp', 'non', 'noname', 'nonsens', 'murmur', 'nltk', 'meal', 'met', 'metal', 'mere', 'esteem', 'wasm', 'meld', 'melanchol',
-    'spac', 'mercant', 'merchan',
+    'spac', 'mercant', 'merchan', 'estate', 'scrab', 'rough', 'rous', 'rol', 'rock', 'onerous',
     #'sit', 'set', worfklow, disc, at
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
