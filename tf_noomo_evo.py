@@ -77,13 +77,18 @@ def tokens_to_file(words: list):
 ##########################################################################################
 
 def print_tokenization(prompt: str):
+
     input_ids = tokenizer_gpt(prompt, add_special_tokens=False, padding=False, return_tensors="np")
     input_ids = input_ids["input_ids"]
     input_ids = input_ids[0]
 
     #print(input_ids)
     print(tokenizer_gpt.convert_ids_to_tokens(input_ids))
-    print(tokenizer_gpt.decode(input_ids, skip_special_tokens=False))
+    print(tokenizer_gpt.decode(
+        input_ids,
+        skip_special_tokens=False,
+        clean_up_tokenization_spaces=True)
+    )
 
 
 if __name__ == '__main__':
