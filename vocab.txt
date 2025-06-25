@@ -404,7 +404,9 @@ boast
 body
 boil
 bold
+bond
 bone
+bonus
 book
 bool
 boost
@@ -676,6 +678,7 @@ conclusi
 concord
 concret
 concurr
+condemn
 condens
 condit
 conduc
@@ -856,6 +859,9 @@ dear
 debat
 debug
 debut
+decad
+decay
+deceit
 deceiv
 decelerat
 december
@@ -866,7 +872,9 @@ decimal
 decision
 declar
 declin
+decorat
 decreas
+decrement
 dedicat
 deduc
 deed
@@ -920,6 +928,7 @@ depreciate
 depress
 depriv
 depth
+deput
 deque
 deriv
 descen
@@ -1302,6 +1311,7 @@ fail
 fair
 fair
 faith
+fake
 fall
 false
 famil
