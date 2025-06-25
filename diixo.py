@@ -307,7 +307,7 @@ diixo = [
     'solace', 'guest', 'gui', 'sold', 'software', 'solely', 'solemn', 'fatigu', 'fat', 'fanc', 'fan', 'entrust', 'enum', 'enumer',
     'envi', 'envision', 'extravagan', 'flight', 'ftp', 'glue', 'glitch', 'impersonat', 'quiz', 'raw', 'ray', 'gcc', 'gave',
     'forfeit', 'hail', 'halt', 'hamper', 'guilt', 'hackathon', 'harsh', 'impair', 'flux', 'gnu', 'lie', 'licentious', 'gpt',
-    'gpu', 'cpu', 'gps', 'mvp', 'mvc', 'optimiz', 'optimal',
+    'gpu', 'cpu', 'gps', 'mvp', 'mvc', 'optimiz', 'optimal', 'lstm', 'cbow',
     #'sit', 'set', worfklow, retargatable, disc, at, ace,
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,

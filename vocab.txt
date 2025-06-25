@@ -509,6 +509,7 @@ categor
 caught
 caus
 cautio
+cbow
 ceas
 ceil
 celebrat
@@ -783,6 +784,7 @@ cours
 couth
 cover
 covet
+cpu
 crack
 craft
 cramp
@@ -1526,6 +1528,9 @@ googl
 gorgeous
 got
 govern
+gps
+gpt
+gpu
 grab
 grace
 gracious
@@ -2030,6 +2035,7 @@ loud
 lov
 low
 loyal
+lstm
 luck
 lurk
 luxur
@@ -2204,6 +2210,8 @@ mutat
 mutex
 mutter
 mutual
+mvc
+mvp
 myster
 mystif
 nail
@@ -2327,7 +2335,9 @@ ops
 opt
 optic
 optim
-optimist
+optimal
+optimis
+optimiz
 option
 or
 oracle
