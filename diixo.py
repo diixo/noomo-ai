@@ -122,7 +122,7 @@ diixo = [
     'scrambl', 'stumbl', 'tackl', 'trail', 'trembl', 'unveil', 'cultivat', 'danger', 'engag', 'ecolog', 'emulat', 'entail', 'moderat',
     # 'shad', 'fell', 'fli', 'tang', 'tile, ->'ling', night, rect+angl, 'empt', area, ling
     'commerc', 'modern', 'comment', 'comfort', 'styl', 'stupid', 'stump', 'stun', 'instant', 'instanc', 'escalat', 'elevat', 'event',
-    'evok', 'evolut', 'evolv', 'exact', 'excus', 'devolv', 'exclusiv', 'execut', 'exempl', 'escap', 'even', 'eval', 'estima', 'evening',
+    'evok', 'evolut', 'evolv', 'exact', 'excus', 'devolv', 'exclusiv', 'execut', 'exempl', 'escap', 'even', 'evaluat', 'estima', 'evening',
     'element', 'retriev', 'retro', 'field', 'solid', 'feel', 'till', 'distill', 'tilt', 'disabl', 'spoil', 'tunel', 'box', 'virtual',
     'list', 'limit', 'black', 'wait', 'liquidat', 'drop', 'lift', 'enlarg', 'enjoy', 'enhanc', 'fool', 'rectang', 'night', 'right',
     'bright', 'wright', 'brief', 'offer', 'coffee', 'exist', 'argument', 'fact', 'manual', 'manufactur', 'factor', 'refactor', 'manipul',
@@ -311,8 +311,11 @@ diixo = [
     'decad', 'decay', 'deceit', 'decrement', 'fake', 'faint', 'fame', 'feebl', 'federal', 'fond', 'food', 'foll', 'forebod',
     'froz', 'frugal', 'fun', 'gaz', 'gaug', 'gig', 'glean', 'glee', 'glar', 'goto', 'grav', 'gravit', 'grep', 'grew', 'gist',
     'grudg', 'gruel', 'grunt', 'gsm', 'grpc', 'disguis', 'hat', 'hazard', 'hdd', 'hdmi', 'holi', 'holistic', 'homogen', 'idol',
-    'inch', 'incent', 'incit',
-    #'sit', 'set', worfklow, retargatable, disc, at, ace,
+    'inch', 'incent', 'incit', 'enchant', 'encapsulat', 'endors', 'enem', 'enroll', 'evaporat', 'evas', 'fasten', 'feet', 'fell',
+    'few', 'festiv', 'fenc', 'fidel', 'fickl', 'fift', 'fish', 'find', 'fir', 'fin', 'evad', 'fees', 'fox', 'fend', 'fought',
+    'forgot', 'fuzz', 'game', 'gen', 'gem', 'gan', 'cuda', 'gramm', 'elde', 'efficien', 'ebriet', 'lumin', 'croach', 'pedia',
+    'mac', 'wifi', 'suprem', 'mad', 'wife', 'elusiv', 'set', 'rul', 'ruin', 'rumor', 'heal',
+    #'sit', 'set', worfklow, retargatable, disc, at, ace, lumin++, croach++
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
