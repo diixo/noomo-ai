@@ -998,6 +998,7 @@ discriminat
 discuss
 disdain
 disgrac
+disguis
 disgust
 dish
 disjoin
@@ -1635,9 +1636,13 @@ hash
 haskell
 hassl
 hast
+hat
 haul
 haunt
 hav
+hazard
+hdd
+hdmi
 he
 head
 head
@@ -1681,9 +1686,12 @@ hit
 hither
 hiv
 hold
+holi
+holistic
 holo
 home
 homo
+homogen
 honest
 honour
 hood
@@ -1725,6 +1733,7 @@ ident
 identif
 identif
 idiom
+idol
 ight
 ignit
 ignor
@@ -1766,8 +1775,11 @@ impuls
 impur
 imput
 inaugurat
+incent
 incept
+inch
 incident
+incit
 inclin
 includ
 inclus
