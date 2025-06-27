@@ -113,7 +113,11 @@ ago
 agree
 aim
 air
+ajax
+aka
 al
+alack
+alacrit
 alarm
 alert
 alex
@@ -608,6 +612,7 @@ clarity
 clash
 class
 classif
+clause
 clean
 clear
 clever
@@ -639,7 +644,7 @@ cocoa
 cod
 code
 codif
-coeff
+coefficient
 coffee
 cognit
 coheren
@@ -731,6 +736,7 @@ concurr
 condemn
 condens
 condit
+condolenc
 conduc
 conduct
 cone
@@ -851,7 +857,10 @@ crash
 crav
 crawl
 creat
+creden
+credib
 credit
+cri
 crim
 cris
 criteri
@@ -996,6 +1005,7 @@ deput
 deque
 deriv
 descen
+descri
 describ
 descript
 desert
@@ -1003,6 +1013,7 @@ deserv
 design
 desir
 desk
+despit
 destin
 destroy
 destruct
@@ -1031,8 +1042,10 @@ dialog
 dict
 dictat
 did
+die
 diff
 differ
+differentia
 difficult
 diffiden
 diffus
@@ -1046,7 +1059,9 @@ dimens
 diminish
 dinner
 diod
+dire
 direct
+dirt
 dis
 disabl
 disappoint
@@ -1105,8 +1120,10 @@ dock
 docker
 doctrin
 document
+dole
 dom
 domain
+domestic
 dominan
 dominat
 donat
@@ -1114,6 +1131,7 @@ doom
 door
 dos
 dot
+doth
 doubl
 doubt
 down
@@ -1126,6 +1144,7 @@ drank
 drank
 drastic
 draw
+dread
 dream
 dress
 drew
@@ -2471,6 +2490,7 @@ null
 numb
 numer
 nurs
+obedien
 obey
 obfuscat
 object
@@ -2671,6 +2691,7 @@ plane
 planet
 plast
 platform
+plausib
 play
 plead
 pleas
@@ -3013,6 +3034,7 @@ retent
 retir
 retriev
 retro
+return
 revamp
 reveal
 revel
@@ -3041,6 +3063,7 @@ ris
 risk
 rival
 river
+river
 rnn
 road
 roam
@@ -3060,11 +3083,18 @@ round
 rous
 rout
 routine
+row
+rpc
+rpg
+rsa
+rss
+rtti
 rubber
 rubric
 ruby
 rude
 rudimen
+rue
 rugged
 ruin
 rul
@@ -3190,6 +3220,8 @@ setup
 seven
 sever
 several
+sex
+sgd
 shad
 shadow
 shak
@@ -3201,14 +3233,17 @@ shar
 shard
 sharp
 she
+shed
 sheet
 sheet
 shell
+shelter
 shift
 shin
 ship
 shock
 shoe
+shook
 shoot
 shop
 short
@@ -3275,8 +3310,11 @@ slang
 slash
 slav
 slay
+sleek
 sleep
+sleet
 slept
+slew
 slic
 slid
 slight
@@ -3300,11 +3338,14 @@ smit
 smok
 smooth
 snap
+sneak
 sneer
 sniff
 snip
 snow
 so
+soap
+soar
 sober
 social
 sociat
