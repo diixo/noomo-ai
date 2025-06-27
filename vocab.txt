@@ -826,7 +826,10 @@ crude
 crumbl
 crunch
 crush
+crux
+cry
 crypt
+crystal
 css
 cub
 cuda
@@ -1088,6 +1091,8 @@ dron
 drop
 drown
 drunk
+drupal
+dry
 dual
 dub
 duc
@@ -1777,6 +1782,7 @@ horribl
 horror
 hospit
 host
+hot
 hour
 house
 hover
@@ -2022,6 +2028,7 @@ junct
 june
 junior
 junk
+jupyter
 just
 justic
 justif
@@ -2131,6 +2138,7 @@ line
 lingu
 linguist
 link
+linux
 liquidat
 list
 listen
@@ -2849,6 +2857,7 @@ redact
 reduc
 reduc
 redundan
+redux
 refactor
 refer
 refin
@@ -3150,6 +3159,7 @@ shrink
 shrunk
 shuffl
 shut
+shy
 sick
 side
 sigh
@@ -3253,6 +3263,7 @@ sorry
 sort
 soul
 sound
+soup
 sourc
 spac
 space
@@ -3385,6 +3396,7 @@ strip
 striv
 strok
 strong
+strov
 struct
 struggl
 stub
@@ -3451,6 +3463,10 @@ suspend
 suspens
 suspic
 sustain
+svd
+svg
+svm
+svn
 swap
 sway
 swear
@@ -3501,6 +3517,7 @@ task
 tast
 taught
 tax
+tea
 teach
 team
 tear
@@ -3682,6 +3699,7 @@ triumph
 trivial
 trop
 troubl
+tru
 true
 truncat
 truncat
@@ -3760,12 +3778,17 @@ utf
 util
 utmost
 utter
+ux
 vacan
+vacat
+vagar
 vague
+vain
 valen
 valenc
 valent
 valid
+valley
 valu
 vanish
 vanit
@@ -3786,9 +3809,12 @@ vehicl
 vendor
 ventilat
 ventur
+venue
 verb
 verbos
+veri
 verif
+verity
 vers
 versa
 version
@@ -3797,7 +3823,11 @@ vertex
 vertic
 very
 vexat
+vga
+vgg
+via
 viab
+vib
 vibr
 vici
 vict

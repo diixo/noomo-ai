@@ -318,8 +318,10 @@ diixo = [
     'extricat', 'fabl', 'fastidious', 'femin', 'feign', 'forgav', 'forgo', 'quint', 'formaliz', 'formulat', 'refrain', 'gauss',
     'euclid', 'gb', 'asm', 'jasmin', 'asp', 'grasp', 'asper', 'fps', 'input', 'ascrib', 'asap', 'ascertain', 'async', 'ascent',
     'asymmetr', 'astray', 'asunder', 'cooperat', 'copy', 'copi', 'crav', 'decentraliz', 'concert', 'indelibl', 'fopp', 'imagin',
-    'uniform', 'utmost', 'utf', 'viral', 'virtue', 'vertex', 'version', 'versus', 'versa',
-    #'sit', 'set', worfklow, retargatable, disc, at, ace, lumin++, croach++
+    'uniform', 'utmost', 'utf', 'viral', 'virtue', 'vertex', 'version', 'versus', 'versa', 'veri', 'verity', 'via', 'vib',
+    'vgg', 'vga', 'venue', 'valley', 'vain', 'vacat', 'vagar', 'svd', 'svg', 'svm', 'svn', 'ux', 'tru', 'linux', 'redux',
+    'strov', 'crux', 'jupyter', 'soup', 'drupal', 'dry', 'cry', 'crystal', 'tea', 'hot', 'shy',
+    #'sit', 'set', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
