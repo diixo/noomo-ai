@@ -324,7 +324,11 @@ award
 aware
 away
 awe
+awful
+awk
+axes
 axiom
+axis
 azure
 back
 bad
@@ -341,6 +345,8 @@ bas
 base
 bash
 basic
+basis
+bat
 batch
 batter
 battle
@@ -350,9 +356,12 @@ beam
 bear
 beat
 beaut
+became
 because
+becom
 been
 befor
+beg
 began
 begin
 begun
@@ -373,6 +382,8 @@ benefit
 bent
 bereav
 bereft
+bert
+beside
 best
 bestow
 beta
@@ -439,8 +450,10 @@ bowl
 box
 boy
 brac
+brack
 brag
 brain
+brak
 branch
 brand
 brave
@@ -482,6 +495,7 @@ bye
 byte
 cable
 cach
+cad
 calcul
 calendar
 calibrat
@@ -559,8 +573,8 @@ chip
 choic
 choos
 chop
-chos
-chrome
+chose
+chrom
 chronologic
 chunk
 cipher
@@ -626,9 +640,11 @@ colon
 color
 colour
 column
+combat
 combin
 come
 comfort
+comfy
 coming
 comma
 command
@@ -2397,6 +2413,7 @@ nois
 nom
 nomi
 nominal
+nominat
 non
 noname
 nonsens
@@ -2404,6 +2421,7 @@ noone
 noone
 nope
 norm
+normaliz
 not
 notat
 notic
@@ -2577,6 +2595,8 @@ persuad
 persuas
 pertain
 pertin
+perturb
+perus
 pervad
 pessimi
 peta
