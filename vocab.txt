@@ -85,7 +85,9 @@ advers
 advert
 advic
 advis
+adware
 affab
+affair
 affect
 affiliat
 affin
@@ -126,6 +128,7 @@ alleg
 allegor
 alleviat
 alli
+allianc
 allocat
 allot
 allow
@@ -174,6 +177,8 @@ anchor
 ancient
 and
 android
+anew
+angel
 angl
 angular
 anim
@@ -225,6 +230,8 @@ appropriat
 approv
 approximat
 april
+apt
+aptly
 arbit
 arch
 architect
@@ -300,6 +307,7 @@ attain
 attempt
 attend
 attent
+attenuat
 attract
 attribut
 attrit
@@ -308,6 +316,7 @@ audio
 audit
 augment
 august
+auth
 authent
 author
 auto
@@ -326,6 +335,7 @@ away
 awe
 awful
 awk
+aws
 axes
 axiom
 axis
@@ -399,6 +409,7 @@ bind
 bing
 bio
 bion
+bios
 bird
 bisect
 bit
@@ -460,6 +471,7 @@ brave
 breach
 break
 breath
+brevity
 bridg
 brief
 bright
@@ -508,7 +520,10 @@ campaign
 campus
 can
 cancel
-canon
+candid
+candidat
+canonical
+canvas
 capab
 capacit
 capital
@@ -596,6 +611,7 @@ classif
 clean
 clear
 clever
+cli
 click
 client
 climb
@@ -612,8 +628,14 @@ club
 clue
 cluster
 clutter
+cmd
 cmos
+cms
+cnn
 coach
+coaxial
+cobol
+cocoa
 cod
 code
 codif
@@ -730,7 +752,9 @@ congest
 congrat
 congratulat
 congregat
+congress
 congru
+congruent
 conjectur
 conjuga
 conjunct
@@ -833,7 +857,9 @@ cris
 criteri
 critic
 critique
+crm
 croach
+cron
 crop
 cross
 crowd
@@ -1010,9 +1036,12 @@ differ
 difficult
 diffiden
 diffus
+dig
 digit
+dignit
 dilat
 diligen
+dilut
 dimens
 diminish
 dinner
@@ -1137,6 +1166,7 @@ earn
 earn
 earth
 eas
+east
 eat
 ebriet
 echo
@@ -2085,6 +2115,7 @@ lan
 lanc
 land
 lang
+languag
 lap
 laps
 laravel
@@ -2230,6 +2261,7 @@ marginal
 mark
 market
 marr
+marriag
 marshall
 mash
 mask
@@ -2422,6 +2454,7 @@ noone
 nope
 norm
 normaliz
+north
 not
 notat
 notic
@@ -2438,7 +2471,6 @@ null
 numb
 numer
 nurs
-oauth
 obey
 obfuscat
 object
@@ -2522,8 +2554,10 @@ overlap
 overrid
 own
 pack
+packag
 pad
 pag
+paid
 pain
 paint
 pair
@@ -2548,6 +2582,7 @@ particip
 particl
 particul
 pass
+passag
 passiv
 past
 patch
@@ -2555,6 +2590,7 @@ patent
 path
 patien
 patron
+patronag
 pattern
 paus
 peac
@@ -2618,7 +2654,10 @@ pilot
 pin
 ping
 pioneer
+pip
+pipe
 pipeline
+pit
 pitch
 pivot
 pix
@@ -2754,6 +2793,7 @@ propos
 propriet
 pros
 prospect
+prosper
 protect
 protest
 proto
@@ -2862,6 +2902,7 @@ recept
 recipe
 recipient
 reciproc
+reckon
 recogni
 recommend
 reconcil
@@ -2941,6 +2982,7 @@ reque
 request
 requi
 requir
+requisit
 rescind
 rescu
 reserv
@@ -3069,6 +3111,7 @@ schedul
 schem
 scholar
 school
+sci
 scien
 scold
 scop
@@ -3150,6 +3193,7 @@ several
 shad
 shadow
 shak
+shall
 shallow
 sham
 shap
@@ -3210,6 +3254,7 @@ sink
 sinus
 sion
 sister
+sit
 site
 situat
 six
@@ -3221,6 +3266,7 @@ sketch
 skew
 skill
 skip
+sky
 skype
 slack
 slack
@@ -3254,10 +3300,12 @@ smit
 smok
 smooth
 snap
+sneer
 sniff
 snip
 snow
 so
+sober
 social
 sociat
 societ
@@ -3271,9 +3319,11 @@ solely
 solemn
 solicit
 solid
+solitar
 solution
 solv
 some
+son
 song
 soon
 sooth
@@ -3285,6 +3335,7 @@ soul
 sound
 soup
 sourc
+south
 spac
 space
 spam
@@ -3338,6 +3389,7 @@ sprint
 sql
 squar
 squeez
+stab
 stabil
 stabl
 stack
@@ -3422,6 +3474,7 @@ struggl
 stub
 stuck
 stud
+student
 studio
 stuff
 stumbl
@@ -3513,6 +3566,7 @@ synthes
 synthet
 sys
 system
+tab
 tabl
 tabul
 tackl
@@ -3746,6 +3800,7 @@ twitch
 twitter
 two
 txt
+typ
 type
 typic
 typo

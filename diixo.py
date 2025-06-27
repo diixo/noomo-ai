@@ -51,7 +51,7 @@ diixo = [
     'solicit', 'small', 'smart', 'devic', 'certif', 'atmo', 'amplif', 'clarif', 'classif', 'codif', 'dens', 'densif', 'diversif',
     'electrif', 'gamif', 'gratif', 'identif', 'justif', 'minif', 'modif', 'mortif', 'notif', 'quali', 'quantif', 'simplif', 'unif',
     'verif', 'notic', 'pric', 'voic', 'which', 'academ', 'addict', 'advic', 'alpha', 'logic', 'trop', 'applic', 'articl', 'ticket',
-    'authent', 'centr', 'bion', 'canon', 'categor', 'click', 'hapt', 'servic', 'coeff', 'conflict', 'contradict', 'convict',
+    'authent', 'centr', 'bion', 'canonical', 'categor', 'click', 'hapt', 'servic', 'coeff', 'conflict', 'contradict', 'convict',
     'dedicat', 'dupl', 'defic', 'delic', 'dict', 'dictat', 'difficult', 'effic', 'electr', 'magnet', 'elicit', 'ergonom', 'evict',
     'explic', 'felic', 'flick', 'harmon', 'hierarch', 'acoust', 'amplic', 'analog', 'elastic', 'fabric', 'histor', 'plast',
     'indic', 'indicat', 'inflict', 'intrinsic', 'logarithm', 'magnif', 'malic', 'metaphor', 'method', 'music', 'period', 'philosoph',
@@ -250,7 +250,7 @@ diixo = [
     'wash', 'franca', 'him', 'hint', 'hindranc', 'remembr', 'ramp', 'hir', 'thir', 'think', 'they', 'theta', 'tolera', 'ther', 'thest',
     'whip', 'whisp', 'thither', 'thin', 'hist', 'retir', 'until', 'retent', 'told', 'those', 'thous', 'therm', 'thes', 'away', 'thesa',
     'fraud', 'rather', 'father', 'ran', 'ratio', 'illustrat', 'tether', 'aberrant', 'encumb', 'penetrat', 'forb', 'illuminat', 'illus',
-    'foray', 'giv', 'glad', 'glanc', 'farth', 'ether', 'numb', 'net', 'oauth', 'glass', 'conviv', 'conv', 'dang', 'obey', 'genuin',
+    'foray', 'giv', 'glad', 'glanc', 'farth', 'ether', 'numb', 'net', 'auth', 'glass', 'conviv', 'conv', 'dang', 'obey', 'genuin',
     'geni', 'gener', 'heather', 'heat', 'heaven', 'dinner', 'heav', 'contrit', 'attrit', 'happen', 'heart', 'held', 'heir', 'vigorous',
     'log', 'thriv', 'cas', 'thrill', 'came', 'witness', 'threw', 'thrift', 'lend', 'lent', 'relent', 'insolen', 'indolen', 'inso',
     'jealous', 'jet', 'jok', 'job', 'judg', 'kept', 'rais', 'diffiden', 'juggl', 'kept', 'rain', 'rac', 'rad', 'brag', 'brac', 'boy',
@@ -321,18 +321,22 @@ diixo = [
     'uniform', 'utmost', 'utf', 'viral', 'virtue', 'vertex', 'version', 'versus', 'versa', 'veri', 'verity', 'via', 'vib',
     'vgg', 'vga', 'venue', 'valley', 'vain', 'vacat', 'vagar', 'svd', 'svg', 'svm', 'svn', 'ux', 'tru', 'linux', 'redux',
     'strov', 'crux', 'jupyter', 'soup', 'drupal', 'dry', 'cry', 'crystal', 'tea', 'hot', 'shy', 'becom', 'became', 'beside',
-    'bert', 'brak', 'beg', 'bat', 'combat', 'perturb', 'basis', 'perus', 'awful', 'awk', 'axis', 'axes', 'cad', 'brack',
-    'comfy', 'nominat', 'normaliz', #'reckon',
-    #'sit', 'set', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++
+    'bert', 'brak', 'beg', 'bat', 'combat', 'perturb', 'basis', 'perus', 'awful', 'awk', 'axis', 'axes', 'cad', 'brack', 'comfy',
+    'nominat', 'normaliz', 'reckon', 'north', 'east', 'south', 'prosper', 'typ', 'shall', 'sci', 'sky', 'sneer', 'sober',
+    'solitar', 'student', 'tab', 'pip', 'pipe', 'stab', 'pit', 'son', 'languag', 'marriag', 'packag', 'patronag', 'passag',
+    'congress', 'congruent', 'paid', 'cron', 'crm', 'sit', 'requisit', 'adware', 'affair', 'cli', 'aws', 'bios', 'cmd', 'cms',
+    'cnn', 'cobol', 'cocoa', 'coaxial', 'allianc', 'angel', 'attenuat', 'brevity', 'apt', 'candidat', 'canvas', 'dig', 'dilut',
+    'dignit', 'aptly', 'anew', 'candid',
+    #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
     # er?, gence, gance, que, marathon
     # 'summar', 'summat',
-    #set, heal, repo, rand,
+    #repo, rand,
     #act, bas, log,
-    #url, exe, ecut, net, non, sum, go, act, add, app, plac, tun, set,
+    #url, exe, ecut, net, non, sum, go, act, add, app, plac, tun,
     ]
 
 
