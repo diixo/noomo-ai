@@ -507,6 +507,7 @@ business
 but
 button
 buy
+by
 bye
 byte
 cable
@@ -646,6 +647,7 @@ code
 codif
 coefficient
 coffee
+cofound
 cognit
 coheren
 cohesi
@@ -1807,6 +1809,7 @@ help
 hence
 her
 here
+hereby
 hesitat
 heter
 heuristic
@@ -2028,6 +2031,8 @@ internet
 interpolat
 interpret
 interrupt
+interval
+interven
 intim
 intra
 intract
@@ -2515,6 +2520,8 @@ occur
 octa
 october
 odd
+oem
+of
 off
 offenc
 offend
@@ -2708,6 +2715,7 @@ poach
 pocket
 pod
 podcast
+poem
 point
 polar
 polic
@@ -2940,12 +2948,25 @@ reduc
 reduc
 redundan
 redux
+ref
 refactor
 refer
+refetch
+refil
+refill
 refin
+refit
 reflect
 reflex
+refocus
+reform
+reformat
+reformulat
+refract
 refrain
+refresh
+refund
+refurbish
 refus
 refut
 regain
@@ -3446,6 +3467,7 @@ stamp
 stand
 stand
 standard
+standby
 star
 stare
 start
@@ -3681,6 +3703,7 @@ theor
 theorem
 ther
 there
+thereby
 therm
 thes
 thesa
@@ -3900,6 +3923,7 @@ vacat
 vagar
 vague
 vain
+val
 valen
 valenc
 valent

@@ -36,8 +36,8 @@ diixo = [
     'round', 'around', 'flow', 'sheet', 'time', 'shop', 'group', 'local', 'ground', 'stack', 'sketch', 'sentiment', 'life',
     'with', 'through', 'rout', 'stand', 'shout', 'routine', 'scout', 'roll', 'perform', 'bound', 'look', 'scroll', 'standard', 'break',
     #'out', often, turn, point, upper, low, fall, non, none, nope
-    'back', 'switch', 'throw', 'trac', 'track', 'tract', 'author', 'determin', 'detect', 'desir',
-    'distract', 'distort', 'distinguish', 'distinct', 'clos', 'clon', 'mark', 'market', 'land', 'crypt', 'engine', 'featur', 'cach', 'memor',
+    'back', 'switch', 'throw', 'trac', 'track', 'tract', 'author', 'determin', 'detect', 'desir', 'cach', 'memor',
+    'distract', 'distort', 'distinguish', 'distinct', 'clos', 'clon', 'mark', 'market', 'land', 'crypt', 'engine', 'featur',
     #'abnormal', 'accident', 'actual', 'algorithm', 'alphabet', 'analytic', 'algebra',
     #'call', 'ic', #??? #, 'ous',
     'allegor', 'alleviat', 'alleg', 'allocat', 'admin', 'admir', 'allot', 'allow', 'allud', 'allus', 'exam', 'examin', 'exampl', 'alli',
@@ -329,8 +329,10 @@ diixo = [
     'dignit', 'aptly', 'anew', 'candid', 'despit', 'plausib', 'clause', 'creden', 'credib', 'cri', 'descri', 'ajax', 'aka',
     'alacrit', 'alack', 'differentia', 'die', 'dirt', 'dire', 'domestic', 'doth', 'dread', 'return', 'river', 'obedien', 'dole',
     'sgd', 'sex', 'shelter', 'shed', 'row', 'condolenc', 'rpc', 'rsa', 'rpg', 'rss', 'rtti', 'rue', 'shook', 'sleek', 'slew',
-    'sleet', 'sneak', 'soar', 'soap',
-    #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++
+    'sleet', 'sneak', 'soar', 'soap', 'hereby', 'thereby', 'standby', 'by', 'of', 'poem', 'oem', 'ref', 'val', 'interval',
+    'refresh', 'refund', 'refocus', 'reform', 'reformat', 'reformulat', 'refract', 'refurbish', 'refit', 'refill', 'refil',
+    'refetch', 'cofound', 'interven',
+    #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out,
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
