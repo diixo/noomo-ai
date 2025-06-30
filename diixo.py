@@ -331,7 +331,7 @@ diixo = [
     'sgd', 'sex', 'shelter', 'shed', 'row', 'condolenc', 'rpc', 'rsa', 'rpg', 'rss', 'rtti', 'rue', 'shook', 'sleek', 'slew',
     'sleet', 'sneak', 'soar', 'soap', 'hereby', 'thereby', 'standby', 'by', 'of', 'poem', 'oem', 'ref', 'val', 'interval',
     'refresh', 'refund', 'refocus', 'reform', 'reformat', 'reformulat', 'refract', 'refurbish', 'refit', 'refill', 'refil',
-    'refetch', 'cofound', 'interven',
+    'refetch', 'cofound', 'interven', 'crypto', 'into', 'joomla', 'kanban', 'kde', 'concentrat', 'kivy', 'lda', 'money', 'once',
     #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out,
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
