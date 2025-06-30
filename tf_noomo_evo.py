@@ -35,9 +35,12 @@ tokenizer.normalizer = Sequence([Lowercase()])
 tokenizer.pre_tokenizer = ByteLevel()
 tokenizer.decoder = ByteLevelDecoder()
 
-trainer = BpeTrainer(vocab_size=50000, initial_alphabet=ByteLevel.alphabet(), min_frequency=1,
-                    special_tokens=["<pad>", "<s>", "</s>", "<unk>", "<mask>"]
-                    )
+trainer = BpeTrainer(
+    vocab_size=50000,
+    initial_alphabet=ByteLevel.alphabet(),
+    min_frequency=1,
+    special_tokens=["<pad>", "<s>", "</s>", "<unk>", "<mask>"]
+    )
 
 tokenizer.train([], trainer)
 
@@ -125,3 +128,4 @@ if __name__ == '__main__':
     #     "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end extension recode")
 
     tokens_to_file(word_set)
+
