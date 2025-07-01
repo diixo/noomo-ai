@@ -134,7 +134,7 @@ diixo = [
     'perfect', 'person', 'perspectiv', 'persist', 'persuad', 'inherit', 'innovat', 'inspect', 'offenc', 'offens', 'offend', 'often',
     'actual', 'actuat', 'character', 'impact', 'redact', 'satellit', 'syntax', 'tranquil', 'transact', 'trajector', 'trait', 'transceiv',
     'insinuat', 'transcend', 'transclud', 'txt', 'twitter', 'tweet', 'two', 'network', 'neur', 'modul', 'twitch', 'twink', 'twin',
-    'mount', 'mistake', 'moment', 'ascend', 'mountain', 'maintain', 'motiv', 'approximat', 'approb', 'motion', 'emotion', 'deform',
+    'mount', 'mistak', 'moment', 'ascend', 'mountain', 'maintain', 'motiv', 'approximat', 'approb', 'motion', 'emotion', 'deform',
     'nom', 'mouse', 'merg', 'mesh', 'among', 'demand', 'match', 'amount', 'phenomen', 'gnome', 'default', 'defect', 'defeat', 'defer',
     'commiss', 'dismiss', 'emiss', 'intermiss', 'permiss', 'remiss', 'submiss', 'permanent', 'permit', 'permeat', 'defenc', 'defens',
     'defend', 'deflect', 'deflat', 'entire', 'discord', 'either', 'twiddl', 'neighbo', 'neither', 'negotiat', 'neglig', 'neglect', #'sync'
@@ -332,12 +332,14 @@ diixo = [
     'sleet', 'sneak', 'soar', 'soap', 'hereby', 'thereby', 'standby', 'by', 'of', 'poem', 'oem', 'ref', 'val', 'interval',
     'refresh', 'refund', 'refocus', 'reform', 'reformat', 'reformulat', 'refract', 'refurbish', 'refit', 'refill', 'refil',
     'refetch', 'cofound', 'interven', 'crypto', 'into', 'joomla', 'kanban', 'kde', 'concentrat', 'kivy', 'lda', 'money', 'once',
-    #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out,
+    'exit', 'exhaust', 'your', 'youtub', 'yaml', 'wors', 'x86', 'x64', 'women', 'within', 'without', 'gem', 'worship', 'won',
+    'tong', 'turbo', 'uint', 'radius', 'rall', 'radiat',
+    #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
     #'out', 'our', 'mon', lin lif liv pace
     #'emplace',
-    # er?, gence, gance, que, marathon
+    # er?, gence, gance, que, marathon fulltime
     # 'summar', 'summat',
     #repo, rand,
     #act, bas, log,
