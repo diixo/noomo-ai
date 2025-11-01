@@ -9,7 +9,6 @@ from transformers import PreTrainedTokenizerFast, GPT2TokenizerFast
 from diixo import diixo
 
 
-filepath = "data/temp.txt"
 
 outpath = "data/output.txt"
 
@@ -18,14 +17,7 @@ with open("data/db-full.txt", "r", encoding="utf-8") as f:
     word_set = set([line.strip() for line in f if line.strip()])
 
 word_set = sorted(word_set)
-
-count = 0
-with open(filepath, "w", encoding="utf-8") as f_out:
-    for w in word_set:
-        if w.find("-") < 0:
-            f_out.write(f"{w} {w}\n")
-
-            count += 1
+count = len(word_set)
 
 ##########################################################################################
 tokenizer_path  = "noomo"
