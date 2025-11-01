@@ -45,40 +45,38 @@ def train_tokenizer():
     tokenizer.train_from_iterator(iter(dataset), trainer=trainer)
 
     vocab = tokenizer.get_vocab()
-    id_to_token = sorted(vocab.items(), key=lambda x: x[1])
-    for token, idx in id_to_token[:20]:
+    for idx, token in enumerate(list(vocab.keys())[:20]):
         print(f"{idx:5d} | {repr(token)}")
 
-    tokens = [k for k, _ in sorted(vocab.items(), key=lambda x: x[1])]
-    #print(tokens[:20])
     return tokenizer
 
 
 tokenizer = train_tokenizer()
 
+stopwords = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z",
+                 "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"])
+
 
 def evaluate_tokenizer(tokenizer, texts):
-    n_chars = 0
+
     n_tokens = 0
-    oov = 0
     n_words = 0
+
     for text in texts:
+        words = str_tokenize_words(text, stopwords)
+        text = " ".join(words)
         enc = tokenizer.encode(text)
-        n_chars += len(text)
+
         n_tokens += len(enc.tokens)
-        n_words += len(str_tokenize_words(text))
-        # пример оценки OOV: если токен начинается с "##" или "�"
-        oov += sum(1 for t in enc.tokens if "�" in t)
-    avg_len = n_tokens / len(texts)
-    ch_compression = n_chars / n_tokens
-    w_compression = n_chars / len(texts) / avg_len  # TODO: check this formula
-    return {"avg_tokens_per_text": avg_len,
-            "char_compression_ratio": ch_compression,
-            "word_compression_ratio": w_compression,
-            "oov_rate": oov / n_tokens}
+        n_words += len(words)
 
+    w_compression = n_tokens / n_words
+    return { "word_compression_ratio": w_compression }
 
-metrics = evaluate_tokenizer(tokenizer, dataset[:1000])
+print(32 * "#")
+
+#metrics = evaluate_tokenizer(tokenizer, dataset[:1000])
+metrics = evaluate_tokenizer(tokenizer, dataset)
 print(metrics)
 
 lengths = [len(t) for t in tokenizer.get_vocab().keys()]
