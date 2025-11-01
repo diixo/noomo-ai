@@ -333,7 +333,8 @@ diixo = [
     'refresh', 'refund', 'refocus', 'reform', 'reformat', 'reformulat', 'refract', 'refurbish', 'refit', 'refill', 'refil',
     'refetch', 'cofound', 'interven', 'crypto', 'into', 'joomla', 'kanban', 'kde', 'concentrat', 'kivy', 'lda', 'money', 'once',
     'exit', 'exhaust', 'your', 'youtub', 'yaml', 'wors', 'x86', 'x64', 'women', 'within', 'without', 'gem', 'worship', 'won',
-    'tong', 'turbo', 'uint', 'radius', 'rall', 'radiat',
+    'tong', 'turbo', 'uint', 'radius', 'rall', 'radiat', 'ified', 'ify', 'purg', 'aliz', 'testimon', 'sporad', 'cent', 'lucen',
+    'original', 'originat', 'per', 'nab', 'lua', 'ltd', 'penur', 'iterat', 'introduc', 'perennial', 'perempt', 'imperat', 'imperativ',
     #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,

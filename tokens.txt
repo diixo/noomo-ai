@@ -127,6 +127,7 @@ alias
 align
 alike
 alive
+aliz
 all
 alleg
 allegor
@@ -561,6 +562,7 @@ ceas
 ceil
 celebrat
 cell
+cent
 center
 centr
 ceremon
@@ -1887,6 +1889,8 @@ identif
 identif
 idiom
 idol
+ified
+ify
 ight
 ignit
 ignor
@@ -1910,6 +1914,8 @@ impart
 imped
 impel
 impend
+imperat
+imperativ
 impersonat
 impertinen
 impet
@@ -2046,6 +2052,7 @@ intric
 intrigu
 intrinsic
 intro
+introduc
 intrusiv
 intuit
 inur
@@ -2069,6 +2076,7 @@ istic
 it
 item
 itera
+iterat
 ity
 jam
 january
@@ -2254,6 +2262,9 @@ lov
 low
 loyal
 lstm
+ltd
+lua
+lucen
 luck
 lumin
 lurk
@@ -2437,6 +2448,7 @@ mvc
 mvp
 myster
 mystif
+nab
 nail
 naive
 nam
@@ -2577,6 +2589,8 @@ organic
 organiz
 orient
 origin
+original
+originat
 ornament
 ortho
 oscill
@@ -2647,10 +2661,14 @@ pend
 penetrat
 pens
 pent
+penur
 peopl
+per
 perceiv
 percent
 percept
+perempt
+perennial
 perfect
 perform
 period
@@ -2866,6 +2884,7 @@ punk
 pupil
 pur
 purchas
+purg
 purpos
 pursu
 push
@@ -3457,6 +3476,7 @@ spontane
 spoof
 spool
 spoon
+sporad
 sport
 spot
 sprang
@@ -3704,6 +3724,7 @@ terribl
 terrif
 tessellat
 test
+testimon
 tether
 text
 than

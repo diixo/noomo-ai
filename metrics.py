@@ -9,12 +9,40 @@ from transformers import GPT2Tokenizer
 import matplotlib.pyplot as plt
 import pandas as pd
 import re
+from pathlib import Path
+
+
+stopwords = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z",
+                 "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
+                 ".", ",", "!", "?", ";", ":", "'", "\"", "(", ")", "[", "]", "{", "}", "-", "_", "+", "=", "*", "&", "^", "%", "$", "#", "@", "~", "`",])
+
+
+def read_embedded_dict() -> set:
+    word_set = set()
+
+    path = Path("data/db-full-58788.txt")
+    with path.open("r", encoding="utf-8") as f:
+        word_list = [line.strip() for line in f if line.strip()]
+
+        for w in word_list:
+            if w not in word_set:
+                word_set.add(w)
+            else:
+                print("###:", w)
+
+    print(f"db-full.sz={len(word_set)}")
+    return word_set
 
 
 def str_tokenize_words(s: str, stopwords = set()) -> list:
     words = re.findall("(\.?\w[\w'\.&-]*\w|\w\+*#?)", s)
     if words: return [w for w in words if w not in stopwords]
     return []
+
+
+def clean_text(text):
+    text = re.sub(r"[^a-zA-Z0-9\s.,!?;:'\"()-]", "", text)
+    return text
 
 ####################################################################
 gpt2 = GPT2Tokenizer.from_pretrained("gpt2")
@@ -23,17 +51,28 @@ print(gpt2.eos_token)        #
 print(gpt2.eos_token_id)     # 50256
 ####################################################################
 
+def read_datasets():
+    dataset = []
 
-chunk_df = pd.read_parquet("datasets/eli5/pair/train-00000-of-00001.parquet", columns=["question", "answer"])
+    # ds = load_dataset("eli5", split="train")
+    # for item in ds:
+    #     question = item["question"]
+    #     answer = item["answer"]
+    #     dataset.append(question + " " + answer)
 
-dataset = []
+    chunk_df = pd.read_parquet("datasets/eli5/pair/train-00000-of-00001.parquet", columns=["question", "answer"])
 
-for idx, row in chunk_df.iterrows():
-    question = row["question"]
-    answer = row["answer"]
-    if (idx + 1) % 1000 == 0:
-        print(f"...items={idx}")
-    dataset.append(question + " " + answer)
+    for idx, row in chunk_df.iterrows():
+        question = row["question"]
+        answer = row["answer"]
+        if (idx + 1) % 1000 == 0:
+            print(f"...items={idx}")
+        dataset.append(clean_text(question + " " + answer))
+    return dataset
+
+
+dataset = list(read_embedded_dict())
+#dataset += read_datasets()
 
 
 def train_tokenizer():
@@ -41,7 +80,7 @@ def train_tokenizer():
     tokenizer.normalizer = normalizers.NFKC()
     tokenizer.pre_tokenizer = Whitespace()
 
-    trainer = BpeTrainer(vocab_size=50_000, min_frequency=2)
+    trainer = BpeTrainer(vocab_size=12_000, min_frequency=2)
     tokenizer.train_from_iterator(iter(dataset), trainer=trainer)
 
     vocab = tokenizer.get_vocab()
@@ -52,9 +91,6 @@ def train_tokenizer():
 
 
 tokenizer = train_tokenizer()
-
-stopwords = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z",
-                 "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"])
 
 
 def evaluate_tokenizer(tokenizer, texts):
@@ -95,9 +131,9 @@ texts = [
     "Learning, Factored Representations in a Deep Mixture of Experts.",
     "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.",
     "ST-MoE: Designing Stable and Transferable Sparse Expert Models.",
+    "was were has have had do does did go gone goes went see saw sees seen seeing run runs ran",
 ]
 
 for t in texts:
-    print(t)
-    print(" ".join(str_tokenize_words(t)))
-    print(tokenizer.encode(t).tokens)
+    txt = " ".join(str_tokenize_words(t, stopwords))
+    print(tokenizer.encode(txt).tokens)

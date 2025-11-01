@@ -9,7 +9,6 @@ from transformers import PreTrainedTokenizerFast, GPT2TokenizerFast
 from diixo import diixo
 
 
-
 outpath = "data/output.txt"
 
 
@@ -31,7 +30,7 @@ trainer = BpeTrainer(
     vocab_size=50000,
     initial_alphabet=ByteLevel.alphabet(),
     min_frequency=1,
-    special_tokens=["<pad>", "<s>", "</s>", "<unk>", "<mask>"]
+    special_tokens=["<s>", "</s>", "<unk>"]
     )
 
 tokenizer.train([], trainer)
@@ -42,9 +41,7 @@ fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object = tokenizer,
     bos_token = "<s>",
     eos_token = "</s>",
-    unk_token = "<unk>",
-    pad_token = "<pad>",
-    mask_token = "<mask>"
+    unk_token = "<unk>"
 )
 
 fast_tokenizer.save_pretrained(tokenizer_path)
