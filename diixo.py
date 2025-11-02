@@ -138,7 +138,7 @@ diixo = [
     'nom', 'mouse', 'merg', 'mesh', 'among', 'demand', 'match', 'amount', 'phenomen', 'gnome', 'default', 'defect', 'defeat', 'defer',
     'commiss', 'dismiss', 'emiss', 'intermiss', 'permiss', 'remiss', 'submiss', 'permanent', 'permit', 'permeat', 'defenc', 'defens',
     'defend', 'deflect', 'deflat', 'entire', 'discord', 'either', 'twiddl', 'neighbo', 'neither', 'negotiat', 'neglig', 'neglect', #'sync'
-    'negativ', 'render', 'surrender', 'surround', 'surpris', 'suspend', 'surrogate', 'suspect', 'survey', 'suspens', 'surviv',# 'con'
+    'negativ', 'render', 'surrender', 'surround', 'surpris', 'suspend', 'surrogate', 'suspect', 'surve', 'suspens', 'surviv',# 'con'
     'deft', 'obfuscat', 'confus', 'infus', 'congratulat', 'congest', 'defus', 'infring', 'degrad', 'tensor', 'privileg', 'privat', #privacy
     'tend', 'tender', 'pretend', 'tens', 'pretens', 'pretenc', 'contend', 'contempt', 'contemplat', 'contemp', 'prior', 'threat',
     'depress', 'depriv', 'three', 'depreciat', 'tendenc', 'anonym', 'anomal', 'annual', 'mother', 'brother', 'annoy', 'announc',
@@ -336,7 +336,9 @@ diixo = [
     'tong', 'turbo', 'uint', 'radius', 'rall', 'radiat', 'ified', 'ify', 'purg', 'aliz', 'testimon', 'sporad', 'cent', 'lucen',
     'original', 'originat', 'per', 'nab', 'lua', 'ltd', 'penur', 'iterat', 'introduc', 'perennial', 'perempt', 'imperat', 'imperativ',
     'defy', 'defi', 'deny', 'deni', 'dum', 'din', 'dim', 'tid', 'delid', 'ive', 'prod', 'wed', 'irrit', 'administrat', 'avow', 'sum',
-    'ible', 'evit', 'commod', 'iron', 'irk', 'ibly', 'ities', 'ocul', 'cult', #ence, 'pet', 'ize', 'iza', 'ilit', 'scept', 'sullen',
+    'ible', 'evit', 'commod', 'iron', 'irk', 'ibly', 'ities', 'ocul', 'cult', 'ence', 'pet', 'ize', 'iza', 'ilit', 'scept', 'sullen',
+
+    #'ous', 'ance', 'ble', 'ency', 'ial', 'ising',
     #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,

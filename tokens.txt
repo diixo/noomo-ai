@@ -1265,6 +1265,7 @@ empt
 emulat
 enabl
 encapsulat
+ence
 enchant
 encumb
 end
@@ -1909,6 +1910,7 @@ ify
 ight
 ignit
 ignor
+ilit
 ill
 illuminat
 illus
@@ -2098,6 +2100,8 @@ iterat
 ities
 ity
 ive
+iza
+ize
 jam
 january
 jasmin
@@ -2714,6 +2718,7 @@ perturb
 perus
 pervad
 pessimi
+pet
 peta
 phase
 phenomen
@@ -3215,6 +3220,7 @@ scatter
 scen
 scenar
 scept
+scept
 schedul
 schem
 scholar
@@ -3625,6 +3631,7 @@ suffic
 suffix
 suggest
 suit
+sullen
 sum
 summ
 summa
@@ -3651,7 +3658,7 @@ surpris
 surrender
 surrogate
 surround
-survey
+surve
 surviv
 suspect
 suspend
