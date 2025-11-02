@@ -255,6 +255,7 @@ april
 apt
 aptly
 arbit
+arcad
 arch
 architect
 archiv
@@ -427,11 +428,13 @@ bert
 beside
 best
 bestow
+bet
 beta
 betray
 between
 beyond
 bias
+bid
 big
 bill
 bin
@@ -1177,6 +1180,8 @@ dock
 docker
 doctrin
 document
+does
+doing
 dole
 dom
 domain
@@ -1184,6 +1189,7 @@ domestic
 dominan
 dominat
 donat
+done
 doom
 door
 dos
@@ -1377,6 +1383,7 @@ eradicate
 eras
 ergonom
 erlang
+err
 errand
 errant
 erroneous
@@ -1574,7 +1581,7 @@ flare
 flash
 flask
 flat
-flav
+flavo
 flaw
 flect
 fled
@@ -1624,6 +1631,7 @@ forc
 fore
 forebod
 forecast
+foreign
 foresee
 forest
 foretell
@@ -1765,8 +1773,11 @@ gnome
 gnu
 go
 goal
+goes
+going
 gold
 gonal
+gone
 good
 googl
 gorgeous
@@ -2075,6 +2086,7 @@ input
 inquir
 insan
 insert
+insid
 insight
 insinuat
 insist
@@ -2144,6 +2156,7 @@ invocat
 invok
 involv
 ion
+ious
 irk
 iron
 irrit
@@ -2444,6 +2457,7 @@ merchan
 mere
 merg
 merit
+merr
 mesh
 mess
 messag
@@ -2474,6 +2488,7 @@ minor
 minus
 minute
 mirror
+mirth
 mis
 miscellaneous
 miser
@@ -2642,6 +2657,7 @@ octa
 october
 ocul
 odd
+odious
 oem
 of
 off
@@ -2731,6 +2747,7 @@ paragraph
 parallax
 parallel
 param
+paramet
 pardon
 parent
 park
@@ -2784,6 +2801,7 @@ permiss
 permit
 permut
 perpendicular
+perpetual
 perplex
 persever
 persist
@@ -2857,6 +2875,7 @@ poem
 point
 polar
 polic
+polish
 polit
 poll
 poly
@@ -2890,7 +2909,10 @@ preach
 preambl
 preced
 precedent
+preci
+precipic
 precipit
+precipitat
 precis
 preclud
 predecess
@@ -3241,6 +3263,7 @@ robust
 rock
 rol
 roll
+rom
 roman
 room
 root
@@ -3601,6 +3624,8 @@ spread
 spring
 sprinkl
 sprint
+spuri
+spurn
 spurt
 spy
 sql
@@ -3833,6 +3858,8 @@ temperatur
 templat
 tempor
 tempt
+ten
+tenabl
 tenacious
 tend
 tendenc
@@ -3840,6 +3867,7 @@ tender
 tens
 tensor
 tentat
+ter
 tera
 term
 termin
@@ -3945,6 +3973,7 @@ topolog
 torch
 torrent
 total
+totter
 touch
 tough
 tour
@@ -4304,6 +4333,7 @@ yeah
 year
 yellow
 yes
+yesterday
 yet
 yield
 ying
