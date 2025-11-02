@@ -1250,6 +1250,7 @@ ed
 edge
 edit
 educat
+een
 effect
 effic
 efficien
@@ -1950,6 +1951,7 @@ identif
 identif
 idiom
 idol
+ies
 ified
 ify
 ight
@@ -1960,6 +1962,7 @@ ill
 illuminat
 illus
 illustrat
+ily
 imag
 imagin
 imbue
@@ -2137,6 +2140,7 @@ is
 is
 ising
 isolat
+ison
 issu
 ist
 istic
@@ -2146,6 +2150,7 @@ itera
 iterat
 ities
 ity
+ium
 ive
 ivity
 iza
@@ -2635,6 +2640,7 @@ offset
 often
 old
 olic
+olog
 omit
 on
 once
@@ -2678,6 +2684,7 @@ oscillat
 osten
 other
 ought
+ous
 ous
 oust
 outage
@@ -3191,6 +3198,7 @@ revolut
 revolv
 reward
 rgb
+ric
 rich
 rid
 ridd
@@ -3697,6 +3705,7 @@ sullen
 sum
 summ
 summa
+summar
 summer
 summit
 summon
@@ -3814,6 +3823,7 @@ terminat
 terrain
 terribl
 terrif
+ters
 tessellat
 test
 testimon
