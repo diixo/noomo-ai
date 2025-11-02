@@ -346,7 +346,7 @@ diixo = [
     'tri', 'phon', 'clud', 'mozil', 'icul', 'oid', 'abil', 'bud', 'sigm', 'integ', 'tang', 'tril', 'clus', 'spurt', 'alchem', 'ponder',
     'sem', 'idl', 'unison', 'out', 'court', 'fog', 'throttl', 'uninstall', 'tues', 'rom', 'err', 'ter', 'bid', 'polish', 'totter', 'yesterday',
     'paramet', 'perpetual', 'merr', 'gone', 'done', 'ious', 'precipitat', 'precipic', 'preci', 'doing', 'going', 'spuri', 'spurn', 'arcad',
-    'goes', 'does', 'bet', 'foreign', 'insid', 'odious', 'ten', 'tenabl', 'mirth',
+    'goes', 'does', 'bet', 'foreign', 'insid', 'odious', 'ten', 'tenabl', 'mirth', 'un', 'bred', 'sull',
     #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
