@@ -307,7 +307,10 @@ asunder
 asymmetr
 asymptot
 async
+ated
+ates
 atic
+ating
 ation
 ativ
 atlas
@@ -621,6 +624,7 @@ circular
 circulat
 circum
 cisco
+cit
 citation
 civil
 claim
@@ -1134,6 +1138,8 @@ distort
 distract
 distress
 distribut
+district
+distro
 disturb
 div
 diverg
@@ -2121,6 +2127,7 @@ iterat
 ities
 ity
 ive
+ivity
 iza
 ize
 izing
@@ -2164,6 +2171,7 @@ just
 justic
 justif
 jut
+juven
 jvm
 jwt
 kanban
@@ -2605,6 +2613,7 @@ offic
 offset
 often
 old
+olic
 omit
 on
 once
@@ -3582,6 +3591,7 @@ stencil
 step
 stereo
 stick
+stiff
 still
 stimul
 stipulat
@@ -4093,6 +4103,8 @@ visib
 vision
 visit
 visual
+vital
+viv
 vocabular
 vocal
 vocat
