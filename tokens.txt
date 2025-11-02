@@ -8,6 +8,7 @@ abid
 ability
 ablat
 able
+ably
 aboli
 abomina
 abort
@@ -82,6 +83,7 @@ adorn
 advanc
 advantag
 adventur
+adverb
 advers
 advert
 advic
@@ -179,6 +181,8 @@ analog
 analys
 analytic
 analyz
+ance
+ancest
 anchor
 ancient
 and
@@ -304,11 +308,13 @@ asymmetr
 asymptot
 async
 atic
+ation
 ativ
 atlas
 atmo
 atom
 aton
+ator
 attach
 attack
 attain
@@ -425,6 +431,7 @@ bit
 black
 blam
 blank
+ble
 bleak
 blend
 bless
@@ -1185,6 +1192,7 @@ dub
 duc
 duck
 due
+dulat
 dull
 dum
 dump
@@ -1276,6 +1284,7 @@ encapsulat
 ence
 enchant
 encumb
+ency
 end
 endeav
 endors
@@ -1295,6 +1304,7 @@ enroll
 ensembl
 ensu
 ensur
+ent
 entail
 entangl
 enter
@@ -1902,9 +1912,11 @@ hybrid
 hype
 hyper
 hypoth
+ial
 ible
 ibly
 ic
+icity
 icon
 idea
 ideal
@@ -2098,6 +2110,7 @@ iron
 irrit
 is
 is
+ising
 isolat
 issu
 istic
@@ -2110,6 +2123,7 @@ ity
 ive
 iza
 ize
+izing
 jam
 january
 jasmin
@@ -2356,6 +2370,7 @@ matrix
 matter
 matur
 max
+maxim
 may
 meal
 mean
@@ -2409,6 +2424,7 @@ mind
 mini
 miniatur
 minif
+minim
 minor
 minus
 minute
@@ -2632,6 +2648,7 @@ oscillat
 osten
 other
 ought
+ous
 oust
 outage
 outer
@@ -2733,6 +2750,7 @@ phase
 phenomen
 philosoph
 phish
+phob
 phone
 phonet
 photo
@@ -3495,6 +3513,7 @@ spel
 spen
 spend
 spher
+spider
 spill
 spin
 spirit
@@ -3569,6 +3588,8 @@ stipulat
 stir
 stochast
 stock
+stok
+stol
 ston
 ston
 stood
