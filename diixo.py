@@ -340,7 +340,7 @@ diixo = [
     'cat', 'cater', 'catal', 'catapult', 'ton', 'tonight', 'anxiet', 'embrocat', 'embrac', 'antonym', 'mal', 'tomorrow', 'tongue',
     'ous', 'ance', 'ble', 'ency', 'ial', 'ising', 'ent', 'ation', 'izing', 'maxim', 'minim', 'phob', 'ably', 'adverb', 'ancest',
     'ator', 'icity', 'dulat', 'stok', 'stol', 'spider', 'ating', 'ated', 'ates', 'cit', 'stiff', 'viv', 'vital', 'juven', 'ivity',
-    'district', 'distro', 'olic',
+    'district', 'distro', 'olic', 'ist', 'tic', 'hum', 'con', '\'ll', '\'ve', '\'re', '\'d', '\'s', '\'m', 'aid', 'wet', 'wolf',
     #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,

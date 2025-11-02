@@ -1,3 +1,9 @@
+'d
+'ll
+'m
+'re
+'s
+'ve
 .js
 abandon
 abat
@@ -114,6 +120,7 @@ agil
 agitat
 ago
 agree
+aid
 aim
 air
 ajax
@@ -740,6 +747,7 @@ compromis
 compuls
 comput
 computer
+con
 concatenat
 concav
 conceal
@@ -1904,6 +1912,7 @@ html
 http
 hub
 huge
+hum
 human
 humbl
 humour
@@ -2119,6 +2128,7 @@ is
 ising
 isolat
 issu
+ist
 istic
 it
 item
@@ -3848,6 +3858,7 @@ thunder
 thunk
 thus
 thwart
+tic
 tick
 ticket
 tid
@@ -4159,6 +4170,7 @@ well
 went
 were
 west
+wet
 what
 whelm
 when
@@ -4203,6 +4215,7 @@ without
 witness
 wizard
 woke
+wolf
 woman
 women
 won
