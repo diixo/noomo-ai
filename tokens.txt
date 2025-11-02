@@ -163,6 +163,7 @@ also
 alter
 alternat
 although
+altitud
 always
 am
 amass
@@ -253,6 +254,7 @@ approv
 approximat
 april
 apt
+aptitud
 aptly
 arbit
 arcad
@@ -338,6 +340,8 @@ attempt
 attend
 attent
 attenuat
+attest
+attitud
 attract
 attribut
 attrit
@@ -896,6 +900,7 @@ courag
 cours
 court
 couth
+covenant
 cover
 covet
 cpu
@@ -977,10 +982,12 @@ day
 dbc
 dbms
 ddr
+de
 dead
 deal
 dear
 debat
+debian
 debug
 debut
 decad
@@ -1000,11 +1007,13 @@ declin
 decorat
 decreas
 decrement
+ded
 dedicat
 deduc
 deed
 deem
 deep
+def
 default
 defeat
 defect
@@ -1024,6 +1033,7 @@ defus
 defy
 degrad
 degree
+deject
 delay
 delegat
 delet
@@ -1034,13 +1044,16 @@ delight
 deliver
 delphi
 delta
+delusion
 delv
 demand
+demn
 demo
 demodulat
 demolish
 demonstra
 demot
+demur
 deni
 dens
 densif
@@ -1050,8 +1063,10 @@ department
 depend
 depict
 deplet
+deplor
 deploy
 deposit
+depot
 deprecat
 depreciat
 depreciate
@@ -1070,10 +1085,15 @@ deserv
 design
 desir
 desk
+despair
+despatch
+desperat
+despis
 despit
 destin
 destroy
 destruct
+desultor
 detach
 detail
 detain
@@ -1383,6 +1403,7 @@ er
 eradicate
 eras
 ergonom
+erior
 erlang
 err
 errand
@@ -1973,6 +1994,7 @@ identif
 idiom
 idl
 idol
+ier
 ies
 ified
 ify
@@ -2164,6 +2186,7 @@ irrit
 is
 is
 ising
+ism
 iso
 isolat
 ison
@@ -2564,7 +2587,11 @@ nab
 nail
 naive
 nam
+nan
+nance
 nano
+nano
+nant
 narrat
 narrow
 nation
@@ -2728,6 +2755,7 @@ over
 overlap
 overrid
 own
+pac
 pack
 packag
 pad
@@ -2769,6 +2797,8 @@ patron
 patronag
 pattern
 paus
+pav
+pay
 peac
 peak
 peculiar
@@ -2873,6 +2903,7 @@ pocket
 pod
 podcast
 poem
+poi
 point
 polar
 polic
@@ -3612,6 +3643,7 @@ split
 spoil
 spoil
 spoke
+spond
 sponsor
 spontane
 spoof
@@ -4050,6 +4082,7 @@ trunk
 trust
 truth
 try
+tud
 tues
 tun
 tunel
@@ -4163,6 +4196,7 @@ ventur
 venue
 verb
 verbos
+verg
 veri
 verif
 verity
@@ -4216,6 +4250,7 @@ vouch
 vue
 vulgar
 vulner
+wad
 wait
 waiv
 wak
