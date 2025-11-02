@@ -56,7 +56,8 @@ def statistic(tokenizer_gpt: GPT2TokenizerFast):
         f"bos_token_id={tokenizer_gpt.bos_token_id},",
         f"eos_token_id={tokenizer_gpt.eos_token_id}",)
 
-def tokens_to_file(words: list):
+
+def tokens_to_file(words: list, outpath: str = outpath):
     with open(outpath, "w", encoding="utf-8") as f_out:
         for w in words:
             if w.find("-") < 0:
@@ -65,6 +66,33 @@ def tokens_to_file(words: list):
                 input_ids = input_ids[0]
 
                 f_out.write(f"{w}: {str(tokenizer_gpt.convert_ids_to_tokens(input_ids))}\n")
+
+
+def evaluate_to_file(words: list, outpath: str = outpath):
+    import tiktoken
+
+    model_name = "gpt-4o-mini" # o200k_base
+    model_name = "gpt-4o"   # o200k_base
+    model_name = "gpt-4"    # cl100k_base
+
+    # tiktoken.get_encoding("o200k_base")     # GPT-4o / GPT-4o-mini
+    # tiktoken.get_encoding("cl100k_base")    # GPT-3.5 / GPT-4
+    # tiktoken.get_encoding("p50k_base")      # Codex / старые GPT-3
+    # tiktoken.get_encoding("r50k_base")      # Очень старые GPT-3
+
+    # создаём энкодер для выбранной модели
+    enc = tiktoken.encoding_for_model(model_name)
+
+    with open(outpath, "w", encoding="utf-8") as f_out:
+        for w in words:
+            if "-" not in w:  # пропускаем слова с дефисом
+                # получаем ID токенов
+                token_ids = enc.encode(w)
+                # декодируем ID обратно в токены (строковые фрагменты)
+                tokens = [enc.decode([tid]) for tid in token_ids]
+
+                # записываем в файл
+                f_out.write(f"{w}: {tokens}\n")
 
 ##########################################################################################
 
@@ -117,4 +145,5 @@ if __name__ == '__main__':
     #     "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end extension recode")
 
     tokens_to_file(word_set)
+    #evaluate_to_file(word_set)
 
