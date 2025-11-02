@@ -203,6 +203,8 @@ answer
 antenn
 anti
 anticipat
+antonym
+anxiet
 anxious
 any
 apache
@@ -553,9 +555,13 @@ cas
 cascad
 case
 cast
+cat
+catal
 catalog
+catapult
 catch
 categor
+cater
 caught
 caus
 cautio
@@ -1252,6 +1258,8 @@ ember
 emblem
 embod
 embrac
+embrac
+embrocat
 emerg
 eminen
 emiss
@@ -2312,6 +2320,7 @@ mainten
 majest
 major
 mak
+mal
 male
 malic
 mama
@@ -3831,7 +3840,11 @@ token
 told
 tolera
 tolerat
+tomorrow
+ton
 tong
+tongue
+tonight
 too
 took
 tool

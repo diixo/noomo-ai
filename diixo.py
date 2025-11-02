@@ -337,8 +337,8 @@ diixo = [
     'original', 'originat', 'per', 'nab', 'lua', 'ltd', 'penur', 'iterat', 'introduc', 'perennial', 'perempt', 'imperat', 'imperativ',
     'defy', 'defi', 'deny', 'deni', 'dum', 'din', 'dim', 'tid', 'delid', 'ive', 'prod', 'wed', 'irrit', 'administrat', 'avow', 'sum',
     'ible', 'evit', 'commod', 'iron', 'irk', 'ibly', 'ities', 'ocul', 'cult', 'ence', 'pet', 'ize', 'iza', 'ilit', 'scept', 'sullen',
-
-    #'ous', 'ance', 'ble', 'ency', 'ial', 'ising',
+    'cat', 'cater', 'catal', 'catapult', 'ton', 'tonight', 'anxiet', 'embrocat', 'embrac', 'antonym', 'mal', 'tomorrow', 'tongue',
+    #'ous', 'ance', 'ble', 'ency', 'ial', 'ising', 'ent', 'ation', 'izing', 'maxim', 'minim', 'phob',
     #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
