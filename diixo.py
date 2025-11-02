@@ -342,7 +342,8 @@ diixo = [
     'ator', 'icity', 'dulat', 'stok', 'stol', 'spider', 'ating', 'ated', 'ates', 'cit', 'stiff', 'viv', 'vital', 'juven', 'ivity',
     'district', 'distro', 'olic', 'ist', 'tic', 'hum', 'con', '\'ll', '\'ve', '\'re', '\'d', '\'s', '\'m', 'aid', 'wet', 'wolf',
     'est', 'boom', 'closur', 'colab', 'bean', 'ely', 'acy', 'ary', 'fort', 'nest', 'ately', 'quis',
-    #'ium', 'een', 'ous', 'ily', 'olog', 'ric', 'ison', 'ies',
+    'ium', 'een', 'ous', 'ily', 'olog', 'ric', 'ison', 'ies', 'summar', 'ters',
+    # 'tri', 'phon', 'clud', 'mozil', 'icul', # 'oid', 'abil', 'bud'
     #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
