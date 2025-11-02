@@ -64,6 +64,7 @@ activat
 actual
 actuat
 acute
+acy
 ada
 adapt
 add
@@ -276,6 +277,7 @@ arti
 articl
 articulat
 artist
+ary
 as
 asap
 ascend
@@ -315,6 +317,7 @@ asymmetr
 asymptot
 async
 ated
+ately
 ates
 atic
 ating
@@ -388,6 +391,7 @@ battle
 bayes
 be
 beam
+bean
 bear
 beat
 beaut
@@ -468,6 +472,7 @@ bone
 bonus
 book
 bool
+boom
 boost
 boot
 border
@@ -656,6 +661,7 @@ clock
 clog
 clon
 clos
+closur
 cloth
 cloud
 club
@@ -681,6 +687,7 @@ coheren
 cohesi
 coin
 coincid
+colab
 cold
 collaborat
 collaps
@@ -1272,6 +1279,7 @@ else
 elucidat
 elud
 elusiv
+ely
 embark
 embarrass
 embed
@@ -1373,6 +1381,7 @@ escort
 especial
 essen
 essential
+est
 establish
 estate
 esteem
@@ -1624,6 +1633,7 @@ format
 formul
 formulat
 forswear
+fort
 forth
 fortif
 fortran
@@ -2540,6 +2550,7 @@ neighbo
 neither
 nerv
 ness
+nest
 net
 network
 neur
@@ -2981,6 +2992,7 @@ quick
 quiet
 quint
 quir
+quis
 quit
 quiz
 quot
