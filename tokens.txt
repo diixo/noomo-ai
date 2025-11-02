@@ -72,6 +72,7 @@ adjectiv
 adjoin
 adjust
 admin
+administrat
 admir
 admiss
 admit
@@ -333,6 +334,7 @@ avatar
 averag
 avert
 avoid
+avow
 awak
 award
 aware
@@ -686,6 +688,7 @@ commerc
 commiserat
 commiss
 commit
+commod
 common
 commun
 communic
@@ -892,6 +895,7 @@ cub
 cuda
 cull
 culminat
+cult
 cultivat
 cultur
 cumulat
@@ -966,6 +970,7 @@ defenc
 defend
 defens
 defer
+defi
 defic
 defin
 definit
@@ -974,6 +979,7 @@ deflect
 deform
 deft
 defus
+defy
 degrad
 degree
 delay
@@ -981,6 +987,7 @@ delegat
 delet
 deliberat
 delic
+delid
 delight
 deliver
 delphi
@@ -992,8 +999,10 @@ demodulat
 demolish
 demonstra
 demot
+deni
 dens
 densif
+deny
 depart
 department
 depend
@@ -1061,8 +1070,10 @@ dignit
 dilat
 diligen
 dilut
+dim
 dimens
 diminish
+din
 dinner
 diod
 dire
@@ -1169,6 +1180,7 @@ duc
 duck
 due
 dull
+dum
 dump
 duo
 dup
@@ -1349,6 +1361,7 @@ ever
 every
 evict
 eviden
+evit
 evok
 evolut
 evolv
@@ -1880,6 +1893,8 @@ hybrid
 hype
 hyper
 hypoth
+ible
+ibly
 ic
 icon
 idea
@@ -2068,6 +2083,9 @@ invocat
 invok
 involv
 ion
+irk
+iron
+irrit
 is
 is
 isolat
@@ -2077,7 +2095,9 @@ it
 item
 itera
 iterat
+ities
 ity
+ive
 jam
 january
 jasmin
@@ -2543,6 +2563,7 @@ occup
 occur
 octa
 october
+ocul
 odd
 oem
 of
@@ -2828,6 +2849,7 @@ process
 processor
 procrastinat
 procur
+prod
 produc
 profess
 profession
@@ -3603,6 +3625,7 @@ suffic
 suffix
 suggest
 suit
+sum
 summ
 summa
 summer
@@ -3780,6 +3803,7 @@ thus
 thwart
 tick
 ticket
+tid
 tier
 tight
 til
@@ -4070,6 +4094,7 @@ weak
 wear
 web
 webinar
+wed
 wedg
 week
 weigh
