@@ -1,6 +1,6 @@
 from tokenizers import Tokenizer
-from tokenizers.models import BPE
-from tokenizers.trainers import BpeTrainer
+from tokenizers.models import BPE, WordPiece
+from tokenizers.trainers import BpeTrainer, WordPieceTrainer
 from tokenizers.pre_tokenizers import Whitespace
 from tokenizers import normalizers
 from datasets import load_dataset
@@ -12,21 +12,24 @@ import re
 from pathlib import Path
 
 
-stopwords = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z",
-                 "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
-                 ".", ",", "!", "?", ";", ":", "'", "\"", "(", ")", "[", "]", "{", "}", "-", "_", "+", "=", "*", "&", "^", "%", "$", "#", "@", "~", "`",])
+stopwords = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m",
+                 "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z",
+                 "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
+                 "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
+                 ".", ",", "!", "?", ";", ":", "'", "\"", "(", ")", "[", "]", "{",
+                 "}", "-", "_", "+", "=", "*", "&", "^", "%", "$", "#", "@", "~", "`",])
 
 
 def read_embedded_dict() -> set:
     word_set = set()
 
-    path = Path("data/db-full-58788.txt")
+    path = Path("data/db-full-58816.txt")
     with path.open("r", encoding="utf-8") as f:
         word_list = [line.strip() for line in f if line.strip()]
 
         for w in word_list:
             if w not in word_set:
-                word_set.add(w)
+                word_set.add(w + " " + w)
             else:
                 print("###:", w)
 
@@ -76,11 +79,23 @@ dataset = list(read_embedded_dict())
 
 
 def train_tokenizer():
-    tokenizer = Tokenizer(BPE())
-    tokenizer.normalizer = normalizers.NFKC()
-    tokenizer.pre_tokenizer = Whitespace()
+    if True:
+        tokenizer = Tokenizer(WordPiece())
+        tokenizer.normalizer = normalizers.NFKC()
+        tokenizer.pre_tokenizer = Whitespace()
 
-    trainer = BpeTrainer(vocab_size=12_000, min_frequency=2)
+        trainer = WordPieceTrainer(
+            vocab_size=10_000,
+            min_frequency=2,
+            special_tokens=["[PAD]", "[UNK]", "[CLS]", "[SEP]", "[MASK]"]
+            )
+    else:
+        tokenizer = Tokenizer(BPE())
+        tokenizer.normalizer = normalizers.NFKC()
+        tokenizer.pre_tokenizer = Whitespace()
+
+        trainer = BpeTrainer(vocab_size=12_000, min_frequency=2)
+
     tokenizer.train_from_iterator(iter(dataset), trainer=trainer)
 
     vocab = tokenizer.get_vocab()
