@@ -341,9 +341,10 @@ diixo = [
     'ous', 'ance', 'ble', 'ency', 'ial', 'ising', 'ent', 'ation', 'izing', 'maxim', 'minim', 'phob', 'ably', 'adverb', 'ancest',
     'ator', 'icity', 'dulat', 'stok', 'stol', 'spider', 'ating', 'ated', 'ates', 'cit', 'stiff', 'viv', 'vital', 'juven', 'ivity',
     'district', 'distro', 'olic', 'ist', 'tic', 'hum', 'con', '\'ll', '\'ve', '\'re', '\'d', '\'s', '\'m', 'aid', 'wet', 'wolf',
-    'est', 'boom', 'closur', 'colab', 'bean', 'ely', 'acy', 'ary', 'fort', 'nest', 'ately', 'quis',
-    'ium', 'een', 'ous', 'ily', 'olog', 'ric', 'ison', 'ies', 'summar', 'ters',
-    'tri', 'phon', 'clud', 'mozil', 'icul', 'oid', 'abil', 'bud', 'sigm', 'integ', 'tang', 'tril', 'clus',
+    'est', 'boom', 'closur', 'colab', 'bean', 'ely', 'acy', 'ary', 'fort', 'nest', 'ately', 'quis', 'replay', 'spy', 'forecast',
+    'ium', 'een', 'ous', 'ily', 'olog', 'ric', 'ison', 'ies', 'summar', 'ters', 'iso', 'n\'t', 'some', 'ying', 'weather', 'worn',
+    'tri', 'phon', 'clud', 'mozil', 'icul', 'oid', 'abil', 'bud', 'sigm', 'integ', 'tang', 'tril', 'clus', 'spurt', 'alchem', 'ponder',
+    'sem', 'idl', 'unison', 'out', 'court', 'fog', 'throttl', 'uninstall', 'tues', #'rom', 'err', 'un',
     #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,

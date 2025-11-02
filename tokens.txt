@@ -131,6 +131,7 @@ al
 alack
 alacrit
 alarm
+alchem
 alert
 alex
 algebra
@@ -889,6 +890,7 @@ count
 coupl
 courag
 cours
+court
 couth
 cover
 covet
@@ -1604,6 +1606,7 @@ flux
 fly
 focal
 focus
+fog
 fold
 foll
 follow
@@ -1620,6 +1623,7 @@ forbid
 forc
 fore
 forebod
+forecast
 foresee
 forest
 foretell
@@ -1955,6 +1959,7 @@ ident
 identif
 identif
 idiom
+idl
 idol
 ies
 ified
@@ -2145,6 +2150,7 @@ irrit
 is
 is
 ising
+iso
 isolat
 ison
 issu
@@ -2537,6 +2543,7 @@ mvc
 mvp
 myster
 mystif
+n't
 nab
 nail
 naive
@@ -2695,6 +2702,7 @@ ought
 ous
 ous
 oust
+out
 outage
 outer
 outlast
@@ -2852,6 +2860,7 @@ polic
 polit
 poll
 poly
+ponder
 pool
 poor
 pop
@@ -3146,6 +3155,7 @@ repetit
 repl
 repla
 replac
+replay
 replenish
 replet
 replic
@@ -3347,6 +3357,7 @@ select
 self
 sell
 selv
+sem
 semantic
 semaphor
 sembl
@@ -3524,6 +3535,7 @@ solitar
 solution
 solv
 some
+some
 son
 song
 soon
@@ -3589,6 +3601,8 @@ spread
 spring
 sprinkl
 sprint
+spurt
+spy
 sql
 squar
 squeez
@@ -3884,6 +3898,7 @@ threw
 thrift
 thrill
 thriv
+throttl
 through
 throw
 thumb
@@ -4004,6 +4019,7 @@ trunk
 trust
 truth
 try
+tues
 tun
 tunel
 tunnel
@@ -4045,8 +4061,10 @@ unicorn
 unif
 unifi
 uniform
+uninstall
 union
 unique
+unison
 unit
 unity
 univers
@@ -4191,6 +4209,7 @@ way
 we
 weak
 wear
+weather
 web
 webinar
 wed
@@ -4261,6 +4280,7 @@ wor
 word
 work
 world
+worn
 worr
 wors
 worship
@@ -4286,6 +4306,7 @@ yellow
 yes
 yet
 yield
+ying
 you
 young
 your
