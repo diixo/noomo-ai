@@ -12,6 +12,8 @@ from pathlib import Path
 import json
 
 
+VOCAB_SZ = 12_032
+
 stopwords = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m",
                  "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z",
                  "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
@@ -20,7 +22,7 @@ stopwords = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
                  "}", "-", "_", "+", "=", "*", "&", "^", "%", "$", "#", "@", "~", "`",])
 
 
-def read_embedded_dict() -> set:
+def read_vocabulary() -> set:
     word_set = set()
 
     path = Path("data/db-full-58816.txt")
@@ -68,7 +70,7 @@ def read_datasets():
     return dataset
 
 
-dataset = list(read_embedded_dict())
+dataset = list(read_vocabulary())
 dataset += read_datasets()
 
 
@@ -79,7 +81,7 @@ def train_tokenizer():
         tokenizer.pre_tokenizer = Whitespace()
 
         trainer = WordPieceTrainer(
-            vocab_size=12_000,
+            vocab_size=VOCAB_SZ,
             min_frequency=1,
             special_tokens=["[PAD]", "[UNK]", "[CLS]", "[SEP]", "[MASK]"]
             )
@@ -88,7 +90,7 @@ def train_tokenizer():
         tokenizer.normalizer = normalizers.NFKC()
         tokenizer.pre_tokenizer = Whitespace()
 
-        trainer = BpeTrainer(vocab_size=12_000, min_frequency=2)
+        trainer = BpeTrainer(vocab_size=VOCAB_SZ, min_frequency=2)
 
     tokenizer.train_from_iterator(iter(dataset), trainer=trainer)
 
@@ -98,7 +100,7 @@ def train_tokenizer():
     for idx, token in enumerate(list(vocab.keys())):
         latin_tokens.append({"id": idx, "token": token})
 
-    with open("latin_tokens.json", "w", encoding="utf-8") as f:
+    with open("latin-tokens.json", "w", encoding="utf-8") as f:
         json.dump(latin_tokens, f, ensure_ascii=False, indent=2)
 
     return tokenizer
