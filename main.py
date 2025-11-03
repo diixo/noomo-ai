@@ -170,6 +170,6 @@ if __name__ == '__main__':
     # print_tokenization(
     #     "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end extension recode")
 
-    #tokens_to_file(word_set)
-    evaluate_to_file(word_set)
+    tokens_to_file(word_set)
+    #evaluate_to_file(word_set)
 
