@@ -27,7 +27,7 @@ print(gpt2.eos_token)        #
 print(gpt2.eos_token_id)     # 50256
 ####################################################################
 
-def read_datasets():
+def read_eli5():
     dataset = []
 
     chunk_df = pd.read_parquet("datasets/eli5/pair/train-00000-of-00001.parquet", columns=["question", "answer"])
@@ -95,7 +95,7 @@ def evaluate_tokenizer(tokenizer, texts):
 ################################################################
 
 dataset = list(read_vocabulary("data/db-full-58816.txt"))
-dataset += read_datasets()
+dataset += read_eli5()
 
 print(32 * "#")
 
