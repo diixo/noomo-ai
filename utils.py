@@ -64,7 +64,15 @@ def str_tokenize_words(s: str, stopwords = set()) -> list:
 
 
 def clean_text(text):
-    text = re.sub(r"[^a-zA-Z0-9\s.,!?;:'\"()-]", "", text)
+    """
+    Clears the text leaving only:
+    - latin (a-z, A-Z)
+    - digits (0-9)
+    - spaces and line breaks
+    - base punctuation: . , ! ? ; : ' " ( ) -
+    - additional symbols: [] {} <> @ # & + = * / % ^
+    """
+    text = re.sub(r"[^a-zA-Z0-9\s.,!?;:'\"()\[\]\{\}<>\-@#&+=*/%^]", "", text)
     return text
 
 

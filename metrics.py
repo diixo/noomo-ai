@@ -94,12 +94,12 @@ def evaluate_tokenizer(tokenizer, texts):
 
 ################################################################
 
+print(64 * "#")
+
 dataset = list(read_vocabulary("data/db-full-58816.txt"))
 dataset += read_eli5()
 # TODO: nmt-50m
 # TODO: arxiv-corpus
-
-print(32 * "#")
 
 tokenizer = train_tokenizer(dataset)
 
@@ -125,8 +125,13 @@ texts = [
     "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.",
     "ST-MoE: Designing Stable and Transferable Sparse Expert Models.",
     "was were has have had do does did go gone goes went see saw sees seen seeing run runs ran",
+    "ability: noun [Add to word list] - the physical or mental power or skill needed to do something:",
+    "There's no doubting her ability. [ + to infinitive ] She had the ability to explain things clearly and concisely.",
+    "She's a woman of considerable abilities.",
+    "I have children in my class of very mixed abilities (= different levels of skill or intelligence).",
+    "a mixed-ability class. Synonyms: capability (ABILITY)capacitypowers",
 ]
 
 for t in texts:
-    txt = " ".join(str_tokenize_words(t))
-    print(tokenizer.encode(txt).tokens)
+    #txt = " ".join(str_tokenize_words(t))
+    print(tokenizer.encode(t).tokens)
