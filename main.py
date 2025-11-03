@@ -69,7 +69,7 @@ def tokens_to_file(words: list, outpath: str = outpath):
                 f_out.write(f"{w}: {str(tokenizer_gpt.convert_ids_to_tokens(input_ids))}\n")
 
 
-def evaluate_to_file(words: list, outpath: str = outpath):
+def gpt_evaluate_to_file(words: list, outpath: str):
     import tiktoken
     import json
 
@@ -170,6 +170,7 @@ if __name__ == '__main__':
     # print_tokenization(
     #     "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end extension recode")
 
+
     tokens_to_file(word_set)
-    #evaluate_to_file(word_set)
+    #gpt_evaluate_to_file(word_set, outpath)
 
