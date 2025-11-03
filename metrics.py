@@ -96,6 +96,8 @@ def evaluate_tokenizer(tokenizer, texts):
 
 dataset = list(read_vocabulary("data/db-full-58816.txt"))
 dataset += read_eli5()
+# TODO: nmt-50m
+# TODO: arxiv-corpus
 
 print(32 * "#")
 
