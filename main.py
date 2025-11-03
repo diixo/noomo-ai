@@ -7,6 +7,7 @@ from tokenizers.pre_tokenizers import ByteLevel
 from tokenizers.trainers import BpeTrainer
 from transformers import PreTrainedTokenizerFast, GPT2TokenizerFast
 from diixo import diixo
+import re
 
 
 outpath = "data/output.txt"
@@ -70,29 +71,55 @@ def tokens_to_file(words: list, outpath: str = outpath):
 
 def evaluate_to_file(words: list, outpath: str = outpath):
     import tiktoken
+    import json
 
-    model_name = "gpt-4o-mini" # o200k_base
-    model_name = "gpt-4o"   # o200k_base
-    model_name = "gpt-4"    # cl100k_base
+    model_name = "gpt-4o-mini"  # o200k_base
+    model_name = "gpt-4o"       # o200k_base
+    model_name = "gpt-4"        # cl100k_base
 
     # tiktoken.get_encoding("o200k_base")     # GPT-4o / GPT-4o-mini
     # tiktoken.get_encoding("cl100k_base")    # GPT-3.5 / GPT-4
-    # tiktoken.get_encoding("p50k_base")      # Codex / старые GPT-3
-    # tiktoken.get_encoding("r50k_base")      # Очень старые GPT-3
+    # tiktoken.get_encoding("p50k_base")      # Codex / old GPT-3
+    # tiktoken.get_encoding("r50k_base")      # Old GPT-3
 
-    # создаём энкодер для выбранной модели
     enc = tiktoken.encoding_for_model(model_name)
 
     with open(outpath, "w", encoding="utf-8") as f_out:
         for w in words:
-            if "-" not in w:  # пропускаем слова с дефисом
-                # получаем ID токенов
+            if "-" not in w:  # skip words with hyphen 
                 token_ids = enc.encode(w)
-                # декодируем ID обратно в токены (строковые фрагменты)
+                # decode ID into string tokens (string subwords)
                 tokens = [enc.decode([tid]) for tid in token_ids]
 
-                # записываем в файл
                 f_out.write(f"{w}: {tokens}\n")
+
+
+    # Get the entire dictionary: {token_id: byte_string}
+    vocab = enc._mergeable_ranks
+
+    latin_tokens = []
+
+    # Regular: latin letters with space at the beginning (the same for GPT-tokens, like ' hello')
+    pattern = re.compile(r"^[A-Za-z' ]+$")
+
+    for token_bytes, token_id in vocab.items():
+        try:
+            token_str = token_bytes.decode("utf-8")
+        except UnicodeDecodeError:
+            continue  # skip byte fallback-tokens
+
+        if pattern.match(token_str):
+            #latin_tokens.append((token_id, token_str))
+            latin_tokens.append({
+                "id": token_id,
+                "token": token_str
+            })
+
+    with open("latin_tokens.json", "w", encoding="utf-8") as f:
+        json.dump(latin_tokens, f, ensure_ascii=False, indent=2)
+
+
+    print(f"Total latin tokens: {len(latin_tokens)}")
 
 ##########################################################################################
 
@@ -102,7 +129,6 @@ def print_tokenization(prompt: str):
     input_ids = input_ids["input_ids"]
     input_ids = input_ids[0]
 
-    #print(input_ids)
     print(tokenizer_gpt.convert_ids_to_tokens(input_ids))
     print(tokenizer_gpt.decode(
         input_ids,
@@ -144,6 +170,6 @@ if __name__ == '__main__':
     # print_tokenization(
     #     "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end extension recode")
 
-    tokens_to_file(word_set)
-    #evaluate_to_file(word_set)
+    #tokens_to_file(word_set)
+    evaluate_to_file(word_set)
 
