@@ -711,6 +711,7 @@ college
 collid
 collinear
 collis
+colloqui
 collud
 collung
 colon
@@ -1996,6 +1997,7 @@ idl
 idol
 ier
 ies
+ifi
 ified
 ify
 ight
@@ -3034,6 +3036,7 @@ proxim
 pruden
 prun
 pseudo
+ptr
 publ
 public
 publish
@@ -3073,6 +3076,7 @@ quint
 quir
 quis
 quit
+quiv
 quiz
 quot
 rac
@@ -3762,6 +3766,7 @@ stun
 stupid
 styl
 sub
+subdu
 subject
 submiss
 submit
@@ -3837,6 +3842,7 @@ switch
 swoop
 swung
 syllabl
+symbian
 symbol
 symmetr
 sympath
@@ -4053,6 +4059,7 @@ trap
 trash
 travel
 travers
+tray
 tread
 treasur
 treat
@@ -4111,6 +4118,7 @@ typo
 ubiquit
 ubuntu
 ugl
+ui
 uint
 ultimat
 ultra

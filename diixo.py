@@ -349,7 +349,7 @@ diixo = [
     'goes', 'does', 'bet', 'foreign', 'insid', 'odious', 'ten', 'tenabl', 'mirth', 'un', 'bred', 'sull', 'pay', 'pav', 'pac', 'nan', 'nano',
     'covenant', 'ier', 'ism', 'nant', 'nance', 'poi', 'verg', 'de', 'aptitud', 'altitud', 'attitud', 'attest', 'debian', 'def', 'deject',
     'delusion', 'demur', 'deplor', 'depot', 'despair', 'desperat', 'despatch', 'desultor', 'spond', 'despis', 'erior', 'demn', 'tud', 'ded',
-    'wad',
+    'wad', 'tray', 'ui', 'quiv', 'subdu', 'colloqui', 'ptr', 'ifi', 'symbian',
     #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
