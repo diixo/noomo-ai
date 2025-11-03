@@ -4,12 +4,12 @@ from tokenizers.trainers import BpeTrainer, WordPieceTrainer
 from tokenizers.pre_tokenizers import Whitespace
 from tokenizers import normalizers
 from datasets import load_dataset
-import numpy as np
 from transformers import GPT2Tokenizer
 import matplotlib.pyplot as plt
 import pandas as pd
 import re
 from pathlib import Path
+import json
 
 
 stopwords = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m",
@@ -57,12 +57,6 @@ print(gpt2.eos_token_id)     # 50256
 def read_datasets():
     dataset = []
 
-    # ds = load_dataset("eli5", split="train")
-    # for item in ds:
-    #     question = item["question"]
-    #     answer = item["answer"]
-    #     dataset.append(question + " " + answer)
-
     chunk_df = pd.read_parquet("datasets/eli5/pair/train-00000-of-00001.parquet", columns=["question", "answer"])
 
     for idx, row in chunk_df.iterrows():
@@ -75,7 +69,7 @@ def read_datasets():
 
 
 dataset = list(read_embedded_dict())
-#dataset += read_datasets()
+dataset += read_datasets()
 
 
 def train_tokenizer():
@@ -85,8 +79,8 @@ def train_tokenizer():
         tokenizer.pre_tokenizer = Whitespace()
 
         trainer = WordPieceTrainer(
-            vocab_size=10_000,
-            min_frequency=2,
+            vocab_size=12_000,
+            min_frequency=1,
             special_tokens=["[PAD]", "[UNK]", "[CLS]", "[SEP]", "[MASK]"]
             )
     else:
@@ -99,8 +93,13 @@ def train_tokenizer():
     tokenizer.train_from_iterator(iter(dataset), trainer=trainer)
 
     vocab = tokenizer.get_vocab()
-    for idx, token in enumerate(list(vocab.keys())[:20]):
-        print(f"{idx:5d} | {repr(token)}")
+
+    latin_tokens = []
+    for idx, token in enumerate(list(vocab.keys())):
+        latin_tokens.append({"id": idx, "token": token})
+
+    with open("latin_tokens.json", "w", encoding="utf-8") as f:
+        json.dump(latin_tokens, f, ensure_ascii=False, indent=2)
 
     return tokenizer
 
@@ -109,7 +108,6 @@ tokenizer = train_tokenizer()
 
 
 def evaluate_tokenizer(tokenizer, texts):
-
     n_tokens = 0
     n_words = 0
 
@@ -134,6 +132,7 @@ lengths = [len(t) for t in tokenizer.get_vocab().keys()]
 plt.hist(lengths, bins="auto")
 plt.title("Distribution of token lengths")
 plt.xlabel("Token Length")
+plt.ylabel("Count")
 plt.show()
 
 ##############################################################################
@@ -150,5 +149,5 @@ texts = [
 ]
 
 for t in texts:
-    txt = " ".join(str_tokenize_words(t, stopwords))
+    txt = " ".join(str_tokenize_words(t))
     print(tokenizer.encode(txt).tokens)
