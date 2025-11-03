@@ -103,9 +103,7 @@ def train_tokenizer():
 
     return tokenizer
 
-
-tokenizer = train_tokenizer()
-
+################################################################
 
 def evaluate_tokenizer(tokenizer, texts):
     n_tokens = 0
@@ -113,22 +111,28 @@ def evaluate_tokenizer(tokenizer, texts):
 
     for text in texts:
         words = str_tokenize_words(text, stopwords)
-        text = " ".join(words)
-        enc = tokenizer.encode(text)
-
-        n_tokens += len(enc.tokens)
         n_words += len(words)
+
+        text = " ".join(words)
+
+        enc = tokenizer.encode(text)
+        n_tokens += len(enc.tokens)
+        # enc = tokenizer(text, add_special_tokens=False)
+        # n_tokens += len(enc["input_ids"])
 
     w_compression = n_tokens / n_words
     return { "word_compression_ratio": w_compression }
 
+
 print(32 * "#")
+
+tokenizer = train_tokenizer()
 
 #metrics = evaluate_tokenizer(tokenizer, dataset[:1000])
 metrics = evaluate_tokenizer(tokenizer, dataset)
 print(metrics)
 
-lengths = [len(t) for t in tokenizer.get_vocab().keys()]
+lengths = [len(t.lstrip("#")) for t in tokenizer.get_vocab().keys()]
 plt.hist(lengths, bins="auto")
 plt.title("Distribution of token lengths")
 plt.xlabel("Token Length")
