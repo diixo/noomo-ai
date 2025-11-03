@@ -3,13 +3,11 @@ from tokenizers.models import BPE, WordPiece
 from tokenizers.trainers import BpeTrainer, WordPieceTrainer
 from tokenizers.pre_tokenizers import Whitespace
 from tokenizers import normalizers
-from datasets import load_dataset
 from transformers import GPT2Tokenizer
 import matplotlib.pyplot as plt
 import pandas as pd
-import re
-from pathlib import Path
 import json
+from utils import str_tokenize_words, clean_text, read_vocabulary
 
 
 VOCAB_SZ = 12_032
@@ -21,33 +19,6 @@ stopwords = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
                  ".", ",", "!", "?", ";", ":", "'", "\"", "(", ")", "[", "]", "{",
                  "}", "-", "_", "+", "=", "*", "&", "^", "%", "$", "#", "@", "~", "`",])
 
-
-def read_vocabulary() -> set:
-    word_set = set()
-
-    path = Path("data/db-full-58816.txt")
-    with path.open("r", encoding="utf-8") as f:
-        word_list = [line.strip() for line in f if line.strip()]
-
-        for w in word_list:
-            if w not in word_set:
-                word_set.add(w + " " + w)
-            else:
-                print("###:", w)
-
-    print(f"db-full.sz={len(word_set)}")
-    return word_set
-
-
-def str_tokenize_words(s: str, stopwords = set()) -> list:
-    words = re.findall("(\.?\w[\w'\.&-]*\w|\w\+*#?)", s)
-    if words: return [w for w in words if w not in stopwords]
-    return []
-
-
-def clean_text(text):
-    text = re.sub(r"[^a-zA-Z0-9\s.,!?;:'\"()-]", "", text)
-    return text
 
 ####################################################################
 gpt2 = GPT2Tokenizer.from_pretrained("gpt2")
@@ -70,11 +41,7 @@ def read_datasets():
     return dataset
 
 
-dataset = list(read_vocabulary())
-dataset += read_datasets()
-
-
-def train_tokenizer():
+def train_tokenizer(dataset: list):
     if True:
         tokenizer = Tokenizer(WordPiece())
         tokenizer.normalizer = normalizers.NFKC()
@@ -125,10 +92,14 @@ def evaluate_tokenizer(tokenizer, texts):
     w_compression = n_tokens / n_words
     return { "word_compression_ratio": w_compression }
 
+################################################################
+
+dataset = list(read_vocabulary("data/db-full-58816.txt"))
+dataset += read_datasets()
 
 print(32 * "#")
 
-tokenizer = train_tokenizer()
+tokenizer = train_tokenizer(dataset)
 
 #metrics = evaluate_tokenizer(tokenizer, dataset[:1000])
 metrics = evaluate_tokenizer(tokenizer, dataset)
@@ -141,7 +112,7 @@ plt.xlabel("Token Length")
 plt.ylabel("Count")
 plt.show()
 
-##############################################################################
+################################################################
 
 texts = [
     "Mixture-of-Experts with Expert Choice Routing",

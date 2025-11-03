@@ -2,6 +2,7 @@
 import tiktoken
 import json
 import re
+from pathlib import Path
 
 
 def gpt_evaluate_to_file(words: list, outpath: str):
@@ -53,3 +54,32 @@ def gpt_evaluate_to_file(words: list, outpath: str):
 
 
     print(f"Total latin tokens: {len(latin_tokens)}")
+
+################################################################
+
+def str_tokenize_words(s: str, stopwords = set()) -> list:
+    words = re.findall("(\.?\w[\w'\.&-]*\w|\w\+*#?)", s)
+    if words: return [w for w in words if w not in stopwords]
+    return []
+
+
+def clean_text(text):
+    text = re.sub(r"[^a-zA-Z0-9\s.,!?;:'\"()-]", "", text)
+    return text
+
+
+def read_vocabulary(file_path: str) -> set:
+    word_set = set()
+
+    path = Path(file_path)
+    with path.open("r", encoding="utf-8") as f:
+        word_list = [line.strip() for line in f if line.strip()]
+
+        for w in word_list:
+            if w not in word_set:
+                word_set.add(w + " " + w)
+            else:
+                print("###:", w)
+
+    print(f"db-full.sz={len(word_set)}")
+    return word_set
