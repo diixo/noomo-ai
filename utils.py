@@ -76,18 +76,31 @@ def clean_text(text):
     return text
 
 
-def read_vocabulary(file_path: str) -> set:
+def read_vocabulary(file_path: str, count: int = 5) -> set:
     word_set = set()
 
     path = Path(file_path)
     with path.open("r", encoding="utf-8") as f:
         word_list = [line.strip() for line in f if line.strip()]
 
-        for w in word_list:
-            if w not in word_set:
-                word_set.add(w + " " + w)
+        for word in word_list:
+            if word not in word_set:
+                word_set.add(" ".join([word for _ in range(count)]))
             else:
-                print("###:", w)
+                print("###:", word)
 
     print(f"db-full.sz={len(word_set)}")
     return word_set
+
+
+def read_jsonl(file_path: str) -> list:
+    text = []
+    with open(file_path, "r", encoding="utf-8") as f:
+
+        for line in f:
+            item = json.loads(line)
+            title = item["title"]
+            description = item["description"]
+            text.append(title + "\n" + description)
+
+    return text
