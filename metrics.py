@@ -3,7 +3,7 @@ from tokenizers.models import BPE, WordPiece
 from tokenizers.trainers import BpeTrainer, WordPieceTrainer
 from tokenizers.pre_tokenizers import Whitespace
 from tokenizers import normalizers
-from transformers import GPT2Tokenizer, PreTrainedTokenizerFast
+from transformers import GPT2Tokenizer, PreTrainedTokenizerFast, AutoTokenizer
 import matplotlib.pyplot as plt
 import pandas as pd
 import json
@@ -139,14 +139,16 @@ print(f"2.) sz={len(dataset)}")
 
 
 tokenizer = train_tokenizer(dataset)
+#tokenizer = AutoTokenizer.from_pretrained("gpt2")
+vocab = tokenizer.get_vocab()
 
 if False:
     metrics = evaluate_tokenizer(tokenizer, dataset)
     print(metrics)
 
-lengths = [len(t.lstrip("#")) for t in tokenizer.get_vocab().keys()]
+lengths = [len(t.lstrip("#").lstrip("Ġ")) for t in vocab.keys()]
 plt.hist(lengths, bins="auto")
-plt.title(f"Distribution of token lengths of vocab.sz={VOCAB_SZ}")
+plt.title(f"Distribution of token lengths of vocab.sz={len(vocab)}")
 plt.xlabel("Token Length")
 plt.ylabel("Count")
 plt.show()
