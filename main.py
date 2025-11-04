@@ -13,7 +13,7 @@ from utils import gpt_evaluate_to_file
 outpath = "data/output.txt"
 
 
-with open("data/db-full-58880.txt", "r", encoding="utf-8") as f:
+with open("data/db-full.txt", "r", encoding="utf-8") as f:
     word_set = set([line.strip() for line in f if line.strip()])
 
 word_set = sorted(word_set)
