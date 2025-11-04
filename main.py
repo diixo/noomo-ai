@@ -58,7 +58,7 @@ def statistic(tokenizer_gpt: GPT2TokenizerFast):
         f"eos_token_id={tokenizer_gpt.eos_token_id}",)
 
 
-def tokens_to_file(tokenizer, words: list, outpath: str = outpath):
+def tokens_to_file(tokenizer, words: list, outpath: str):
     with open(outpath, "w", encoding="utf-8") as f_out:
         for w in words:
             if w.find("-") < 0:
@@ -119,6 +119,6 @@ if __name__ == '__main__':
     #     "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end extension recode")
 
 
-    tokens_to_file(tokenizer_gpt, word_set)
+    tokens_to_file(tokenizer_gpt, word_set, outpath)
     #gpt_evaluate_to_file(word_set, outpath)
 
