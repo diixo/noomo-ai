@@ -321,6 +321,8 @@ asunder
 asymmetr
 asymptot
 async
+at
+ate
 ated
 ately
 ates
@@ -471,6 +473,7 @@ blue
 blund
 blunt
 blur
+bly
 board
 boast
 body
@@ -556,6 +559,7 @@ calendar
 calibrat
 call
 calm
+cam
 came
 camera
 camp
@@ -640,6 +644,7 @@ chose
 chrom
 chronologic
 chunk
+churn
 cipher
 circl
 circuit
@@ -718,6 +723,7 @@ colon
 color
 colour
 column
+com
 combat
 combin
 come
@@ -1305,6 +1311,7 @@ electron
 elegan
 element
 elevat
+eleven
 elicit
 eligib
 eliminat
@@ -1509,6 +1516,7 @@ exult
 eye
 fabl
 fabric
+fabul
 fac
 face
 facilit
@@ -1995,6 +2003,7 @@ identif
 idiom
 idl
 idol
+ied
 ier
 ies
 ifi
@@ -2232,6 +2241,8 @@ joy
 jpeg
 jpg
 jre
+js
+jscript
 json
 judg
 judic
@@ -2250,6 +2261,7 @@ jut
 juven
 jvm
 jwt
+kaggle
 kanban
 kde
 keen
@@ -2310,6 +2322,7 @@ layer
 layout
 laz
 lda
+le
 lead
 leaf
 leak
@@ -2612,6 +2625,7 @@ neglig
 negotiat
 neighbo
 neither
+neo
 nerv
 ness
 nest
@@ -2622,6 +2636,7 @@ neutral
 never
 new
 next
+nft
 ng
 nice
 night
@@ -2661,6 +2676,7 @@ null
 numb
 numer
 nurs
+nut
 obedien
 obey
 obfuscat
@@ -2766,9 +2782,11 @@ paid
 pain
 paint
 pair
+pal
 palette
 panel
 paper
+par
 para
 parabol
 parad
@@ -3057,6 +3075,7 @@ push
 put
 puzzl
 python
+qt
 quad
 quali
 quant
@@ -3109,6 +3128,7 @@ rat
 rather
 ratio
 rational
+rav
 ravel
 raw
 ray
@@ -3344,6 +3364,7 @@ samsung
 sang
 sanit
 sank
+sap
 satellit
 satisf
 satur
@@ -3509,6 +3530,7 @@ simplic
 simplif
 simulat
 simultaneous
+sin
 since
 sincere
 sing
@@ -4117,11 +4139,13 @@ typic
 typo
 ubiquit
 ubuntu
+ude
 ugl
 ui
 uint
 ultimat
 ultra
+uml
 un
 unar
 under
@@ -4154,7 +4178,9 @@ upon
 upped
 upper
 upset
+ur
 urban
+ure
 urg
 url
 url
@@ -4204,6 +4230,7 @@ ventur
 venue
 verb
 verbos
+verdict
 verg
 veri
 verif
