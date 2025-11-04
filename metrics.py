@@ -3,11 +3,11 @@ from tokenizers.models import BPE, WordPiece
 from tokenizers.trainers import BpeTrainer, WordPieceTrainer
 from tokenizers.pre_tokenizers import Whitespace
 from tokenizers import normalizers
-from transformers import GPT2Tokenizer
+from transformers import GPT2Tokenizer, PreTrainedTokenizerFast
 import matplotlib.pyplot as plt
 import pandas as pd
 import json
-from utils import str_tokenize_words, clean_text, read_vocabulary
+from utils import str_tokenize_words, clean_text, read_vocabulary, read_jsonl
 
 
 VOCAB_SZ = 12_032
@@ -18,6 +18,8 @@ stopwords = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
                  "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
                  ".", ",", "!", "?", ";", ":", "'", "\"", "(", ")", "[", "]", "{",
                  "}", "-", "_", "+", "=", "*", "&", "^", "%", "$", "#", "@", "~", "`",])
+
+ALPHABET = list("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,!?;:-'\"()[]{}")
 
 
 ####################################################################
@@ -41,16 +43,33 @@ def read_eli5():
     return dataset
 
 
-def train_tokenizer(dataset: list):
+def read_para_nmt_50m():
+    file_path = "datasets/para-nmt-50m/para-nmt-50m.txt"
+    text = []
+    with open(file_path, "r", encoding="utf-8") as f:
+        for line in f:
+            source, target, score = line.strip().split("\t")
+            text.append(source + " " + target)
+    return text
+
+
+def train_tokenizer(dataset: list, tokenizer_path: str = "train-product"):
+    import os
+    if os.path.exists(os.path.join(tokenizer_path, "tokenizer.json")):
+        print(f"!!! Tokenizer already exists at {tokenizer_path}, loading...")
+        fast_tokenizer = PreTrainedTokenizerFast.from_pretrained(tokenizer_path)
+        return fast_tokenizer
+
     if True:
         tokenizer = Tokenizer(WordPiece())
         tokenizer.normalizer = normalizers.NFKC()
         tokenizer.pre_tokenizer = Whitespace()
 
         trainer = WordPieceTrainer(
-            vocab_size=VOCAB_SZ,
-            min_frequency=1,
-            special_tokens=["[PAD]", "[UNK]", "[CLS]", "[SEP]", "[MASK]"]
+            vocab_size = VOCAB_SZ,
+            min_frequency = 1,
+            special_tokens = ["[SEP]", "[UNK]", "[PAD]", "[CLS]",],
+            initial_alphabet = ALPHABET
             )
     else:
         tokenizer = Tokenizer(BPE())
@@ -60,6 +79,16 @@ def train_tokenizer(dataset: list):
         trainer = BpeTrainer(vocab_size=VOCAB_SZ, min_frequency=2)
 
     tokenizer.train_from_iterator(iter(dataset), trainer=trainer)
+
+
+    fast_tokenizer = PreTrainedTokenizerFast(
+        tokenizer_object = tokenizer,
+        sep_token = "[SEP]",    # </s>
+        unk_token = "[UNK]",    # <unk>
+        pad_token = "[PAD]",    # <pad>
+        cls_token = "[CLS]",    # <s>
+    )
+    fast_tokenizer.save_pretrained(tokenizer_path)
 
     vocab = tokenizer.get_vocab()
 
@@ -96,16 +125,24 @@ def evaluate_tokenizer(tokenizer, texts):
 
 print(64 * "#")
 
-dataset = list(read_vocabulary("data/db-full-58816.txt"))
+
+dataset = list(read_vocabulary("data/db-full-58816.txt", count=20))
 dataset += read_eli5()
-# TODO: nmt-50m
-# TODO: arxiv-corpus
+print(f"1.) sz={len(dataset)}")
+
+dataset += read_jsonl("datasets/arxiv-corpus/arxiv_cs_2015_2020.jsonl")
+dataset += read_jsonl("datasets/arxiv-corpus/arxiv_cs_2021_2024.jsonl")
+print(f"2.) sz={len(dataset)}")
+
+#dataset += read_para_nmt_50m()
+#print(f"3.) sz={len(dataset)}")
+
 
 tokenizer = train_tokenizer(dataset)
 
-#metrics = evaluate_tokenizer(tokenizer, dataset[:1000])
-metrics = evaluate_tokenizer(tokenizer, dataset)
-print(metrics)
+if False:
+    metrics = evaluate_tokenizer(tokenizer, dataset)
+    print(metrics)
 
 lengths = [len(t.lstrip("#")) for t in tokenizer.get_vocab().keys()]
 plt.hist(lengths, bins="auto")
