@@ -317,7 +317,6 @@ animate
 animated
 animates
 anneal
-annealedannealing
 anneals
 annotate
 annotated
@@ -1176,7 +1175,6 @@ confuse
 confused
 confuses
 confusing
-congestedcongestion
 congrats
 congratulate
 congratulated
