@@ -99,7 +99,7 @@ def train_tokenizer(dataset: list, tokenizer_path: str = "train-product"):
     with open("latin-tokens.json", "w", encoding="utf-8") as f:
         json.dump(latin_tokens, f, ensure_ascii=False, indent=2)
 
-    return tokenizer
+    return fast_tokenizer
 
 ################################################################
 
@@ -113,8 +113,8 @@ def evaluate_tokenizer(tokenizer, texts):
 
         text = " ".join(words)
 
-        enc = tokenizer.encode(text)
-        n_tokens += len(enc.tokens)
+        enc = tokenizer.tokenize(text)
+        n_tokens += len(enc)
         # enc = tokenizer(text, add_special_tokens=False)
         # n_tokens += len(enc["input_ids"])
 
@@ -126,7 +126,7 @@ def evaluate_tokenizer(tokenizer, texts):
 print(64 * "#")
 
 
-dataset = list(read_vocabulary("data/db-full-58880.txt", count=20))
+dataset = list(read_vocabulary("data/db-full-58880.txt", count=5))
 dataset += read_eli5()
 print(f"1.) sz={len(dataset)}")
 
@@ -146,7 +146,7 @@ if False:
 
 lengths = [len(t.lstrip("#")) for t in tokenizer.get_vocab().keys()]
 plt.hist(lengths, bins="auto")
-plt.title("Distribution of token lengths")
+plt.title(f"Distribution of token lengths of vocab.sz={VOCAB_SZ}")
 plt.xlabel("Token Length")
 plt.ylabel("Count")
 plt.show()
@@ -171,4 +171,4 @@ texts = [
 
 for t in texts:
     #txt = " ".join(str_tokenize_words(t))
-    print(tokenizer.encode(t).tokens)
+    print(tokenizer.tokenize(t))
