@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import json
 from utils import str_tokenize_words, clean_text, read_vocabulary, read_jsonl
+from main import tokens_to_file
 
 
 VOCAB_SZ = 12_032
@@ -19,7 +20,7 @@ stopwords = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m"
                  ".", ",", "!", "?", ";", ":", "'", "\"", "(", ")", "[", "]", "{",
                  "}", "-", "_", "+", "=", "*", "&", "^", "%", "$", "#", "@", "~", "`",])
 
-ALPHABET = list("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,!?;:-'\"()[]{}")
+ALPHABET = list("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.,!?;:-+=*#_@$^&/'\"()[]{}")
 
 
 ####################################################################
@@ -127,12 +128,12 @@ print(64 * "#")
 
 
 dataset = list(read_vocabulary("data/db-full-58880.txt", count=5))
-dataset += read_eli5()
-print(f"1.) sz={len(dataset)}")
+# dataset += read_eli5()
+# print(f"1.) sz={len(dataset)}")
 
-dataset += read_jsonl("datasets/arxiv-corpus/arxiv_cs_2015_2020.jsonl")
-dataset += read_jsonl("datasets/arxiv-corpus/arxiv_cs_2021_2024.jsonl")
-print(f"2.) sz={len(dataset)}")
+# dataset += read_jsonl("datasets/arxiv-corpus/arxiv_cs_2015_2020.jsonl")
+# dataset += read_jsonl("datasets/arxiv-corpus/arxiv_cs_2021_2024.jsonl")
+# print(f"2.) sz={len(dataset)}")
 
 #dataset += read_para_nmt_50m()
 #print(f"3.) sz={len(dataset)}")
@@ -174,3 +175,8 @@ texts = [
 for t in texts:
     #txt = " ".join(str_tokenize_words(t))
     print(tokenizer.tokenize(t))
+
+tokens_to_file(
+    tokenizer,
+    sorted(read_vocabulary("data/db-full.txt", count=1)),
+    "data/output.txt")
