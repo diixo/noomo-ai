@@ -441,7 +441,19 @@
       "activat": 384,
       "action": 385,
       "acquisition": 386,
-      "##ible": 387
+      "##ible": 387,
+      "asm": 388,
+      "##asm": 389,
+      "__": 390,
+      "alarm": 391,
+      "alert": 392,
+      "align": 393,
+      "allegor": 394,
+      "algorithm": 395,
+      "algebra": 396,
+      "alphabet": 397,
+      "already": 398,
+      "yet": 399
     }
   }
 }
