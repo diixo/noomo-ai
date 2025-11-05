@@ -49,7 +49,7 @@ fast_tokenizer.save_pretrained(tokenizer_path)
 
 ##########################################################################################
 
-tokenizer_gpt = GPT2TokenizerFast.from_pretrained("my_wordpiece_tokenizer", local_files_only=True)
+tokenizer_gpt = GPT2TokenizerFast.from_pretrained(tokenizer_path, local_files_only=True)
 
 def statistic(tokenizer_gpt: GPT2TokenizerFast):
     print(f"tokenizer_gpt.config: vocab.sz={len(tokenizer_gpt.get_vocab())},",
