@@ -1,0 +1,109 @@
+{
+  "version": "1.0",
+  "truncation": null,
+  "padding": null,
+  "added_tokens": [
+    {
+      "id": 0,
+      "content": "[PAD]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 1,
+      "content": "[UNK]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 2,
+      "content": "[CLS]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 3,
+      "content": "[SEP]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    }
+  ],
+  "normalizer": {
+    "type": "NFKC"
+  },
+  "pre_tokenizer": {
+    "type": "Whitespace"
+  },
+  "post_processor": null,
+  "decoder": null,
+  "model": {
+    "type": "WordPiece",
+    "unk_token": "[UNK]",
+    "continuing_subword_prefix": "##",
+    "max_input_chars_per_word": 100,
+    "vocab": {
+      "[PAD]": 0,
+      "[UNK]": 1,
+      "[CLS]": 2,
+      "[SEP]": 3,
+      "a": 4,
+      "c": 5,
+      "d": 6,
+      "e": 7,
+      "f": 8,
+      "g": 9,
+      "i": 10,
+      "k": 11,
+      "l": 12,
+      "m": 13,
+      "n": 14,
+      "o": 15,
+      "p": 16,
+      "r": 17,
+      "s": 18,
+      "t": 19,
+      "u": 20,
+      "y": 21,
+      "##u": 22,
+      "##n": 23,
+      "##l": 24,
+      "##a": 25,
+      "##y": 26,
+      "##i": 27,
+      "##g": 28,
+      "##e": 29,
+      "##d": 30,
+      "##o": 31,
+      "##t": 32,
+      "##s": 33,
+      "##r": 34,
+      "##k": 35,
+      "##m": 36,
+      "##ng": 37,
+      "##ing": 38,
+      "ar": 39,
+      "ca": 40,
+      "do": 41,
+      "pl": 42,
+      "ru": 43,
+      "##ay": 44,
+      "are": 45,
+      "cat": 46,
+      "play": 47,
+      "run": 48,
+      "fr": 49
+    }
+  }
+}
