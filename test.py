@@ -2,6 +2,7 @@ from tokenizers import Tokenizer, normalizers, pre_tokenizers
 from tokenizers.models import WordPiece
 from tokenizers.trainers import WordPieceTrainer
 from transformers import PreTrainedTokenizerFast
+from utils import read_vocabulary
 
 
 save_path = "my_wordpiece_tokenizer"
@@ -58,3 +59,21 @@ print(tokenizer.tokenize("I'll playing so-so now"))
 
 print("\nTokenize phrase: 'the cats are running':")
 print(tokenizer.tokenize("the cats are running"))
+
+
+def tokens_to_file(tokenizer, words: list, outpath: str):
+    with open(outpath, "w", encoding="utf-8") as f_out:
+        for w in words:
+            if w.find("-") < 0:
+                input_ids = tokenizer(w, add_special_tokens=False, padding=False, return_tensors="np")
+                input_ids = input_ids["input_ids"]
+                input_ids = input_ids[0]
+
+                f_out.write(f"{w}: {str(tokenizer.convert_ids_to_tokens(input_ids))}\n")
+
+
+tokens_to_file(
+    tokenizer,
+    sorted(read_vocabulary("data/db-full.txt", count=1)),
+    save_path + "/output.txt")
+
