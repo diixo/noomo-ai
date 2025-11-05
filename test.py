@@ -48,13 +48,13 @@ tokenizer = PreTrainedTokenizerFast.from_pretrained(save_path)
 
 # 3️⃣ Проверим словарь — должны появиться токены с '##'
 vocab = tokenizer.get_vocab()
-for token in sorted(vocab.keys()):
-    if token.startswith("##"):
-        print(token)
+# for token in sorted(vocab.keys()):
+#     if token.startswith("##"):
+#         print(token)
 
 # 4️⃣ Проверим, как токенизируется слово
 print("\nTokenize word: 'playing':")
-print(tokenizer.tokenize("I'm playing now"))
+print(tokenizer.tokenize("I'll playing so-so now"))
 
 print("\nTokenize phrase: 'the cats are running':")
 print(tokenizer.tokenize("the cats are running"))
