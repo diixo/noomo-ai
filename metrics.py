@@ -127,7 +127,7 @@ def evaluate_tokenizer(tokenizer, texts):
 print(64 * "#")
 
 
-dataset = list(read_vocabulary("data/db-full-58880.txt", count=5))
+dataset = list(read_vocabulary("data/db-full-58880.txt", count=1))
 # dataset += read_eli5()
 # print(f"1.) sz={len(dataset)}")
 
