@@ -127,13 +127,13 @@ def evaluate_tokenizer(tokenizer, texts):
 print(64 * "#")
 
 
-dataset = list(read_vocabulary("data/db-full-58880.txt", count=1))
-# dataset += read_eli5()
-# print(f"1.) sz={len(dataset)}")
+dataset = list(read_vocabulary("data/db-full-58880.txt", count=5))
+dataset += read_eli5()
+print(f"1.) sz={len(dataset)}")
 
-# dataset += read_jsonl("datasets/arxiv-corpus/arxiv_cs_2015_2020.jsonl")
-# dataset += read_jsonl("datasets/arxiv-corpus/arxiv_cs_2021_2024.jsonl")
-# print(f"2.) sz={len(dataset)}")
+dataset += read_jsonl("datasets/arxiv-corpus/arxiv_cs_2015_2020.jsonl")
+dataset += read_jsonl("datasets/arxiv-corpus/arxiv_cs_2021_2024.jsonl")
+print(f"2.) sz={len(dataset)}")
 
 #dataset += read_para_nmt_50m()
 #print(f"3.) sz={len(dataset)}")
@@ -176,7 +176,7 @@ for t in texts:
     #txt = " ".join(str_tokenize_words(t))
     print(tokenizer.tokenize(t))
 
-tokens_to_file(
-    tokenizer,
-    sorted(read_vocabulary("data/db-full.txt", count=1)),
-    "data/output.txt")
+# tokens_to_file(
+#     tokenizer,
+#     sorted(read_vocabulary("data/db-full.txt", count=1)),
+#     "data/output.txt")
