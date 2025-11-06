@@ -132,6 +132,6 @@ if __name__ == '__main__':
 
 
     tokens_to_file(tokenizer_gpt, word_set[SLICE:], outpath)    # 81349
-    tokens_to_file(gpt2, word_set[SLICE:], outpath_gpt2)        # 69300
+    #tokens_to_file(gpt2, word_set[SLICE:], outpath_gpt2)        # 69300
     #gpt_evaluate_to_file(word_set, outpath)
 

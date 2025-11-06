@@ -11,6 +11,7 @@ COM
 Mark
 NET
 Net
+ab
 abandon
 abat
 abbreviat
@@ -22,6 +23,7 @@ ability
 ablat
 able
 ably
+aboard
 aboli
 abomina
 abort
@@ -2261,6 +2263,10 @@ ize
 ized
 izes
 izing
+jab
+jack
+jacket
+jail
 jam
 january
 jasmin
@@ -3429,6 +3435,7 @@ run
 rush
 rust
 saas
+sack
 sad
 saf
 safar
@@ -3456,6 +3463,7 @@ sawn
 say
 scal
 scalar
+scam
 scan
 scap
 scar
