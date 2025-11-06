@@ -3288,6 +3288,7 @@ Cemetery
 Censor
 Censored
 Censoring
+Censors
 Censorship
 Censure
 Cent
@@ -13621,7 +13622,6 @@ Mash
 MashUp
 Mashup
 Mask
-MaskEd
 Masked
 Masking
 Masks
@@ -29964,6 +29964,7 @@ cemetery
 censor
 censored
 censoring
+censors
 censorship
 censure
 censured
@@ -33848,7 +33849,6 @@ digitalization
 digitalized
 digitally
 digitals
-digitaltransformation
 digitise
 digitised
 digitises
