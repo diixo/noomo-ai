@@ -222,7 +222,7 @@ diixo = [
     'arti', 'ficial', 'art', 'artist', 'quarter', 'earth', 'carv', 'cart', 'thwart', 'arrogan', 'cascad', 'apart', 'revis',
     'quarrel', 'quaternion', 'quant', 'queer', 'queen', 'thunk', 'nail', 'apache', 'bird', 'reprehen', 'apartment',
     'revisit', 'scar', 'care', 'carr', 'architect', 'archiv', 'arbit', 'arch', 'margin', 'marginal', 'area', 'scatter', 'hedron',
-    'vanish', 'car', 'arduino', 'api', 'valu', 'vector', 'eight', 'for', 'app', 'apposit', 'entrap', 'dream', 'dron', 'drill',
+    'vanish', 'car', 'arduino', 'api', 'valu', 'value', 'vector', 'eight', 'for', 'app', 'apposit', 'entrap', 'dream', 'dron', 'drill',
     'octa', 'dub', 'dress', 'driv', 'drink', 'talk', 'tall', 'drag', 'engross', 'entitl', 'eradicate', 'litera', 'obliterat',
     'plac', 'display', 'plain', 'planar', 'plan', 'plane', 'planet', 'complacen', 'bulk', 'buch', 'buy', 'calm', 'off', 'take',
     'tak', 'tag', 'tailor', 'tail', 'oust', 'one', 'noone', 'honest', 'noone', 'demot', 'curtail', 'bone', 'demo', 'cone',
@@ -351,7 +351,7 @@ diixo = [
     'delusion', 'demur', 'deplor', 'depot', 'despair', 'desperat', 'despatch', 'desultor', 'spond', 'despis', 'erior', 'demn', 'tud', 'ded',
     'wad', 'tray', 'ui', 'quiv', 'subdu', 'colloqui', 'ptr', 'ifi', 'symbian', 'com', 'neo', 'rav', 'sin', 'uml', 'ied', 'ude', 'ate',
     'fabul', 'at', 'bly', 'pal', 'sap', 'js', 'jscript', 'nut', 'nft', 'ure', 'cam', 'verdict', 'le', 'eleven', 'kaggle', 'par', 'qt', 'ur',
-    'churn', 'teen', 'inces', 'inbox', 'toward', 'lot', 'uri', 'structur', 'textur', 'e.g', 'tfidf', 'tpu', 'success',
+    'churn', 'teen', 'inces', 'inbox', 'toward', 'lot', 'uri', 'structur', 'textur', 'e.g', 'tfidf', 'tpu', 'success', 'valuat', 'upend',
     #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
