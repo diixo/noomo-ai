@@ -382,10 +382,14 @@ def create_tmp_tokens():
 
                 result.add(word)
 
+#########################################################################
+# used for cased vocab=58880 adaptation.
+diixo_2 = []
+
 
 if __name__ == '__main__':
 
-    vocab = sorted(diixo)
+    vocab = sorted(diixo + diixo_2)
 
     print(f"sz={len(vocab)}")
 

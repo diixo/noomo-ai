@@ -6,7 +6,7 @@ from tokenizers.normalizers import Sequence, Lowercase
 from tokenizers.pre_tokenizers import ByteLevel
 from tokenizers.trainers import BpeTrainer
 from transformers import PreTrainedTokenizerFast, GPT2TokenizerFast
-from diixo import diixo
+from diixo import diixo, diixo_2
 from utils import gpt_evaluate_to_file
 
 
@@ -41,7 +41,7 @@ trainer = BpeTrainer(
 
 tokenizer.train([], trainer)
 
-tokenizer.add_tokens(diixo)
+tokenizer.add_tokens(diixo + diixo_2)
 
 fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object = tokenizer,
