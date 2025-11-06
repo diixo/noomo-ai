@@ -354,7 +354,9 @@ diixo = [
     'churn', 'teen', 'inces', 'inbox', 'toward', 'lot', 'uri', 'structur', 'textur', 'e.g', 'tfidf', 'tpu', 'success', 'valuat', 'upend',
     'up', 'deduplicat', 'trod', 'wit', 'trojan', 'vanilla', 'var', 'fathom', 'vex', 'vec', 'veto', 'nous', 'suse', 'rabbit', 'que', 'pique',
     'wink', 'oton', 'onic', 'prem', 'ply', 'rate', 'royal', 'rpm', 'shield', 'shimmer', 'shun', 'sib', 'ilant', 'str', 'lubric', 'muslim',
-    'ization', 'ized', 'snub', 'snuff', 'snugg', 'soak', 'birth',
+    'ization', 'ized', 'snub', 'snuff', 'snugg', 'soak', 'birth', 'eps', 'ery', 'int', 'th', 'skat', 'marine', 'ater', 'atre', 'har',
+    'croak', 'crook', 'izes', 'ps', 'weep', 'weapon', 'wealth', 'ethic', 'treach', 'tint', 'thy', 'sweat', 'ened', 'bolt', 'throat',
+    'mine', 'slump', 'vapor', # 'ise', 'ised', 'ises',
 
     ]
 

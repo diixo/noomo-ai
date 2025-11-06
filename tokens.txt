@@ -331,6 +331,7 @@ at
 ate
 ated
 ately
+ater
 ates
 atic
 ating
@@ -341,6 +342,7 @@ atmo
 atom
 aton
 ator
+atre
 attach
 attack
 attain
@@ -486,6 +488,7 @@ boast
 body
 boil
 bold
+bolt
 bond
 bone
 bonus
@@ -937,7 +940,9 @@ critic
 critique
 crm
 croach
+croak
 cron
+crook
 crop
 cross
 crowd
@@ -1362,6 +1367,7 @@ end
 endeavo
 endors
 endur
+ened
 enem
 energ
 enforc
@@ -1410,6 +1416,7 @@ epic
 epilog
 episod
 epoch
+eps
 equal
 equaliz
 equat
@@ -1427,6 +1434,7 @@ errand
 errant
 erroneous
 error
+ery
 es
 escalat
 escap
@@ -1442,6 +1450,7 @@ estima
 etc
 etern
 ether
+ethic
 euclid
 euler
 euro
@@ -1895,6 +1904,7 @@ hang
 happ
 happen
 hapt
+har
 hard
 harm
 harmon
@@ -2156,6 +2166,7 @@ instrument
 insuff
 insult
 insur
+int
 integ
 integr
 intel
@@ -2230,6 +2241,7 @@ iza
 ization
 ize
 ized
+izes
 izing
 jam
 january
@@ -2465,6 +2477,7 @@ map
 march
 margin
 marginal
+marine
 mark
 market
 marr
@@ -2536,6 +2549,7 @@ milli
 million
 mimic
 mind
+mine
 mini
 miniatur
 minif
@@ -3077,6 +3091,7 @@ prox
 proxim
 pruden
 prun
+ps
 pseudo
 ptr
 publ
@@ -3580,6 +3595,7 @@ situat
 six
 siz
 size
+skat
 skeleton
 skept
 sketch
@@ -3611,6 +3627,7 @@ slot
 slow
 slugg
 slumber
+slump
 slung
 sly
 smack
@@ -3894,6 +3911,7 @@ svn
 swap
 sway
 swear
+sweat
 sweep
 sweet
 swell
@@ -3988,6 +4006,7 @@ tether
 text
 textur
 tfidf
+th
 than
 thank
 that
@@ -4032,6 +4051,7 @@ threw
 thrift
 thrill
 thriv
+throat
 throttl
 through
 throw
@@ -4040,6 +4060,7 @@ thunder
 thunk
 thus
 thwart
+thy
 tic
 tick
 ticket
@@ -4053,6 +4074,7 @@ tim
 time
 timid
 tinker
+tint
 tiny
 tion
 tip
@@ -4128,6 +4150,7 @@ trash
 travel
 travers
 tray
+treach
 tread
 treasur
 treat
@@ -4264,6 +4287,7 @@ value
 vanilla
 vanish
 vanit
+vapor
 var
 variab
 variabl
@@ -4368,6 +4392,8 @@ wav
 way
 we
 weak
+wealth
+weapon
 wear
 weather
 web
@@ -4375,6 +4401,7 @@ webinar
 wed
 wedg
 week
+weep
 weigh
 weight
 weird
