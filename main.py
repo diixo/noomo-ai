@@ -10,7 +10,7 @@ from diixo import diixo
 from utils import gpt_evaluate_to_file
 
 
-outpath = "data/output.txt"
+outpath = "data/output-cased.txt"
 
 
 with open("data/db-full-58880.txt", "r", encoding="utf-8") as f:
