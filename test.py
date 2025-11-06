@@ -3,48 +3,55 @@ from tokenizers.models import WordPiece
 from tokenizers.trainers import WordPieceTrainer
 from transformers import PreTrainedTokenizerFast
 from utils import read_vocabulary
+from tokenizers.models import BPE
+from tokenizers import Tokenizer
+from tokenizers.decoders import ByteLevel as ByteLevelDecoder
+from tokenizers.pre_tokenizers import ByteLevel
+from tokenizers.trainers import BpeTrainer
 
 
 save_path = "my_wordpiece_tokenizer"
 
-# 1️⃣ Создаём токенизатор с WordPiece моделью
-# tokenizer = Tokenizer(WordPiece(unk_token="[UNK]"))
-# tokenizer.normalizer = normalizers.NFKC()
-# tokenizer.pre_tokenizer = pre_tokenizers.Whitespace()
+tokenizer = Tokenizer(BPE())
+#tokenizer.normalizer = Sequence([Lowercase()])
+tokenizer.pre_tokenizer = ByteLevel()
+tokenizer.decoder = ByteLevelDecoder()
 
-# # 2️⃣ Обучаем на примерах
-# trainer = WordPieceTrainer(
-#     vocab_size=50,
-#     min_frequency=1,
-#     special_tokens=["[PAD]", "[UNK]", "[CLS]", "[SEP]"]
-# )
+trainer = BpeTrainer(
+    vocab_size=50000,
+    initial_alphabet=ByteLevel.alphabet(),
+    min_frequency=1,
+    special_tokens=["<s>", "</s>", "<unk>"]
+    )
 
 # Обучающий корпус
-# texts = [
-#     "playing played plays play",
-#     "run runner running runs",
-#     "talking talked talks",
-#     "cats cat cat cat dog dogs",
-#     "are are are are from from from",
-#     "do doing go going"
-# ]
+texts = [
+    "playing played plays play",
+    "run runner running runs",
+    "talking talked talks",
+    "cat cat cat dog dogs",
+    "are are are are from from from",
+    "the the the do doing go going so so so the now"
+    "the with with with",
+]
 
-# tokenizer.train_from_iterator(texts, trainer)
+tokenizer.train_from_iterator(texts, trainer)
 
-# fast_tokenizer = PreTrainedTokenizerFast(
-#     tokenizer_object=tokenizer,
-#     unk_token="[UNK]",
-#     pad_token="[PAD]",
-#     cls_token="[CLS]",
-#     sep_token="[SEP]"
-# )
-# fast_tokenizer.save_pretrained(save_path)
+fast_tokenizer = PreTrainedTokenizerFast(
+    tokenizer_object=tokenizer,
+    unk_token="[UNK]",
+    pad_token="[PAD]",
+    cls_token="[CLS]",
+    sep_token="[SEP]"
+)
+
+#fast_tokenizer.save_pretrained("my_bpe_tokenizer")
+
 
 # print("\n✅ Токенизатор сохранён в:", save_path)
 
 # --- 3️⃣ Загружаем обратно ---
 tokenizer = PreTrainedTokenizerFast.from_pretrained(save_path)
-
 
 
 # 3️⃣ Проверим словарь — должны появиться токены с '##'
@@ -55,10 +62,10 @@ vocab = tokenizer.get_vocab()
 
 # 4️⃣ Проверим, как токенизируется слово
 print("\nTokenize word: 'playing':")
-print(tokenizer.tokenize("I'll playing so-so now"))
+print(fast_tokenizer.tokenize("I'll playing so-so now with belingcat"))
 
 print("\nTokenize phrase: 'the cats are running':")
-print(tokenizer.tokenize("the cats are running"))
+print(fast_tokenizer.tokenize("the cats are running ing"))
 
 
 def tokens_to_file(tokenizer, words: list, outpath: str):
@@ -72,8 +79,8 @@ def tokens_to_file(tokenizer, words: list, outpath: str):
                 f_out.write(f"{w}: {str(tokenizer.convert_ids_to_tokens(input_ids))}\n")
 
 
-tokens_to_file(
-    tokenizer,
-    sorted(read_vocabulary("data/db-full.txt", count=1)),
-    save_path + "/output.txt")
+# tokens_to_file(
+#     tokenizer,
+#     sorted(read_vocabulary("data/db-full.txt", count=1)),
+#     save_path + "/output.txt")
 
