@@ -353,17 +353,9 @@ diixo = [
     'fabul', 'at', 'bly', 'pal', 'sap', 'js', 'jscript', 'nut', 'nft', 'ure', 'cam', 'verdict', 'le', 'eleven', 'kaggle', 'par', 'qt', 'ur',
     'churn', 'teen', 'inces', 'inbox', 'toward', 'lot', 'uri', 'structur', 'textur', 'e.g', 'tfidf', 'tpu', 'success', 'valuat', 'upend',
     'up', 'deduplicat', 'trod', 'wit', 'trojan', 'vanilla', 'var', 'fathom', 'vex', 'vec', 'veto', 'nous', 'suse', 'rabbit', 'que', 'pique',
-    'wink',
-    #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
-    # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
-    #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
-    #'out', 'our', 'mon', lin lif liv pace
-    #'emplace',
-    # er?, gence, gance, que, marathon fulltime
-    # 'summar', 'summat',
-    #repo, rand,
-    #act, bas, log,
-    #url, exe, ecut, net, non, sum, go, act, add, app, plac, tun,
+    'wink', 'oton', 'onic', 'prem', 'ply', 'rate', 'royal', 'rpm', 'shield', 'shimmer', 'shun', 'sib', 'ilant', 'str', 'lubric', 'muslim',
+    'ization', 'ized', 'snub', 'snuff', 'snugg', 'soak', 'birth',
+
     ]
 
 
@@ -384,7 +376,7 @@ def create_tmp_tokens():
 
 #########################################################################
 # used for cased vocab=58880 adaptation.
-diixo_2 = []
+diixo_2 = ['Mark', 'NET', 'COM', '2D', '3D', 'Net',]
 
 
 if __name__ == '__main__':

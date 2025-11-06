@@ -125,6 +125,6 @@ if __name__ == '__main__':
 
 
     tokens_to_file(tokenizer_gpt, word_set, outpath)
-    tokens_to_file(gpt2, word_set, outpath_gpt2)
+    #tokens_to_file(gpt2, word_set, outpath_gpt2)
     #gpt_evaluate_to_file(word_set, outpath)
 
