@@ -29785,7 +29785,7 @@
       "special": false
     },
     "3979": {
-      "content": "fatig",
+      "content": "fatigu",
       "lstrip": false,
       "normalized": true,
       "rstrip": false,
@@ -35186,6 +35186,94 @@
     },
     "4654": {
       "content": "vanilla",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4655": {
+      "content": "var",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4656": {
+      "content": "fathom",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4657": {
+      "content": "vex",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4658": {
+      "content": "vec",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4659": {
+      "content": "veto",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4660": {
+      "content": "nous",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4661": {
+      "content": "suse",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4662": {
+      "content": "rabbit",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4663": {
+      "content": "que",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4664": {
+      "content": "pique",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4665": {
+      "content": "wink",
       "lstrip": false,
       "normalized": true,
       "rstrip": false,

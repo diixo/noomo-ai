@@ -304,7 +304,7 @@ diixo = [
     'rgb', 'ridd', 'revenue', 'request', 'repl', 'fri', 'grip', 'horribl', 'horror', 'hybrid', 'husband', 'hype', 'repla',
     'replenish', 'reput', 'reputa', 'rigid', 'star', 'pursu', 'receipt', 'tamper', 'tam', 'tap', 'sue', 'steal', 'stale', 'stare',
     'groov', 'recaptur', 'opt', 'oracle', 'dbms', 'rust', 'sail', 'said', 'scrum', 'tripl', 'theorem', 'lace', 'enough',
-    'solace', 'guest', 'gui', 'sold', 'software', 'solely', 'solemn', 'fatig', 'fat', 'fanc', 'fan', 'entrust', 'enum', 'enumer',
+    'solace', 'guest', 'gui', 'sold', 'software', 'solely', 'solemn', 'fatigu', 'fat', 'fanc', 'fan', 'entrust', 'enum', 'enumer',
     'envi', 'envision', 'extravagan', 'flight', 'ftp', 'glue', 'glitch', 'impersonat', 'quiz', 'raw', 'ray', 'gcc', 'gave',
     'forfeit', 'hail', 'halt', 'hamper', 'guilt', 'hackathon', 'harsh', 'impair', 'flux', 'gnu', 'lie', 'licentious', 'gpt',
     'gpu', 'cpu', 'gps', 'mvp', 'mvc', 'optimiz', 'optimal', 'lstm', 'cbow', 'deput', 'decorat', 'bonus', 'bond', 'condemn',
@@ -352,7 +352,8 @@ diixo = [
     'wad', 'tray', 'ui', 'quiv', 'subdu', 'colloqui', 'ptr', 'ifi', 'symbian', 'com', 'neo', 'rav', 'sin', 'uml', 'ied', 'ude', 'ate',
     'fabul', 'at', 'bly', 'pal', 'sap', 'js', 'jscript', 'nut', 'nft', 'ure', 'cam', 'verdict', 'le', 'eleven', 'kaggle', 'par', 'qt', 'ur',
     'churn', 'teen', 'inces', 'inbox', 'toward', 'lot', 'uri', 'structur', 'textur', 'e.g', 'tfidf', 'tpu', 'success', 'valuat', 'upend',
-    'up', 'deduplicat', 'trod', 'wit', 'trojan', 'vanilla',
+    'up', 'deduplicat', 'trod', 'wit', 'trojan', 'vanilla', 'var', 'fathom', 'vex', 'vec', 'veto', 'nous', 'suse', 'rabbit', 'que', 'pique',
+    'wink',
     #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,

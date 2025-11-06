@@ -1552,7 +1552,8 @@ fastidious
 fat
 fatal
 father
-fatig
+fathom
+fatigu
 fault
 favo
 fear
@@ -2673,6 +2674,7 @@ notorious
 nought
 noun
 nourish
+nous
 novel
 november
 novic
@@ -2896,6 +2898,7 @@ pioneer
 pip
 pipe
 pipeline
+pique
 pit
 pitch
 pivot
@@ -3088,6 +3091,7 @@ quantif
 quarrel
 quarter
 quaternion
+que
 queen
 queer
 quer
@@ -3103,6 +3107,7 @@ quit
 quiv
 quiz
 quot
+rabbit
 rac
 rad
 radiat
@@ -3848,6 +3853,7 @@ surrogate
 surround
 surve
 surviv
+suse
 suspect
 suspend
 suspens
@@ -4230,6 +4236,7 @@ value
 vanilla
 vanish
 vanit
+var
 variab
 variabl
 variad
@@ -4242,6 +4249,7 @@ various
 vary
 vast
 vaunt
+vec
 vector
 vehicl
 vendor
@@ -4262,6 +4270,8 @@ versus
 vertex
 vertic
 very
+veto
+vex
 vexat
 vga
 vgg
@@ -4380,6 +4390,7 @@ willing
 win
 wind
 window
+wink
 winter
 wip
 wire
