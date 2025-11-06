@@ -14,6 +14,8 @@ outpath = "data/output-cased.txt"
 
 outpath_gpt2 = "data/output-gpt2.txt"
 
+SLICE = 26079
+
 
 gpt2 = AutoTokenizer.from_pretrained("gpt2", use_fast=True)
 
@@ -64,14 +66,19 @@ def statistic(tokenizer_gpt: GPT2TokenizerFast):
 
 
 def tokens_to_file(tokenizer, words: list, outpath: str):
+    ids_count = 0
+    word_count = 0
     with open(outpath, "w", encoding="utf-8") as f_out:
         for w in words:
             if w.find("-") < 0:
                 input_ids = tokenizer(w, add_special_tokens=False, padding=False, return_tensors="np")
                 input_ids = input_ids["input_ids"]
                 input_ids = input_ids[0]
+                ids_count += len(input_ids)
+                word_count += 1
 
                 f_out.write(f"{w}: {str(tokenizer.convert_ids_to_tokens(input_ids))}\n")
+    print(f"word_compression_ratio: {ids_count/word_count:6f} (idx={ids_count}, words={word_count})")
 
 
 ##########################################################################################
@@ -124,7 +131,7 @@ if __name__ == '__main__':
     #     "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end extension recode")
 
 
-    tokens_to_file(tokenizer_gpt, word_set, outpath)
-    #tokens_to_file(gpt2, word_set, outpath_gpt2)
+    tokens_to_file(tokenizer_gpt, word_set[SLICE:], outpath)    # 81349
+    tokens_to_file(gpt2, word_set[SLICE:], outpath_gpt2)        # 69300
     #gpt_evaluate_to_file(word_set, outpath)
 

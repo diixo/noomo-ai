@@ -1310,6 +1310,7 @@ edge
 edit
 educat
 een
+ees
 effect
 effic
 efficien
@@ -2892,6 +2893,7 @@ pedia
 peek
 peep
 peer
+peev
 pen
 penal
 pencil
@@ -4357,6 +4359,8 @@ versus
 vertex
 vertic
 very
+vest
+vet
 veto
 vex
 vexat
