@@ -59,7 +59,7 @@ diixo = [
     'vehicl', 'variad', 'vindic', 'judic', 'benefic', 'choic', 'combin', 'energ', 'intric', 'justic', 'particl', 'predica', 'profic',
     'radic', 'robust', 'modal', 'thing', 'cloth', 'breath', 'smooth', 'sooth', 'serv', 'reserv', 'observ', 'server', 'user', 'squar',
     #'pick', 'kick', 'sick', 'slic', 'wick', 'uni', 'mnemo', 'nice', 'nich',
-    'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici', 'contact', 'synt', 'silicon', 'icon', 'respon',
+    'portion', 'calcul', 'synth', 'simpl', 'suppl', 'tact', 'tactic', 'vict', 'vici', 'contact', 'synt', 'silicon', 'icon', 'respond', 'respons',
     'conduct', 'semi', 'seminat', 'matrix', 'matric', 'data', 'meta', 'wiki', 'manag', 'grid', 'link', 'blink', 'loop', 'media', 'resolv',
     'swear', 'googl', 'forswear', 'rich', 'acquir', 'enquir', 'inquir', 'acquit', 'equit', 'equip', 'oblig', 'obliquity', 'equat', 'adequat',
     'check', 'defin', 'script', 'friend', 'reque', 'scop', 'frequen', 'infra', 'shell', 'sheet', 'action', 'activ', 'diffus', 'satisf',
@@ -343,7 +343,7 @@ diixo = [
     'district', 'distro', 'olic', 'ist', 'tic', 'hum', 'con', '\'ll', '\'ve', '\'re', '\'d', '\'s', '\'m', 'aid', 'wet', 'wolf',
     'est', 'boom', 'closur', 'colab', 'bean', 'ely', 'acy', 'ary', 'fort', 'nest', 'ately', 'quis', 'replay', 'spy', 'forecast',
     'ium', 'een', 'ous', 'ily', 'olog', 'ric', 'ison', 'ies', 'summar', 'ters', 'iso', 'n\'t', 'some', 'ying', 'weather', 'worn',
-    'tri', 'phon', 'clud', 'mozil', 'icul', 'oid', 'abil', 'bud', 'sigm', 'integ', 'tang', 'tril', 'clus', 'spurt', 'alchem', 'ponder',
+    'tri', 'phon', 'clud', 'mozill', 'icul', 'oid', 'abil', 'bud', 'sigm', 'integ', 'tang', 'tril', 'clus', 'spurt', 'alchem', 'ponder',
     'sem', 'idl', 'unison', 'out', 'court', 'fog', 'throttl', 'uninstall', 'tues', 'rom', 'err', 'ter', 'bid', 'polish', 'totter', 'yesterday',
     'paramet', 'perpetual', 'merr', 'gone', 'done', 'ious', 'precipitat', 'precipic', 'preci', 'doing', 'going', 'spuri', 'spurn', 'arcad',
     'goes', 'does', 'bet', 'foreign', 'insid', 'odious', 'ten', 'tenabl', 'mirth', 'un', 'bred', 'sull', 'pay', 'pav', 'pac', 'nan', 'nano',
@@ -356,7 +356,9 @@ diixo = [
     'wink', 'oton', 'onic', 'prem', 'ply', 'rate', 'royal', 'rpm', 'shield', 'shimmer', 'shun', 'sib', 'ilant', 'str', 'lubric', 'muslim',
     'ization', 'ized', 'snub', 'snuff', 'snugg', 'soak', 'birth', 'eps', 'ery', 'int', 'th', 'skat', 'marine', 'ater', 'atre', 'har',
     'croak', 'crook', 'izes', 'ps', 'weep', 'weapon', 'wealth', 'ethic', 'treach', 'tint', 'thy', 'sweat', 'ened', 'bolt', 'throat',
-    'mine', 'slump', 'vapor', # 'ise', 'ised', 'ises',
+    'mine', 'slump', 'vapor', 'ise', 'ised', 'ises', 'mow', 'mouth', 'mpeg', 'cup', 'laund', 'odor', 'smear', 'iest', 'iness', 'steak',
+    'toss', 'ish', 'ers', 'bed', 'bee', 'beaver', 'beast', 'gay', 'gear', 'moss', 'motel', 'ics', 'gun', 'gum', 'kiss', 'knee', 'knit',
+    'ory', 'ories', 'lemon', 'lest',
 
     ]
 
