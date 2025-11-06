@@ -21337,7 +21337,7 @@
       "special": false
     },
     "2923": {
-      "content": "endeav",
+      "content": "endeavo",
       "lstrip": false,
       "normalized": true,
       "rstrip": false,
@@ -35018,6 +35018,102 @@
     },
     "4633": {
       "content": "churn",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4634": {
+      "content": "teen",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4635": {
+      "content": "inces",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4636": {
+      "content": "inbox",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4637": {
+      "content": "toward",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4638": {
+      "content": "lot",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4639": {
+      "content": "uri",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4640": {
+      "content": "structur",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4641": {
+      "content": "textur",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4642": {
+      "content": "e.g",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4643": {
+      "content": "tfidf",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4644": {
+      "content": "tpu",
+      "lstrip": false,
+      "normalized": true,
+      "rstrip": false,
+      "single_word": false,
+      "special": false
+    },
+    "4645": {
+      "content": "success",
       "lstrip": false,
       "normalized": true,
       "rstrip": false,

@@ -1270,6 +1270,7 @@ dut
 dwel
 dwindl
 dynam
+e.g
 each
 eager
 ear
@@ -1350,7 +1351,7 @@ enchant
 encumb
 ency
 end
-endeav
+endeavo
 endors
 endur
 enem
@@ -2055,8 +2056,10 @@ impuls
 impur
 imput
 inaugurat
+inbox
 incent
 incept
+inces
 inch
 incident
 incit
@@ -2400,6 +2403,7 @@ loom
 loop
 loose
 los
+lot
 loud
 lov
 low
@@ -3775,6 +3779,7 @@ strok
 strong
 strov
 struct
+structur
 struggl
 stub
 stuck
@@ -3801,6 +3806,7 @@ substitut
 subtl
 subtract
 succe
+success
 succinct
 such
 sudden
@@ -3912,6 +3918,7 @@ tech
 techni
 technolog
 tedious
+teen
 tele
 tell
 temp
@@ -3944,6 +3951,8 @@ test
 testimon
 tether
 text
+textur
+tfidf
 than
 thank
 that
@@ -4041,7 +4050,9 @@ tough
 tour
 tournament
 tout
+toward
 town
+tpu
 trac
 track
 tract
@@ -4182,6 +4193,7 @@ ur
 urban
 ure
 urg
+uri
 url
 url
 us

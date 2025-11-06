@@ -228,7 +228,7 @@ diixo = [
     'tak', 'tag', 'tailor', 'tail', 'oust', 'one', 'noone', 'honest', 'noone', 'demot', 'curtail', 'bone', 'demo', 'cone',
     'honour', 'postpon', 'patron', 'cursor', 'demolish', 'pump', 'snip', 'punct', 'long', 'sniff', 'punish', 'pupil', 'mongo',
     'humour', 'journal', 'journ', 'pour', 'humbl', 'park', 'rumour', 'pin', 'joy', 'scal', 'scalar', 'sys', 'much',
-    'inaugurat', 'mon', 'favo', 'endeav', 'labo', 'laborator', 'collaborat', 'lab', 'lack', 'cold', 'fus', 'scold', 'idiom', 'axiom',
+    'inaugurat', 'mon', 'favo', 'endeavo', 'labo', 'laborator', 'collaborat', 'lab', 'lack', 'cold', 'fus', 'scold', 'idiom', 'axiom',
     'matur', 'matter', 'premier', 'four', 'splend', 'stair', 'chair', 'http', 'url', 'html', 'aim', 'air', 'conspir', 'fortif',
     'fac', 'tun', 'treat', 'cris', 'attribut', 'attract', 'intuit', 'intrusiv', 'inur', 'couth', 'fragil', 'aghast', 'outer',
     'agil', 'outrage', 'lonel', 'clog', 'relish', 'littl', 'ugl', 'benefit', 'fad', 'bent', 'bend', 'bereav', 'bereft', 'fit', 'sorry',
@@ -351,7 +351,7 @@ diixo = [
     'delusion', 'demur', 'deplor', 'depot', 'despair', 'desperat', 'despatch', 'desultor', 'spond', 'despis', 'erior', 'demn', 'tud', 'ded',
     'wad', 'tray', 'ui', 'quiv', 'subdu', 'colloqui', 'ptr', 'ifi', 'symbian', 'com', 'neo', 'rav', 'sin', 'uml', 'ied', 'ude', 'ate',
     'fabul', 'at', 'bly', 'pal', 'sap', 'js', 'jscript', 'nut', 'nft', 'ure', 'cam', 'verdict', 'le', 'eleven', 'kaggle', 'par', 'qt', 'ur',
-    'churn',
+    'churn', 'teen', 'inces', 'inbox', 'toward', 'lot', 'uri', 'structur', 'textur', 'e.g', 'tfidf', 'tpu', 'success',
     #'sit', worfklow, retargatable, disc, at, ace, lumin++, croach++, cry++, in, out, servicedesk, autodesk
     # rat, tri, son, perma-link neura-link euclid tip bi- , hit,
     #'ling', #'lin', # 'gap', 'eag', 'tim' ring,
@@ -363,6 +363,22 @@ diixo = [
     #act, bas, log,
     #url, exe, ecut, net, non, sum, go, act, add, app, plac, tun,
     ]
+
+
+def create_tmp_tokens():
+    vocab = sorted(diixo)
+
+    print(f"sz={len(vocab)}")
+
+    result = set()
+
+    with open("tokens.txt", "w", encoding="utf-8") as f_out:
+        for idx, word in enumerate(vocab):
+            if len(word) == 4 and word[0] != "a" and (word not in result):
+                #f_out.write(f"{word}\n")
+                f_out.write(f"\"{word}\": {len(result) + 3072},\n")
+
+                result.add(word)
 
 
 if __name__ == '__main__':
