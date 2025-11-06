@@ -39694,14 +39694,7 @@
       "special": false
     }
   ],
-  "normalizer": {
-    "type": "Sequence",
-    "normalizers": [
-      {
-        "type": "Lowercase"
-      }
-    ]
-  },
+  "normalizer": null,
   "pre_tokenizer": {
     "type": "ByteLevel",
     "add_prefix_space": false,

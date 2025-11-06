@@ -23,7 +23,7 @@ count = len(word_set)
 tokenizer_path  = "noomo"
 
 tokenizer = Tokenizer(BPE())
-tokenizer.normalizer = Sequence([Lowercase()])
+#tokenizer.normalizer = Sequence([Lowercase()])
 tokenizer.pre_tokenizer = ByteLevel()
 tokenizer.decoder = ByteLevelDecoder()
 
