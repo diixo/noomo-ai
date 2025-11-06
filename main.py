@@ -1,4 +1,4 @@
-
+from transformers import AutoTokenizer
 from tokenizers.models import BPE
 from tokenizers import Tokenizer
 from tokenizers.decoders import ByteLevel as ByteLevelDecoder
@@ -11,6 +11,11 @@ from utils import gpt_evaluate_to_file
 
 
 outpath = "data/output-cased.txt"
+
+outpath_gpt2 = "data/output-gpt2.txt"
+
+
+gpt2 = AutoTokenizer.from_pretrained("gpt2", use_fast=True)
 
 
 with open("data/db-full-58880.txt", "r", encoding="utf-8") as f:
@@ -120,5 +125,6 @@ if __name__ == '__main__':
 
 
     tokens_to_file(tokenizer_gpt, word_set, outpath)
+    tokens_to_file(gpt2, word_set, outpath_gpt2)
     #gpt_evaluate_to_file(word_set, outpath)
 
