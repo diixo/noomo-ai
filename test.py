@@ -10,7 +10,7 @@ from tokenizers.pre_tokenizers import ByteLevel
 from tokenizers.trainers import BpeTrainer
 
 
-save_path = "my_wordpiece_tokenizer"
+save_path = "my_bpe_tokenizer"
 
 tokenizer = Tokenizer(BPE())
 #tokenizer.normalizer = Sequence([Lowercase()])
@@ -18,7 +18,7 @@ tokenizer.pre_tokenizer = ByteLevel()
 tokenizer.decoder = ByteLevelDecoder()
 
 trainer = BpeTrainer(
-    vocab_size=50000,
+    vocab_size=10_914,  # idx=263749 on 58880
     initial_alphabet=ByteLevel.alphabet(),
     min_frequency=1,
     special_tokens=["<s>", "</s>", "<unk>"]
@@ -39,13 +39,12 @@ tokenizer.train_from_iterator(texts, trainer)
 
 fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object=tokenizer,
-    unk_token="[UNK]",
-    pad_token="[PAD]",
-    cls_token="[CLS]",
-    sep_token="[SEP]"
+    bos_token = "<s>",
+    eos_token = "</s>",
+    unk_token = "<unk>"
 )
 
-#fast_tokenizer.save_pretrained("my_bpe_tokenizer")
+#fast_tokenizer.save_pretrained(my_bpe_tokenizer)
 
 
 # print("\n✅ Токенизатор сохранён в:", save_path)
@@ -68,15 +67,14 @@ print("\nTokenize phrase: 'the cats are running':")
 print(fast_tokenizer.tokenize("the cats are running ing"))
 
 
-def tokens_to_file(tokenizer, words: list, outpath: str):
-    with open(outpath, "w", encoding="utf-8") as f_out:
-        for w in words:
-            if w.find("-") < 0:
-                input_ids = tokenizer(w, add_special_tokens=False, padding=False, return_tensors="np")
-                input_ids = input_ids["input_ids"]
-                input_ids = input_ids[0]
-
-                f_out.write(f"{w}: {str(tokenizer.convert_ids_to_tokens(input_ids))}\n")
+# def tokens_to_file(tokenizer, words: list, outpath: str):
+#     with open(outpath, "w", encoding="utf-8") as f_out:
+#         for w in words:
+#             if w.find("-") < 0:
+#                 input_ids = tokenizer(w, add_special_tokens=False, padding=False, return_tensors="np")
+#                 input_ids = input_ids["input_ids"]
+#                 input_ids = input_ids[0]
+#                 f_out.write(f"{w}: {str(tokenizer.convert_ids_to_tokens(input_ids))}\n")
 
 
 # tokens_to_file(
