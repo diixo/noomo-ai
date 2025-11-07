@@ -201,6 +201,7 @@ analys
 analytic
 analyz
 ance
+ances
 ancest
 anchor
 ancient
@@ -277,6 +278,7 @@ area
 argu
 argument
 aris
+arist
 arithmet
 arm
 around
@@ -315,6 +317,7 @@ assess
 asset
 assid
 assign
+assimilat
 assist
 associat
 assort
@@ -707,6 +710,7 @@ cmos
 cms
 cnn
 coach
+coars
 coaxial
 cobol
 cocoa
@@ -981,6 +985,7 @@ current
 cursor
 curtail
 curv
+cuss
 custom
 cut
 cyber
@@ -1246,6 +1251,7 @@ doth
 doubl
 doubt
 down
+dozen
 draft
 drag
 drain
@@ -1365,6 +1371,7 @@ empir
 employ
 empt
 emulat
+en
 enabl
 encapsulat
 ence
@@ -1378,6 +1385,7 @@ endur
 ened
 enem
 energ
+eness
 enforc
 engag
 engine
@@ -1449,6 +1457,7 @@ escalat
 escap
 escort
 especial
+ess
 essen
 essential
 est
@@ -1601,8 +1610,10 @@ female
 femin
 fenc
 fend
+fess
 festiv
 fetch
+fetish
 few
 ficat
 ficial
@@ -1900,6 +1911,8 @@ guest
 gui
 guid
 guilt
+guitar
+gull
 gum
 gun
 habit
@@ -1971,6 +1984,7 @@ him
 hinder
 hindranc
 hint
+hip
 hir
 his
 hist
@@ -2090,6 +2104,7 @@ impuden
 impuls
 impur
 imput
+inal
 inaugurat
 inbox
 incent
@@ -2230,6 +2245,7 @@ invocat
 invok
 involv
 ion
+ions
 ious
 irk
 iron
@@ -2767,6 +2783,8 @@ occasion
 occlud
 occup
 occur
+ocracy
+ocratic
 octa
 october
 ocul
@@ -3305,6 +3323,7 @@ remiss
 remonstra
 remot
 remov
+rence
 render
 renovat
 rent

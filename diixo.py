@@ -359,7 +359,8 @@ diixo = [
     'mine', 'slump', 'vapor', 'ise', 'ised', 'ises', 'mow', 'mouth', 'mpeg', 'cup', 'laund', 'odor', 'smear', 'iest', 'iness', 'steak',
     'toss', 'ish', 'ers', 'bed', 'bee', 'beaver', 'beast', 'gay', 'gear', 'moss', 'motel', 'ics', 'gun', 'gum', 'kiss', 'knee', 'knit',
     'ory', 'ories', 'lemon', 'lest', 'ees', 'peev', 'vet', 'vest', 'ab', 'aboard', 'jack', 'jacket', 'jab', 'jail', 'sack', 'scam',
-    #'red', 'rence', 'inal',
+    'rence', 'inal', 'fess', 'fetish', 'hip', 'en', 'ess', 'eness', 'cuss', 'coars', 'arist', 'ocracy', 'ocratic', 'gull', 'guitar',
+    'ances', 'assimilat', 'dozen', 'ions', # rupt, rupted, ner
 
     ]
 
