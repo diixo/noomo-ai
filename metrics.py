@@ -5,9 +5,8 @@ from tokenizers.pre_tokenizers import Whitespace
 from tokenizers import normalizers
 from transformers import GPT2Tokenizer, PreTrainedTokenizerFast, AutoTokenizer
 import matplotlib.pyplot as plt
-import pandas as pd
 import json
-from utils import str_tokenize_words, clean_text, read_vocabulary, read_jsonl
+from utils import str_tokenize_words, clean_text, read_vocabulary, read_jsonl, read_eli5
 from main import tokens_to_file
 
 
@@ -31,19 +30,6 @@ print(gpt2.vocab_size)       # 50257
 print(gpt2.eos_token)        # 
 print(gpt2.eos_token_id)     # 50256
 ####################################################################
-
-def read_eli5():
-    dataset = []
-
-    chunk_df = pd.read_parquet("datasets/eli5/pair/train-00000-of-00001.parquet", columns=["question", "answer"])
-
-    for idx, row in chunk_df.iterrows():
-        question = row["question"]
-        answer = row["answer"]
-        if (idx + 1) % 1000 == 0:
-            print(f"...items={idx}")
-        dataset.append(clean_text(question + " " + answer))
-    return dataset
 
 
 def read_para_nmt_50m():

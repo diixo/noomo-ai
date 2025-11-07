@@ -3,6 +3,7 @@ import tiktoken
 import json
 import re
 from pathlib import Path
+import pandas as pd
 
 
 def gpt_evaluate_to_file(words: list, outpath: str):
@@ -104,3 +105,17 @@ def read_jsonl(file_path: str) -> list:
             text.append(title + "\n" + description)
 
     return text
+
+
+def read_eli5():
+    dataset = []
+
+    chunk_df = pd.read_parquet("datasets/eli5/pair/train-00000-of-00001.parquet", columns=["question", "answer"])
+
+    for idx, row in chunk_df.iterrows():
+        question = row["question"]
+        answer = row["answer"]
+        if (idx + 1) % 1000 == 0:
+            print(f"...items={idx}")
+        dataset.append(clean_text(question + " " + answer))
+    return dataset
