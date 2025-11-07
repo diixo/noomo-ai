@@ -119,3 +119,30 @@ def read_eli5():
             print(f"...items={idx}")
         dataset.append(clean_text(question + " " + answer))
     return dataset
+
+
+def tokens_to_file(tokenizer, words: list, outpath: str):
+    ids_count = 0
+    word_count = 0
+    with open(outpath, "w", encoding="utf-8") as f_out:
+        for w in words:
+            if w.find("-") < 0:
+                input_ids = tokenizer(w, add_special_tokens=False, padding=False, return_tensors="np")
+                input_ids = input_ids["input_ids"]
+                input_ids = input_ids[0]
+                ids_count += len(input_ids)
+                word_count += 1
+
+                f_out.write(f"{w}: {str(tokenizer.convert_ids_to_tokens(input_ids))}\n")
+##############################
+    ids_count = 0
+    vocab = set()
+    for w in words:
+        input_ids = tokenizer(w, add_special_tokens=False, padding=False, return_tensors="np")
+        input_ids = input_ids["input_ids"]
+        input_ids = input_ids[0]
+        ids_count += len(input_ids)
+        tokens = tokenizer.convert_ids_to_tokens(input_ids)
+        vocab.update([t for t in tokens if len(t.lstrip('Ġ')) > 1])
+
+    print(f"word_compression_ratio: {ids_count/len(words):6f} (idx={ids_count}, words={len(words)}), tokens_vocab.sz={len(vocab)}")

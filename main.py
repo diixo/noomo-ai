@@ -7,20 +7,20 @@ from tokenizers.pre_tokenizers import ByteLevel
 from tokenizers.trainers import BpeTrainer
 from transformers import PreTrainedTokenizerFast, GPT2TokenizerFast
 from diixo import diixo, diixo_2
-from utils import gpt_evaluate_to_file
+from utils import gpt_evaluate_to_file, tokens_to_file
 
 
 outpath = "data/output-cased.txt"
 
 outpath_gpt2 = "data/output-gpt2.txt"
 
-SLICE = 26079
+SLICE = 26086
 
 
 gpt2 = AutoTokenizer.from_pretrained("gpt2", use_fast=True)
 
 
-with open("data/db-full-58880.txt", "r", encoding="utf-8") as f:
+with open("data/db-full-58900.txt", "r", encoding="utf-8") as f:
     word_set = set([line.strip() for line in f if line.strip()])
 
 word_set = sorted(word_set)
@@ -63,34 +63,6 @@ def statistic(tokenizer_gpt: GPT2TokenizerFast):
         f"pad_token_id={tokenizer_gpt.pad_token_id},",
         f"bos_token_id={tokenizer_gpt.bos_token_id},",
         f"eos_token_id={tokenizer_gpt.eos_token_id}",)
-
-
-def tokens_to_file(tokenizer, words: list, outpath: str):
-    ids_count = 0
-    word_count = 0
-    vocab = set()
-    with open(outpath, "w", encoding="utf-8") as f_out:
-        for w in words:
-            if w.find("-") < 0:
-                input_ids = tokenizer(w, add_special_tokens=False, padding=False, return_tensors="np")
-                input_ids = input_ids["input_ids"]
-                input_ids = input_ids[0]
-                ids_count += len(input_ids)
-                vocab.update(tokenizer.convert_ids_to_tokens(input_ids))
-                word_count += 1
-
-                f_out.write(f"{w}: {str(tokenizer.convert_ids_to_tokens(input_ids))}\n")
-##############################
-    ids_count = 0
-    vocab = set()
-    for w in words:
-        input_ids = tokenizer(w, add_special_tokens=False, padding=False, return_tensors="np")
-        input_ids = input_ids["input_ids"]
-        input_ids = input_ids[0]
-        ids_count += len(input_ids)
-        vocab.update(tokenizer.convert_ids_to_tokens(input_ids))
-
-    print(f"word_compression_ratio: {ids_count/len(words):6f} (idx={ids_count}, words={len(words)}), tokens_vocab.sz={len(vocab)}")
 
 
 ##########################################################################################
