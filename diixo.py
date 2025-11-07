@@ -360,7 +360,9 @@ diixo = [
     'toss', 'ish', 'ers', 'bed', 'bee', 'beaver', 'beast', 'gay', 'gear', 'moss', 'motel', 'ics', 'gun', 'gum', 'kiss', 'knee', 'knit',
     'ory', 'ories', 'lemon', 'lest', 'ees', 'peev', 'vet', 'vest', 'ab', 'aboard', 'jack', 'jacket', 'jab', 'jail', 'sack', 'scam',
     'rence', 'inal', 'fess', 'fetish', 'hip', 'en', 'ess', 'eness', 'cuss', 'coars', 'arist', 'ocracy', 'ocratic', 'gull', 'guitar',
-    'ances', 'assimilat', 'dozen', 'ions', # rupt, rupted, ner
+    'ances', 'assimilat', 'dozen', 'ions', 'fed', 'fee', 'pang', 'panic', 'panoram', 'pan', 'pand', 'padd', 'scuff', 'scull', 'scuttl',
+    'oral', 'orange', 'orat', 'orbit', 'orc', 'orchestr', 'torch', 'Torch',
+    # lous, por, porn, pork, ord, oration, ulate, ulation, owe, owl, ster, sters, rupt, rupted, ner, py,
 
     ]
 

@@ -11,6 +11,7 @@ COM
 Mark
 NET
 Net
+Torch
 ab
 abandon
 abat
@@ -1594,8 +1595,10 @@ fear
 feasib
 featur
 february
+fed
 federal
 federat
+fee
 feebl
 feed
 feel
@@ -2833,6 +2836,12 @@ optimiz
 option
 or
 oracle
+oral
+orange
+orat
+orbit
+orc
+orchestr
 order
 ordinar
 ordinat
@@ -2868,6 +2877,7 @@ pac
 pack
 packag
 pad
+padd
 pag
 paid
 pain
@@ -2875,7 +2885,12 @@ paint
 pair
 pal
 palette
+pan
+pand
 panel
+pang
+panic
+panoram
 paper
 par
 para
@@ -3515,6 +3530,9 @@ scrum
 scrup
 scrut
 scrutiniz
+scuff
+scull
+scuttl
 sdk
 sea
 seal
@@ -4161,6 +4179,7 @@ tooth
 top
 topic
 topolog
+torch
 torch
 torrent
 toss
