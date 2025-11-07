@@ -16,6 +16,8 @@ outpath_gpt2 = "data/output-gpt2.txt"
 
 SLICE = 26086
 
+expansion = ['fies', 'fied', 'tion', 'tive', 'gpt', 'nce', 'nced', 'nces', 'ncy', 'sor',]
+
 ##########################################################################################
 with open("data/db-full-58900.txt", "r", encoding="utf-8") as f:
     word_set = set([line.strip() for line in f if line.strip()])
@@ -47,7 +49,7 @@ trainer = BpeTrainer(
 
 tokenizer.train([], trainer)
 
-tokenizer.add_tokens(vocab)
+tokenizer.add_tokens(vocab + expansion)
 
 fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object = tokenizer,
@@ -75,6 +77,6 @@ if __name__ == '__main__':
 
     statistic(tokenizer_gpt)
 
-    tokens_to_file(tokenizer_gpt, word_set[SLICE:], outpath)    # idx=77884
+    tokens_to_file(tokenizer_gpt, word_set[SLICE:], outpath)    # idx=77728
     #gpt_evaluate_to_file(word_set, outpath)
 
