@@ -81,7 +81,7 @@ def tokens_to_file(tokenizer, words: list, outpath: str):
 
                 f_out.write(f"{w}: {str(tokenizer.convert_ids_to_tokens(input_ids))}\n")
 ##############################
-
+    ids_count = 0
     vocab = set()
     for w in words:
         input_ids = tokenizer(w, add_special_tokens=False, padding=False, return_tensors="np")
@@ -90,8 +90,7 @@ def tokens_to_file(tokenizer, words: list, outpath: str):
         ids_count += len(input_ids)
         vocab.update(tokenizer.convert_ids_to_tokens(input_ids))
 
-
-    print(f"word_compression_ratio: {ids_count/word_count:6f} (idx={ids_count}, words={len(words)}), tokens_vocab.sz={len(vocab)}")
+    print(f"word_compression_ratio: {ids_count/len(words):6f} (idx={ids_count}, words={len(words)}), tokens_vocab.sz={len(vocab)}")
 
 
 ##########################################################################################
