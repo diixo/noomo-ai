@@ -365,7 +365,7 @@ diixo = [
     'swallow', 'swag', 'swaddl', 'sneez', 'snack', 'snail', 'snak', 'lous', 'por', 'porn', 'pork', 'oration', 'owe', 'owl', 'meow',
     'ord', 'ulate', 'ulation', 'ster', 'sters', 'rupt', 'rupted', 'ner', 'ues', 'ex', 'exe', 'exc', 'cord', 'hort', 'hale',#ped?
     'garden', 'fossil', 'loot', 'whin', 'nerd', 'our', 'bor', 'ass', 'grass', 'buzz', 'butt', 'cher', 'berr', 'straw', 'floss',
-    'bust', 'bush', 'gas', 'gar', 'ian', 'lark', 'cy', 'st', 'stomp',
+    'bust', 'bush', 'gas', 'gar', 'ian', 'lark', 'cy', 'st', 'stomp', 'psy', 'tly', 'in', 'im', 'vine', 'virt', 'virgin', 'viol', 'vill',
 
     ]
 

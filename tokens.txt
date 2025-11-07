@@ -2096,6 +2096,7 @@ illuminat
 illus
 illustrat
 ily
+im
 imag
 imagin
 imbue
@@ -2132,6 +2133,7 @@ impuden
 impuls
 impur
 imput
+in
 inal
 inaugurat
 inbox
@@ -3204,6 +3206,7 @@ pruden
 prun
 ps
 pseudo
+psy
 ptr
 publ
 public
@@ -4217,6 +4220,7 @@ tion
 tip
 tir
 titl
+tly
 to
 toggl
 token
@@ -4482,11 +4486,16 @@ video
 view
 vigorous
 vigour
+vill
 village
 vindic
+vine
+viol
 violat
 violen
 viral
+virgin
+virt
 virtual
 virtue
 virus
