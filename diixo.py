@@ -363,7 +363,8 @@ diixo = [
     'ances', 'assimilat', 'dozen', 'ions', 'fed', 'fee', 'pang', 'panic', 'panoram', 'pan', 'pand', 'padd', 'scuff', 'scull', 'scuttl',
     'oral', 'orange', 'orat', 'orbit', 'orc', 'orchestr', 'torch', 'Torch', 'py', 'clump', 'creep', 'grumbl', 'swan', 'swamp', 'trip',
     'swallow', 'swag', 'swaddl', 'sneez', 'snack', 'snail', 'snak', 'lous', 'por', 'porn', 'pork', 'oration', 'owe', 'owl', 'meow',
-    # ord, ulate, ulation, ster, sters, rupt, rupted, ner, ues, 'ex', 'exe', 'exc', ped?
+    'ord', 'ulate', 'ulation', 'ster', 'sters', 'rupt', 'rupted', 'ner', 'ues', 'ex', 'exe', 'exc', 'cord', 'hort', 'hale',#ped?
+    'garden', 'fossil', 'loot', 'whin', 'nerd',
 
     ]
 

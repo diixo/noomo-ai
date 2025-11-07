@@ -907,6 +907,7 @@ cooperat
 coordinat
 copi
 copy
+cord
 core
 corner
 corollar
@@ -1490,11 +1491,13 @@ evit
 evok
 evolut
 evolv
+ex
 exact
 exaggerat
 exam
 examin
 exampl
+exc
 exceed
 excel
 except
@@ -1504,6 +1507,7 @@ exclud
 exclus
 exclusiv
 excus
+exe
 exec
 execut
 exempl
@@ -1732,6 +1736,7 @@ fortran
 fortun
 forum
 forward
+fossil
 fought
 found
 four
@@ -1792,6 +1797,7 @@ gamif
 gan
 gap
 garbag
+garden
 garment
 gat
 gather
@@ -1927,6 +1933,7 @@ hackathon
 had
 hadoop
 hail
+hale
 half
 halt
 hamper
@@ -2015,6 +2022,7 @@ hop
 horizon
 horribl
 horror
+hort
 hospit
 host
 hot
@@ -2478,6 +2486,7 @@ look
 loom
 loop
 loose
+loot
 los
 lot
 loud
@@ -2717,6 +2726,8 @@ negotiat
 neighbo
 neither
 neo
+ner
+nerd
 nerv
 ness
 nest
@@ -2848,6 +2859,7 @@ oration
 orbit
 orc
 orchestr
+ord
 order
 ordinar
 ordinat
@@ -3478,6 +3490,8 @@ rul
 rumor
 rumour
 run
+rupt
+rupted
 rush
 rust
 saas
@@ -3878,7 +3892,9 @@ steer
 stemm
 stencil
 step
+ster
 stereo
+sters
 stick
 stiff
 still
@@ -4316,9 +4332,12 @@ typo
 ubiquit
 ubuntu
 ude
+ues
 ugl
 ui
 uint
+ulate
+ulation
 ultimat
 ultra
 uml
@@ -4528,6 +4547,7 @@ which
 while
 whilst
 whim
+whin
 whip
 whirl
 whisp
