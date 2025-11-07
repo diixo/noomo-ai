@@ -2481,6 +2481,7 @@ loose
 los
 lot
 loud
+lous
 lov
 low
 loyal
@@ -2573,6 +2574,7 @@ ment
 mention
 mentor
 menu
+meow
 mercant
 merchan
 mere
@@ -2842,6 +2844,7 @@ oracle
 oral
 orange
 orat
+oration
 orbit
 orc
 orchestr
@@ -2875,6 +2878,8 @@ outrage
 over
 overlap
 overrid
+owe
+owl
 own
 pac
 pack
@@ -3049,6 +3054,9 @@ poor
 pop
 popular
 populat
+por
+pork
+porn
 port
 portal
 portion
