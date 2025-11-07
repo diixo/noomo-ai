@@ -11,6 +11,8 @@ from utils import str_tokenize_words, clean_text, read_vocabulary, read_jsonl
 from main import tokens_to_file
 
 
+tokenizer_path = "train-product"
+
 VOCAB_SZ = 12_032
 
 stopwords = set(["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m",
@@ -54,7 +56,7 @@ def read_para_nmt_50m():
     return text
 
 
-def train_tokenizer(dataset: list, tokenizer_path: str = "train-product"):
+def train_tokenizer(dataset: list, tokenizer_path: str = tokenizer_path):
     import os
     if os.path.exists(os.path.join(tokenizer_path, "tokenizer.json")):
         print(f"!!! Tokenizer already exists at {tokenizer_path}, loading...")
