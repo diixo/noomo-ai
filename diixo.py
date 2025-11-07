@@ -361,8 +361,9 @@ diixo = [
     'ory', 'ories', 'lemon', 'lest', 'ees', 'peev', 'vet', 'vest', 'ab', 'aboard', 'jack', 'jacket', 'jab', 'jail', 'sack', 'scam',
     'rence', 'inal', 'fess', 'fetish', 'hip', 'en', 'ess', 'eness', 'cuss', 'coars', 'arist', 'ocracy', 'ocratic', 'gull', 'guitar',
     'ances', 'assimilat', 'dozen', 'ions', 'fed', 'fee', 'pang', 'panic', 'panoram', 'pan', 'pand', 'padd', 'scuff', 'scull', 'scuttl',
-    'oral', 'orange', 'orat', 'orbit', 'orc', 'orchestr', 'torch', 'Torch',
-    # lous, por, porn, pork, ord, oration, ulate, ulation, owe, owl, ster, sters, rupt, rupted, ner, py,
+    'oral', 'orange', 'orat', 'orbit', 'orc', 'orchestr', 'torch', 'Torch', 'py', 'clump', 'creep', 'grumbl', 'swan', 'swamp', 'trip',
+    'swallow', 'swag', 'swaddl', 'sneez', 'snack', 'snail', 'snak',
+    # lous, por, porn, pork, ord, oration, ulate, ulation, owe, owl, ster, sters, rupt, rupted, ner, py, ues, 'ex', 'exe', 'exc', ped?
 
     ]
 

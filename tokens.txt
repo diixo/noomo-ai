@@ -703,6 +703,7 @@ cloud
 club
 clud
 clue
+clump
 clus
 cluster
 clutter
@@ -943,6 +944,7 @@ creat
 creden
 credib
 credit
+creep
 cri
 crim
 cris
@@ -1905,6 +1907,7 @@ grow
 grpc
 grudg
 gruel
+grumbl
 grunt
 gsm
 guarante
@@ -3185,6 +3188,7 @@ pursu
 push
 put
 puzzl
+py
 python
 qt
 quad
@@ -3719,9 +3723,13 @@ smil
 smit
 smok
 smooth
+snack
+snail
+snak
 snap
 sneak
 sneer
+sneez
 sniff
 snip
 snow
@@ -3989,6 +3997,11 @@ svd
 svg
 svm
 svn
+swaddl
+swag
+swallow
+swamp
+swan
 swap
 sway
 swear
@@ -4250,6 +4263,7 @@ trifl
 trigger
 tril
 trim
+trip
 tripl
 triumph
 trivial
