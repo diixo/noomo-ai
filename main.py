@@ -80,7 +80,18 @@ def tokens_to_file(tokenizer, words: list, outpath: str):
                 word_count += 1
 
                 f_out.write(f"{w}: {str(tokenizer.convert_ids_to_tokens(input_ids))}\n")
-    print(f"word_compression_ratio: {ids_count/word_count:6f} (idx={ids_count}, words={word_count}), tokens_vocab.sz={len(vocab)}")
+##############################
+
+    vocab = set()
+    for w in words:
+        input_ids = tokenizer(w, add_special_tokens=False, padding=False, return_tensors="np")
+        input_ids = input_ids["input_ids"]
+        input_ids = input_ids[0]
+        ids_count += len(input_ids)
+        vocab.update(tokenizer.convert_ids_to_tokens(input_ids))
+
+
+    print(f"word_compression_ratio: {ids_count/word_count:6f} (idx={ids_count}, words={len(words)}), tokens_vocab.sz={len(vocab)}")
 
 
 ##########################################################################################
@@ -134,6 +145,6 @@ if __name__ == '__main__':
 
 
     tokens_to_file(tokenizer_gpt, word_set[SLICE:], outpath)    # 81349
-    tokens_to_file(gpt2, word_set[SLICE:], outpath_gpt2)        # 69300
+    #tokens_to_file(gpt2, word_set[SLICE:], outpath_gpt2)        # 69300
     #gpt_evaluate_to_file(word_set, outpath)
 

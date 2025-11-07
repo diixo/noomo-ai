@@ -58,6 +58,7 @@ accrue
 accumulat
 accur
 accus
+ace
 ache
 achiev
 acoust
@@ -119,6 +120,7 @@ afraid
 after
 again
 against
+age
 agenc
 agenda
 agent
@@ -131,6 +133,7 @@ agil
 agitat
 ago
 agree
+aic
 aid
 aim
 air
@@ -629,7 +632,10 @@ cater
 caught
 caus
 cautio
+cav
 cbow
+cca
+cd
 ceas
 ceil
 celebrat
@@ -1284,6 +1290,7 @@ driv
 dron
 drop
 drown
+drum
 drunk
 drupal
 dry
@@ -1534,6 +1541,7 @@ expect
 expedien
 expedit
 expedite
+expel
 expend
 expens
 experien
@@ -1593,6 +1601,7 @@ fantas
 faq
 far
 fare
+farm
 farth
 fascinat
 fashion
@@ -1915,6 +1924,7 @@ grep
 grew
 grid
 griev
+grill
 grind
 grip
 groom
@@ -2427,6 +2437,7 @@ lda
 le
 lead
 leaf
+league
 leak
 lean
 leap
@@ -2625,9 +2636,11 @@ migrat
 migrat
 mild
 mile
+milk
 milli
 million
 mimic
+min
 mind
 mine
 mini
@@ -2635,15 +2648,19 @@ miniatur
 minif
 minim
 minor
+mint
 minus
 minute
 mirror
 mirth
 mis
+misc
 miscellaneous
 miser
+mispel
 miss
 mission
+mist
 mistak
 mitigat
 mix
@@ -2675,6 +2692,7 @@ more
 morning
 morph
 morrow
+mort
 mortif
 moss
 most
@@ -2888,6 +2906,7 @@ origin
 original
 originat
 ornament
+ort
 ortho
 ory
 oscill
@@ -2971,6 +2990,7 @@ peek
 peep
 peer
 peev
+pell
 pen
 penal
 pencil
@@ -3013,6 +3033,7 @@ pervad
 pessimi
 pet
 peta
+pharm
 phase
 phenomen
 philosoph
@@ -3234,6 +3255,7 @@ quad
 quali
 quant
 quantif
+quarant
 quarrel
 quarter
 quaternion
@@ -3253,9 +3275,12 @@ quit
 quiv
 quiz
 quot
+r&d
 rabbit
 rac
+rack
 rad
+radar
 radiat
 radic
 radio
@@ -3386,6 +3411,7 @@ render
 renovat
 rent
 repair
+repeal
 repeat
 repetit
 repl
@@ -3483,7 +3509,10 @@ roman
 room
 root
 rose
+rot
 rotat
+rou
+rough
 rough
 round
 rous
@@ -3579,6 +3608,7 @@ scuff
 scull
 scuttl
 sdk
+se
 sea
 seal
 seam
@@ -3881,6 +3911,7 @@ stack
 staff
 stag
 stagnat
+stain
 stair
 stak
 stakeholder
@@ -4348,6 +4379,7 @@ twitch
 twitter
 two
 txt
+ty
 typ
 type
 typic
@@ -4419,6 +4451,8 @@ utter
 ux
 vacan
 vacat
+vaccin
+vacuum
 vagar
 vague
 vain
