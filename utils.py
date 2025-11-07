@@ -146,3 +146,4 @@ def tokens_to_file(tokenizer, words: list, outpath: str):
         vocab.update([t for t in tokens if len(t.lstrip('Ġ')) > 1])
 
     print(f"word_compression_ratio: {ids_count/len(words):6f} (idx={ids_count}, words={len(words)}), tokens_vocab.sz={len(vocab)}")
+    return vocab

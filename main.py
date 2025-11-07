@@ -16,15 +16,19 @@ outpath_gpt2 = "data/output-gpt2.txt"
 
 SLICE = 26086
 
-
-gpt2 = AutoTokenizer.from_pretrained("gpt2", use_fast=True)
-
-
+##########################################################################################
 with open("data/db-full-58900.txt", "r", encoding="utf-8") as f:
     word_set = set([line.strip() for line in f if line.strip()])
 
 word_set = sorted(word_set)
-count = len(word_set)
+
+##########################################################################################
+
+gpt2 = AutoTokenizer.from_pretrained("gpt2", use_fast=True)
+
+vocab = tokens_to_file(gpt2, word_set[SLICE:], outpath_gpt2)    # idx=77638
+
+vocab = sorted(vocab)
 
 ##########################################################################################
 tokenizer_path  = "noomo"
@@ -43,7 +47,7 @@ trainer = BpeTrainer(
 
 tokenizer.train([], trainer)
 
-tokenizer.add_tokens(diixo + diixo_2)
+tokenizer.add_tokens(vocab)
 
 fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object = tokenizer,
@@ -67,55 +71,10 @@ def statistic(tokenizer_gpt: GPT2TokenizerFast):
 
 ##########################################################################################
 
-def print_tokenization(prompt: str):
-
-    input_ids = tokenizer_gpt(prompt, add_special_tokens=False, padding=False, return_tensors="np")
-    input_ids = input_ids["input_ids"]
-    input_ids = input_ids[0]
-
-    print(tokenizer_gpt.convert_ids_to_tokens(input_ids))
-    print(tokenizer_gpt.decode(
-        input_ids,
-        skip_special_tokens=False,
-        clean_up_tokenization_spaces=True)
-    )
-
-
 if __name__ == '__main__':
 
     statistic(tokenizer_gpt)
 
-    print(f"{len(word_set)}: {count}")
-
-    # print_tokenization("Learning learning learns learned hears is hearing")
-
-    # print_tokenization("Do doing does teach teacher teaching")
-
-    # #print_tokenization("Wear wear wears wearing his this are wanting wanted wants")
-
-    # print_tokenization("Here where there no nope not therefore anywhere still fill ill")
-
-    # print_tokenization("postfix prefix international putting forever somewhere never profession professional")
-
-    # print_tokenization("come become commit comes common cannot can't sooner")
-
-    # print_tokenization("Ask ask task mask tasking masking")
-
-    # print_tokenization("you you young your yours we were mostly")
-
-    # print_tokenization("us us use used uses using usual usually known knows whenever everyday illness seemingly")
-
-    # # print_tokenization("densemind")
-
-    # print_tokenization("gather gathering gathered together more she because didn't")
-
-    # print_tokenization("All is as was running were will")
-
-    # print_tokenization(
-    #     "be being or so the that this its an should would could may say might fix post pre pro put ation ession too also but and end extension recode")
-
-
-    tokens_to_file(tokenizer_gpt, word_set[SLICE:], outpath)    # 81349
-    #tokens_to_file(gpt2, word_set[SLICE:], outpath_gpt2)        # 69300
+    tokens_to_file(tokenizer_gpt, word_set[SLICE:], outpath)    # idx=77884
     #gpt_evaluate_to_file(word_set, outpath)
 
