@@ -16,7 +16,8 @@ outpath_gpt2 = "data/output-gpt2.txt"
 
 SLICE = 26086
 
-expansion = ['fies', 'fied', 'tion', 'tive', 'gpt', 'nce', 'nced', 'nces', 'ncy', 'sor',]
+expansion = ['fies', 'fied', 'tion', 'tive', 'gpt', 'nce', 'nced', 'nces', 'ncy', 'sor', 'gic', 'dent', 'n\'t', 
+    'bility', 'nch', 'nal', 'shing', 'erce', 'tly',]
 
 ##########################################################################################
 with open("data/db-full-58900.txt", "r", encoding="utf-8") as f:
