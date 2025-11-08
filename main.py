@@ -29,9 +29,9 @@ word_set = sorted(word_set)
 
 gpt2 = AutoTokenizer.from_pretrained("gpt2", use_fast=True)
 
-vocab = tokens_to_file(gpt2, word_set, outpath_gpt2)    # idx=77638
+counters = tokens_to_file(gpt2, word_set, outpath_gpt2) # idx=77638
 
-vocab = sorted(vocab)
+vocab = sorted(counters.keys())
 
 ##########################################################################################
 tokenizer_path  = "noomo"
@@ -54,8 +54,8 @@ tokenizer.add_tokens(vocab + expansion)
 
 fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object = tokenizer,
-    eos_token = "</s>"
-    # bos_token = "<s>",
+    eos_token = "</s>",
+    bos_token = "</s>"
     # unk_token = "<unk>"
 )
 
@@ -64,7 +64,7 @@ fast_tokenizer.save_pretrained(tokenizer_path)
 ##########################################################################################
 
 def statistic(tokenizer: GPT2TokenizerFast):
-    print(f"tokenizer_gpt.config: vocab.sz={len(tokenizer.get_vocab())},",
+    print(f":: tokenizer.config: vocab.sz={len(tokenizer.get_vocab())},",
         f"eos_token_id={tokenizer.eos_token_id}",
         f"pad_token_id={tokenizer.pad_token_id},",
         f"bos_token_id={tokenizer.bos_token_id},")

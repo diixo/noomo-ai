@@ -4,6 +4,7 @@ import json
 import re
 from pathlib import Path
 import pandas as pd
+from collections import Counter
 
 
 def gpt_evaluate_to_file(words: list, outpath: str):
@@ -137,13 +138,17 @@ def tokens_to_file(tokenizer, words: list, outpath: str):
 ##############################
     ids_count = 0
     vocab = set()
+    token_freq = Counter()
     for w in words:
         input_ids = tokenizer(w, add_special_tokens=False, padding=False, return_tensors="np")
         input_ids = input_ids["input_ids"]
         input_ids = input_ids[0]
         ids_count += len(input_ids)
         tokens = tokenizer.convert_ids_to_tokens(input_ids)
-        vocab.update([t for t in tokens if len(t.lstrip('Ġ')) > 1])
+        filtered_tokens = [t for t in tokens if len(t.lstrip('Ġ')) > 1]
+        
+        vocab.update(filtered_tokens)
+        token_freq.update(filtered_tokens)
 
     print(f"word_compression_ratio: {ids_count/len(words):6f} (tokens.sz={ids_count}, words.sz={len(words)}), tokens_vocab.sz={len(vocab)}")
-    return vocab
+    return token_freq
