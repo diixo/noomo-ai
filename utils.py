@@ -137,7 +137,6 @@ def tokens_to_file(tokenizer, words: list, outpath: str):
                 f_out.write(f"{w}: {str(tokenizer.convert_ids_to_tokens(input_ids))}\n")
 ##############################
     ids_count = 0
-    vocab = set()
     token_freq = Counter()
     for w in words:
         input_ids = tokenizer(w, add_special_tokens=False, padding=False, return_tensors="np")
@@ -146,9 +145,8 @@ def tokens_to_file(tokenizer, words: list, outpath: str):
         ids_count += len(input_ids)
         tokens = tokenizer.convert_ids_to_tokens(input_ids)
         filtered_tokens = [t for t in tokens if len(t.lstrip('Ġ')) > 1]
-        
-        vocab.update(filtered_tokens)
+
         token_freq.update(filtered_tokens)
 
-    print(f"word_compression_ratio: {ids_count/len(words):6f} (tokens.sz={ids_count}, words.sz={len(words)}), tokens_vocab.sz={len(vocab)}")
+    print(f"word_compression_ratio: {ids_count/len(words):6f} (tokens.sz={ids_count}, words.sz={len(words)}), tokens_counter.sz={len(token_freq)}")
     return token_freq
