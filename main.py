@@ -45,18 +45,18 @@ trainer = BpeTrainer(
     vocab_size=50000,
     initial_alphabet=ByteLevel.alphabet(),
     min_frequency=1,
-    special_tokens=["<s>", "</s>", "<unk>"]
+    special_tokens=["</s>",]
     )
 
 tokenizer.train([], trainer)
 
-tokenizer.add_tokens(vocab + expansion)
+tokenizer.add_tokens(vocab)
 
 fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object = tokenizer,
-    bos_token = "<s>",
     eos_token = "</s>",
-    unk_token = "<unk>"
+    # bos_token = "<s>",
+    # unk_token = "<unk>",
 )
 
 fast_tokenizer.save_pretrained(tokenizer_path)

@@ -1,5 +1,3 @@
 {
-  "bos_token": "<s>",
-  "eos_token": "</s>",
-  "unk_token": "<unk>"
+  "eos_token": "</s>"
 }
