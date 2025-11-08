@@ -16,8 +16,8 @@ outpath_gpt2 = "data/output-gpt2.txt"
 
 SLICE = 26086
 
-expansion = ['fies', 'fied', 'tion', 'tive', 'gpt', 'nce', 'nced', 'nces', 'ncy', 'sor', 'gic', 'dent', 'n\'t', 
-    'bility', 'nch', 'nal', 'shing', 'erce', 'tly',]
+expansion = ['gpt', 'GPT', 'fies', 'fied', 'fic', 'tion', 'tive', 'nce', 'nced', 'nces', 'ncy', 'sor', 'gic', 'dent', 'n\'t',
+    'bility', 'nch', 'nal', 'shing', 'erce', 'tly', 'rk', 'LLa', 'lla', 'LM', 'LSTM', '2D', '3D', 'nge',]
 
 ##########################################################################################
 with open("data/db-full-58900.txt", "r", encoding="utf-8") as f:
@@ -50,34 +50,33 @@ trainer = BpeTrainer(
 
 tokenizer.train([], trainer)
 
-tokenizer.add_tokens(vocab)
+tokenizer.add_tokens(vocab + expansion)
 
 fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object = tokenizer,
-    eos_token = "</s>",
+    eos_token = "</s>"
     # bos_token = "<s>",
-    # unk_token = "<unk>",
+    # unk_token = "<unk>"
 )
 
 fast_tokenizer.save_pretrained(tokenizer_path)
 
 ##########################################################################################
 
-tokenizer_gpt = GPT2TokenizerFast.from_pretrained(tokenizer_path, local_files_only=True)
-
-def statistic(tokenizer_gpt: GPT2TokenizerFast):
-    print(f"tokenizer_gpt.config: vocab.sz={len(tokenizer_gpt.get_vocab())},",
-        f"pad_token_id={tokenizer_gpt.pad_token_id},",
-        f"bos_token_id={tokenizer_gpt.bos_token_id},",
-        f"eos_token_id={tokenizer_gpt.eos_token_id}",)
-
+def statistic(tokenizer: GPT2TokenizerFast):
+    print(f"tokenizer_gpt.config: vocab.sz={len(tokenizer.get_vocab())},",
+        f"eos_token_id={tokenizer.eos_token_id}",
+        f"pad_token_id={tokenizer.pad_token_id},",
+        f"bos_token_id={tokenizer.bos_token_id},")
 
 ##########################################################################################
 
 if __name__ == '__main__':
 
-    statistic(tokenizer_gpt)
+    my_tokenizer = GPT2TokenizerFast.from_pretrained(tokenizer_path, local_files_only=True)
 
-    tokens_to_file(tokenizer_gpt, word_set, outpath)    # idx=77728
+    statistic(my_tokenizer)
+
+    tokens_to_file(my_tokenizer, word_set, outpath)    # idx=77728
     #gpt_evaluate_to_file(word_set, outpath)
 
