@@ -29,7 +29,7 @@ word_set = sorted(word_set)
 
 gpt2 = AutoTokenizer.from_pretrained("gpt2", use_fast=True)
 
-vocab = tokens_to_file(gpt2, word_set[SLICE:], outpath_gpt2)    # idx=77638
+vocab = tokens_to_file(gpt2, word_set, outpath_gpt2)    # idx=77638
 
 vocab = sorted(vocab)
 
@@ -78,6 +78,6 @@ if __name__ == '__main__':
 
     statistic(tokenizer_gpt)
 
-    tokens_to_file(tokenizer_gpt, word_set[SLICE:], outpath)    # idx=77728
+    tokens_to_file(tokenizer_gpt, word_set, outpath)    # idx=77728
     #gpt_evaluate_to_file(word_set, outpath)
 
