@@ -122,7 +122,7 @@ def read_eli5():
     return dataset
 
 
-def tokens_to_file(tokenizer, words: list, outpath: str):
+def tokens_to_file(tokenizer, words: list, outpath: str=None, description: str = ""):
     ids_count = 0
     word_count = 0
     if outpath is not None:
@@ -150,5 +150,5 @@ def tokens_to_file(tokenizer, words: list, outpath: str):
         token_freq.update(filtered_tokens)
 
     if len(words) > 0:
-        print(f"word_compression_ratio: {ids_count/len(words):6f}, words.sz={len(words)}, tokens: (all.sz={ids_count}, original.sz={len(token_freq)})")
+        print(f"{description}: token_word_ratio={ids_count/len(words):6f}, words.sz={len(words)}, tokens: (all.sz={ids_count}, original.sz={len(token_freq)})")
     return token_freq

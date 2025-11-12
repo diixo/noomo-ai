@@ -29,11 +29,6 @@ word_set = sorted(read_vocab(True)) + sorted(read_vocab(False))
 
 ##########################################################################################
 
-gpt2 = AutoTokenizer.from_pretrained("gpt2", use_fast=True)
-
-#vocab = sorted(counters.keys())
-
-##########################################################################################
 tokenizer_path  = "noomo"
 
 tokenizer = Tokenizer(BPE())
@@ -72,14 +67,17 @@ def statistic(tokenizer: GPT2TokenizerFast):
 
 if __name__ == '__main__':
 
+    pthia = AutoTokenizer.from_pretrained("data/pythia-31m", use_fast=True)
+    qwen3 = AutoTokenizer.from_pretrained("data/Qwen3-1.7B", use_fast=True)
+
+
     my_tokenizer = GPT2TokenizerFast.from_pretrained(tokenizer_path, local_files_only=True)
-    #my_tokenizer = GPT2TokenizerFast.from_pretrained("data/Qwen3-1.7B", local_files_only=True)
 
     statistic(my_tokenizer)
 
-    counters = tokens_to_file(gpt2, word_set, outpath_gpt2)
-
-    my_freq = tokens_to_file(my_tokenizer, word_set, outpath)
+    tokens_to_file(pthia, word_set, None, "pythia")
+    tokens_to_file(qwen3, word_set, outpath_gpt2, "qwen3")
+    tokens_to_file(my_tokenizer, word_set, outpath, "noomo")
     #gpt_evaluate_to_file(word_set, outpath)
 
 
