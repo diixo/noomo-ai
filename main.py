@@ -5,16 +5,13 @@ from tokenizers.decoders import ByteLevel as ByteLevelDecoder
 from tokenizers.pre_tokenizers import ByteLevel
 from tokenizers.trainers import BpeTrainer
 from transformers import PreTrainedTokenizerFast, GPT2TokenizerFast
-from utils import gpt_evaluate_to_file, tokens_to_file
+from utils import tokens_to_file
 
 
 outpath = "data/output-cased.txt"
 
 outpath_gpt2 = "data/output-gpt2.txt"
 
-
-expansion = ['gpt', 'GPT', 'fies', 'fied', 'fic', 'tion', 'tive', 'nce', 'nced', 'nces', 'ncy', 'sor', 'gic', 'dent', 'n\'t',
-    'bility', 'nch', 'nal', 'shing', 'erce', 'tly', 'rk', 'LLa', 'lla', 'LM', 'LSTM', 'nge', 'dic', 'ely', '3D',]
 
 ##########################################################################################
 def read_vocab(add_prefix_space=False):
@@ -24,7 +21,6 @@ def read_vocab(add_prefix_space=False):
     return word_set
 
 
-#word_set = sorted(read_vocab(False))
 word_set = sorted(read_vocab(True)) + sorted(read_vocab(False))
 
 ##########################################################################################
@@ -44,7 +40,6 @@ trainer = BpeTrainer(
 
 tokenizer.train_from_iterator(word_set, trainer)
 
-#tokenizer.add_tokens(vocab + expansion)
 
 fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object = tokenizer,
@@ -81,31 +76,4 @@ if __name__ == '__main__':
     tokens_to_file(neo, word_set, None, "gpt-neo")
     tokens_to_file(qwen3, word_set, outpath_gpt2, "qwen3")
     tokens_to_file(my_tokenizer, word_set, outpath, "noomo")
-    #gpt_evaluate_to_file(word_set, outpath)
-
-
-def filtering():
-
-    eli5_freq = tokens_to_file(gpt2, read_vocabulary("eli5-dictionary.txt", 1), "eli-gpt2.txt")
-
-    tokens_to_file(my_tokenizer, read_vocabulary("eli5-dictionary.txt", 1), "eli-noomo.txt")
-
-    ####################################
-
-    print(">> eli5.sz=", len(eli5_freq))
-    for k in my_freq:
-        eli5_freq.pop(k, None)
-
-    for k in list(eli5_freq.keys()):
-        if k.isdigit():
-            eli5_freq.pop(k)
-    eli5_sorted = eli5_freq.most_common()
-    print("<< eli5.sz=", len(eli5_freq))
-
-
-    vocab = my_tokenizer.get_vocab()
-    append_sz = 12000 - (len(vocab) - 256 - 1)
-
-    append_keys = [k for k, v in eli5_sorted[:append_sz]]
-    print(append_sz, f": {len(append_keys)}, vocab.sz={len(vocab)}")
 
