@@ -62,11 +62,13 @@ def statistic(tokenizer: GPT2TokenizerFast):
         f"eos_token_id={tokenizer.eos_token_id}",
         f"pad_token_id={tokenizer.pad_token_id},",
         f"bos_token_id={tokenizer.bos_token_id},")
+    print(80*"#")
 
 ##########################################################################################
 
 if __name__ == '__main__':
 
+    neo = AutoTokenizer.from_pretrained("data/gpt-neo-125m", use_fast=True)
     pthia = AutoTokenizer.from_pretrained("data/pythia-31m", use_fast=True)
     qwen3 = AutoTokenizer.from_pretrained("data/Qwen3-1.7B", use_fast=True)
 
@@ -75,7 +77,8 @@ if __name__ == '__main__':
 
     statistic(my_tokenizer)
 
-    tokens_to_file(pthia, word_set, None, "pythia")
+    tokens_to_file(pthia, word_set, None, "pythia-small")
+    tokens_to_file(neo, word_set, None, "gpt-neo")
     tokens_to_file(qwen3, word_set, outpath_gpt2, "qwen3")
     tokens_to_file(my_tokenizer, word_set, outpath, "noomo")
     #gpt_evaluate_to_file(word_set, outpath)
