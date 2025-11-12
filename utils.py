@@ -150,5 +150,5 @@ def tokens_to_file(tokenizer, words: list, outpath: str):
         token_freq.update(filtered_tokens)
 
     if len(words) > 0:
-        print(f"word_compression_ratio: {ids_count/len(words):6f} (tokens.sz={ids_count}, words.sz={len(words)}), tokens_counter.sz={len(token_freq)}")
+        print(f"word_compression_ratio: {ids_count/len(words):6f}, words.sz={len(words)}, tokens: (all.sz={ids_count}, original.sz={len(token_freq)})")
     return token_freq

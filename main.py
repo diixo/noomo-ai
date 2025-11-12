@@ -25,8 +25,7 @@ def read_vocab(add_prefix_space=False):
 
 
 #word_set = sorted(read_vocab(False))
-word_set = sorted(read_vocab(True))
-word_set = [ " " + w for w in word_set ]
+word_set = sorted(read_vocab(True)) + sorted(read_vocab(False))
 
 ##########################################################################################
 
@@ -78,9 +77,9 @@ if __name__ == '__main__':
 
     statistic(my_tokenizer)
 
-    counters = tokens_to_file(gpt2, read_vocab(), outpath_gpt2)
+    counters = tokens_to_file(gpt2, word_set, outpath_gpt2)
 
-    my_freq = tokens_to_file(my_tokenizer, read_vocab(), outpath)
+    my_freq = tokens_to_file(my_tokenizer, word_set, outpath)
     #gpt_evaluate_to_file(word_set, outpath)
 
 
