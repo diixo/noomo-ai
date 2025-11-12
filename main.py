@@ -10,7 +10,7 @@ from utils import tokens_to_file
 
 outpath = "data/output-cased.txt"
 
-outpath_gpt2 = "data/output-gpt2.txt"
+outpath_gpt2 = "data/output-qwen3.txt"
 
 
 ##########################################################################################
