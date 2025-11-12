@@ -5,7 +5,7 @@ from tokenizers.decoders import ByteLevel as ByteLevelDecoder
 from tokenizers.pre_tokenizers import ByteLevel
 from tokenizers.trainers import BpeTrainer
 from transformers import PreTrainedTokenizerFast, GPT2TokenizerFast
-from utils import gpt_evaluate_to_file, tokens_to_file, read_vocabulary
+from utils import gpt_evaluate_to_file, tokens_to_file
 
 
 outpath = "data/output-cased.txt"
@@ -17,37 +17,40 @@ expansion = ['gpt', 'GPT', 'fies', 'fied', 'fic', 'tion', 'tive', 'nce', 'nced',
     'bility', 'nch', 'nal', 'shing', 'erce', 'tly', 'rk', 'LLa', 'lla', 'LM', 'LSTM', 'nge', 'dic', 'ely', '3D',]
 
 ##########################################################################################
-with open("data/db-full-59712.txt", "r", encoding="utf-8") as f:
-    word_set = set([line.strip() for line in f if line.strip()])
+def read_vocab(add_prefix_space=False):
+    prefix = " " if add_prefix_space==True else ""
+    with open("data/db-full-59776.txt", "r", encoding="utf-8") as f:
+        word_set = set([prefix + line.strip() for line in f if line.strip()])
+    return word_set
 
-word_set = sorted(word_set)
-#word_set = word_set + [ " "+ word for word in word_set]
+
+#word_set = sorted(read_vocab(False))
+word_set = sorted(read_vocab(True))
+word_set = [ " " + w for w in word_set ]
 
 ##########################################################################################
 
 gpt2 = AutoTokenizer.from_pretrained("gpt2", use_fast=True)
 
-counters = tokens_to_file(gpt2, word_set, outpath_gpt2)
-
-vocab = sorted(counters.keys())
+#vocab = sorted(counters.keys())
 
 ##########################################################################################
 tokenizer_path  = "noomo"
 
 tokenizer = Tokenizer(BPE())
-tokenizer.pre_tokenizer = ByteLevel()
+tokenizer.pre_tokenizer = ByteLevel(add_prefix_space=False)
 tokenizer.decoder = ByteLevelDecoder()
 
 trainer = BpeTrainer(
-    vocab_size=50000,
+    vocab_size=50_257,
     initial_alphabet=ByteLevel.alphabet(),
     min_frequency=1,
     special_tokens=["</s>",]
     )
 
-tokenizer.train([], trainer)
+tokenizer.train_from_iterator(word_set, trainer)
 
-tokenizer.add_tokens(vocab + expansion)
+#tokenizer.add_tokens(vocab + expansion)
 
 fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object = tokenizer,
@@ -71,10 +74,13 @@ def statistic(tokenizer: GPT2TokenizerFast):
 if __name__ == '__main__':
 
     my_tokenizer = GPT2TokenizerFast.from_pretrained(tokenizer_path, local_files_only=True)
+    #my_tokenizer = GPT2TokenizerFast.from_pretrained("data/Qwen3-1.7B", local_files_only=True)
 
     statistic(my_tokenizer)
 
-    my_freq = tokens_to_file(my_tokenizer, word_set, outpath)
+    counters = tokens_to_file(gpt2, read_vocab(), outpath_gpt2)
+
+    my_freq = tokens_to_file(my_tokenizer, read_vocab(), outpath)
     #gpt_evaluate_to_file(word_set, outpath)
 
 
