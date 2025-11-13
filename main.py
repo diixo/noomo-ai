@@ -14,7 +14,7 @@ outpath_gpt2 = "data/output-qwen3.txt"
 
 
 ##########################################################################################
-def read_vocab(add_prefix_space=False, count=59904):
+def read_vocab(add_prefix_space=False, count=59968):
 
     prefix = " " if add_prefix_space==True else ""
     with open(f"data/db-full-{count}.txt", "r", encoding="utf-8") as f:
