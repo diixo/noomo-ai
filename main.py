@@ -14,9 +14,10 @@ outpath_gpt2 = "data/output-qwen3.txt"
 
 
 ##########################################################################################
-def read_vocab(add_prefix_space=False):
+def read_vocab(add_prefix_space=False, count=59904):
+
     prefix = " " if add_prefix_space==True else ""
-    with open("data/db-full-59776.txt", "r", encoding="utf-8") as f:
+    with open(f"data/db-full-{count}.txt", "r", encoding="utf-8") as f:
         word_set = set([prefix + line.strip() for line in f if line.strip()])
     return word_set
 
@@ -76,4 +77,3 @@ if __name__ == '__main__':
     tokens_to_file(neo, word_set, None, "gpt-neo")
     tokens_to_file(qwen3, word_set, outpath_gpt2, "qwen3")
     tokens_to_file(my_tokenizer, word_set, outpath, "noomo")
-
