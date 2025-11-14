@@ -6,6 +6,8 @@ from tokenizers.pre_tokenizers import ByteLevel
 from tokenizers.trainers import BpeTrainer
 from transformers import PreTrainedTokenizerFast, GPT2TokenizerFast
 from utils import tokens_to_file
+import matplotlib.pyplot as plt
+from collections import Counter
 
 
 outpath = "data/output-cased.txt"
@@ -14,7 +16,7 @@ outpath_gpt2 = "data/output-qwen3.txt"
 
 
 ##########################################################################################
-def read_vocab(add_prefix_space=False, count=59968):
+def read_vocab(add_prefix_space=False, count=60032):
 
     prefix = " " if add_prefix_space==True else ""
     with open(f"data/db-full-{count}.txt", "r", encoding="utf-8") as f:
@@ -62,6 +64,23 @@ def statistic(tokenizer: GPT2TokenizerFast):
 
 ##########################################################################################
 
+def plot_freq_distribution(token_freq: Counter):
+
+    lengths = []
+    for tok in token_freq.keys():
+        length = len(tok.lstrip("Ġ"))
+        if length < 15:
+            lengths.append(length)
+
+    plt.figure(figsize=(8, 5))
+    plt.hist(lengths, bins="auto")
+    plt.xlabel("Length")
+    plt.ylabel("Frequency")
+    plt.title(f"Distribution of token lengths by word_set.sz={len(word_set)}")
+    plt.grid(True)
+    plt.show()
+
+
 if __name__ == '__main__':
 
     neo = AutoTokenizer.from_pretrained("data/gpt-neo-125m", use_fast=True)
@@ -76,4 +95,6 @@ if __name__ == '__main__':
     tokens_to_file(pthia, word_set, None, "pythia-small")
     tokens_to_file(neo, word_set, None, "gpt-neo")
     tokens_to_file(qwen3, word_set, outpath_gpt2, "qwen3")
-    tokens_to_file(my_tokenizer, word_set, outpath, "noomo")
+    token_freq = tokens_to_file(my_tokenizer, word_set, outpath, "noomo")
+
+    plot_freq_distribution(token_freq)
