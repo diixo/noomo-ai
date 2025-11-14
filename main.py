@@ -8,6 +8,7 @@ from transformers import PreTrainedTokenizerFast, GPT2TokenizerFast
 from utils import tokens_to_file
 import matplotlib.pyplot as plt
 from collections import Counter
+import numpy as np
 
 
 outpath = "data/output-cased.txt"
@@ -65,15 +66,15 @@ def statistic(tokenizer: GPT2TokenizerFast):
 ##########################################################################################
 
 def plot_freq_distribution(token_freq: Counter):
-
     lengths = []
     for tok in token_freq.keys():
         length = len(tok.lstrip("Ġ"))
-        if length < 15:
+        if length < 16:
             lengths.append(length)
 
     plt.figure(figsize=(8, 5))
     plt.hist(lengths, bins="auto")
+    plt.xticks(np.arange(min(lengths), max(lengths) + 1, 1))
     plt.xlabel("Length")
     plt.ylabel("Frequency")
     plt.title(f"Distribution of token lengths by word_set.sz={len(word_set)}")
