@@ -11078,7 +11078,6 @@ Howl
 Howling
 Hows
 Howto
-Hr
 Html
 Html5
 Http
@@ -11340,7 +11339,6 @@ Idling
 Idol
 Idolatry
 Idols
-Ie
 If
 If-Then
 If-then
@@ -19686,6 +19684,7 @@ Replays
 Replenishment
 Replica
 Replicability
+Replicable
 Replicate
 Replicated
 Replicates
@@ -50912,6 +50911,7 @@ replenishment
 replete
 replica
 replicability
+replicable
 replicate
 replicated
 replicates
