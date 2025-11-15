@@ -15,6 +15,7 @@ outpath = "data/output-cased.txt"
 
 outpath_gpt2 = "data/output-qwen3.txt"
 
+EOT = "<|endoftext|>"
 
 ##########################################################################################
 def read_vocab(add_prefix_space=False, count=60032):
@@ -36,18 +37,19 @@ tokenizer.pre_tokenizer = ByteLevel(add_prefix_space=False)
 tokenizer.decoder = ByteLevelDecoder()
 
 trainer = BpeTrainer(
-    vocab_size=50_257,
+    vocab_size=50_256,
     initial_alphabet=ByteLevel.alphabet(),
     min_frequency=1,
-    special_tokens=["</s>",]
+    special_tokens=[]
     )
 
 tokenizer.train_from_iterator(word_set, trainer)
 
+tokenizer.add_special_tokens([EOT])
 
 fast_tokenizer = PreTrainedTokenizerFast(
     tokenizer_object = tokenizer,
-    eos_token = "</s>",
+    eos_token = EOT,
     bos_token = None,
     unk_token = None
 )
@@ -72,7 +74,7 @@ def plot_freq_distribution(token_freq: Counter):
         if length < 16:
             lengths.append(length)
 
-    plt.figure(figsize=(8, 5))
+    plt.figure(figsize=(8, 4))
     plt.hist(lengths, bins="auto")
     plt.xticks(np.arange(min(lengths), max(lengths) + 1, 1))
     plt.xlabel("Length")
