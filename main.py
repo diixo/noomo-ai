@@ -15,8 +15,6 @@ outpath = "data/output-cased.txt"
 
 outpath_gpt2 = "data/output-qwen3.txt"
 
-EOT = "<|endoftext|>"
-
 ##########################################################################################
 def read_vocab(add_prefix_space=False, count=60032):
 
@@ -30,6 +28,7 @@ word_set = sorted(read_vocab(True)) + sorted(read_vocab(False))
 
 ##########################################################################################
 
+EOT = "<|endoftext|>"
 tokenizer_path  = "noomo"
 
 tokenizer = Tokenizer(BPE())
